@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Product_Name,Category,Price,Quantity,Discount_Percent,Final_Amount,Rating,Recommendation_Score,Payment_Method,City,Order_Date
+ORD0001,CUST3604,Student Product,Sports,461.85,3,17,1150.01,2,0.82,Net Banking,Madurai,5/19/2026
+ORD0002,CUST6399,Cut Product,Sports,152.68,2,38,189.32,2.2,0.48,Debit Card,Hyderabad,4/6/2026
+ORD0003,CUST9280,Including Product,Sports,2509.83,1,6,2359.24,1.4,0.95,UPI,Hyderabad,2/2/2026
+ORD0004,CUST4185,Government Product,Home,2358.35,4,39,5754.37,2.9,0.73,Credit Card,Chennai,12/22/2025
+ORD0005,CUST9588,Live Product,Sports,503.45,1,33,337.31,4.5,0.18,Cash on Delivery,Chennai,12/20/2025
+ORD0006,CUST4986,Common Product,Electronics,4624.51,1,1,4578.26,2.9,0.43,Net Banking,Madurai,6/27/2025
+ORD0007,CUST5645,Program Product,Fashion,2299.45,1,25,1724.59,4,0.44,Net Banking,Delhi,6/13/2025
+ORD0008,CUST4034,Best Product,Sports,4375.56,1,24,3325.43,1.5,0.31,Cash on Delivery,Mumbai,10/21/2025
+ORD0009,CUST7036,Product Product,Sports,4402.98,5,1,21794.75,4.9,0.16,Debit Card,Delhi,6/6/2025
+ORD0010,CUST2512,Most Product,Fashion,2077.56,3,5,5921.05,3.3,0.39,Debit Card,Chennai,11/7/2025
+ORD0011,CUST8356,Buy Product,Beauty,4331.73,1,16,3638.65,4.1,0.15,Cash on Delivery,Hyderabad,8/21/2025
+ORD0012,CUST6659,Lose Product,Home,1483.43,5,9,6749.61,4,0.58,Debit Card,Delhi,5/13/2026
+ORD0013,CUST7829,Answer Product,Beauty,4660.67,1,23,3588.72,4.2,0.18,Debit Card,Mumbai,1/27/2026
+ORD0014,CUST9820,Because Product,Electronics,3059.91,4,3,11872.45,1,0.78,Debit Card,Hyderabad,10/7/2025
+ORD0015,CUST1273,Start Product,Beauty,1287.63,4,19,4171.92,4.5,0.57,UPI,Mumbai,2/28/2026
+ORD0016,CUST7751,Catch Product,Electronics,1514.78,4,25,4544.34,1,0.75,Cash on Delivery,Chennai,1/13/2026
+ORD0017,CUST9590,Top Product,Books,2991.45,2,9,5444.44,1.4,0.09,Cash on Delivery,Hyderabad,1/9/2026
+ORD0018,CUST4624,Note Product,Electronics,3559.38,3,13,9289.98,3.9,0.18,Credit Card,Madurai,8/6/2025
+ORD0019,CUST7685,Rest Product,Electronics,452.52,3,34,895.99,4.6,0.37,Debit Card,Hyderabad,9/30/2025
+ORD0020,CUST5277,Business Product,Sports,117.09,1,17,97.18,4.8,0.33,Cash on Delivery,Bangalore,9/30/2025
+ORD0021,CUST3941,West Product,Fashion,1275.47,5,35,4145.28,1.2,0.75,Debit Card,Madurai,3/13/2026
+ORD0022,CUST3484,Maybe Product,Home,4678.31,2,28,6736.77,2.6,0.29,Debit Card,Chennai,6/29/2025
+ORD0023,CUST7101,Recently Product,Electronics,1755.28,1,31,1211.14,4.3,0.8,Net Banking,Chennai,3/17/2026
+ORD0024,CUST5619,That Product,Home,3673.96,1,25,2755.47,4.3,0.66,Cash on Delivery,Delhi,9/16/2025
+ORD0025,CUST9988,Hope Product,Beauty,2950.74,1,8,2714.68,1.1,0.89,Debit Card,Delhi,8/17/2025
+ORD0026,CUST1149,Population Product,Books,4759.93,3,37,8996.27,1.1,0.6,Net Banking,Hyderabad,4/25/2026
+ORD0027,CUST2059,Recognize Product,Sports,2615.29,1,3,2536.83,2.5,0.38,Credit Card,Chennai,12/24/2025
+ORD0028,CUST6354,Player Product,Fashion,4307.58,2,22,6719.82,3.4,0.81,Net Banking,Delhi,7/15/2025
+ORD0029,CUST4860,Determine Product,Books,3121.52,2,32,4245.27,4.6,0.72,Credit Card,Mumbai,1/14/2026
+ORD0030,CUST5669,Consumer Product,Home,2879.82,5,17,11951.25,2.4,0.84,Net Banking,Delhi,2/11/2026
+ORD0031,CUST1853,Movement Product,Electronics,3649.18,2,9,6641.51,1.2,0.09,Net Banking,Madurai,12/10/2025
+ORD0032,CUST5120,Gun Product,Electronics,2338.9,3,2,6876.37,1.5,0.73,Cash on Delivery,Madurai,11/29/2025
+ORD0033,CUST2190,So Product,Fashion,636.56,2,28,916.65,1.2,0.76,Credit Card,Hyderabad,5/29/2025
+ORD0034,CUST8063,Stay Product,Home,711.74,1,23,548.04,4.8,0.92,Credit Card,Madurai,3/22/2026
+ORD0035,CUST6288,Could Product,Electronics,1724.08,2,22,2689.56,1.6,0.58,Debit Card,Mumbai,10/6/2025
+ORD0036,CUST9808,Recent Product,Fashion,637.04,4,33,1707.27,2.1,0.72,Net Banking,Madurai,1/11/2026
+ORD0037,CUST7099,There Product,Beauty,3103.1,1,12,2730.73,4.3,0.41,Cash on Delivery,Delhi,7/6/2025
+ORD0038,CUST3252,Force Product,Sports,2101.6,4,38,5211.97,4.9,0.07,Cash on Delivery,Mumbai,12/8/2025
+ORD0039,CUST2573,Personal Product,Electronics,4598.51,4,14,15818.87,1.9,0.41,Net Banking,Hyderabad,5/7/2026
+ORD0040,CUST1366,Popular Product,Books,2868.29,2,17,4761.36,4.1,0.09,Cash on Delivery,Delhi,6/6/2025
+ORD0041,CUST8282,Usually Product,Books,338.47,3,15,863.1,2.2,0.51,UPI,Madurai,6/19/2025
+ORD0042,CUST7755,Woman Product,Home,4218.18,3,6,11895.27,2.9,0.02,UPI,Bangalore,1/3/2026
+ORD0043,CUST9428,Gas Product,Books,3061.73,4,35,7960.5,3.6,0.87,Net Banking,Madurai,10/31/2025
+ORD0044,CUST4578,Worry Product,Beauty,2898.82,5,5,13769.4,4.6,0.1,Net Banking,Bangalore,8/26/2025
+ORD0045,CUST5068,Technology Product,Home,3761.96,2,17,6244.85,3.7,0.37,UPI,Bangalore,1/9/2026
+ORD0046,CUST3922,Bit Product,Beauty,4381.94,1,22,3417.91,3.7,0.26,Credit Card,Delhi,3/25/2026
+ORD0047,CUST3425,Whether Product,Electronics,4140.58,4,30,11593.62,3.1,0.89,Debit Card,Mumbai,12/16/2025
+ORD0048,CUST8928,Hand Product,Home,3193.45,1,34,2107.68,2.5,0.43,Debit Card,Bangalore,10/7/2025
+ORD0049,CUST9884,Reality Product,Books,1017.73,1,6,956.67,3.5,0.42,UPI,Bangalore,5/19/2026
+ORD0050,CUST4112,Usually Product,Sports,127.08,3,7,354.55,2.6,0.28,Credit Card,Madurai,2/27/2026
+ORD0051,CUST4865,Nor Product,Fashion,1366.13,3,2,4016.42,3.6,0.38,Cash on Delivery,Delhi,4/5/2026
+ORD0052,CUST9644,Affect Product,Beauty,2332.42,2,25,3498.63,4.8,0.66,Net Banking,Chennai,10/30/2025
+ORD0053,CUST7640,Expect Product,Electronics,2722.28,4,5,10344.66,4.4,0.26,Net Banking,Madurai,10/13/2025
+ORD0054,CUST7220,World Product,Beauty,3497.89,5,10,15740.51,2.9,0.29,UPI,Delhi,2/9/2026
+ORD0055,CUST5363,Better Product,Electronics,2168.42,5,15,9215.78,4.4,0.81,UPI,Hyderabad,2/21/2026
+ORD0056,CUST7855,Public Product,Books,2190.9,3,10,5915.43,1.6,0.64,UPI,Bangalore,4/1/2026
+ORD0057,CUST3596,Woman Product,Electronics,3349.03,3,17,8339.08,3.3,0.1,UPI,Delhi,3/24/2026
+ORD0058,CUST3192,Writer Product,Fashion,2786.7,5,9,12679.49,4.8,0.79,UPI,Bangalore,12/26/2025
+ORD0059,CUST5365,Peace Product,Electronics,733.3,5,30,2566.55,4.8,0.24,Cash on Delivery,Delhi,4/26/2026
+ORD0060,CUST5004,Marriage Product,Fashion,2901.03,2,25,4351.55,3.9,0.3,Credit Card,Hyderabad,9/26/2025
+ORD0061,CUST1497,Recognize Product,Electronics,949.69,3,18,2336.24,3.7,0.5,Net Banking,Hyderabad,9/9/2025
+ORD0062,CUST3681,State Product,Sports,119.57,5,6,561.98,2.8,0.92,UPI,Hyderabad,9/3/2025
+ORD0063,CUST3123,Prepare Product,Sports,2555.92,4,33,6849.87,4.9,0.24,Cash on Delivery,Hyderabad,7/12/2025
+ORD0064,CUST6733,Environment Product,Books,1009.78,1,36,646.26,2.1,0.36,Credit Card,Bangalore,6/25/2025
+ORD0065,CUST4877,Order Product,Books,512.19,4,16,1720.96,4,0.42,Net Banking,Madurai,4/28/2026
+ORD0066,CUST4393,Half Product,Electronics,3132.64,4,0,12530.56,1.3,0.21,Debit Card,Mumbai,2/23/2026
+ORD0067,CUST3330,Author Product,Electronics,899.16,2,4,1726.39,1.8,0.88,UPI,Bangalore,1/12/2026
+ORD0068,CUST2547,Rather Product,Beauty,4725.56,5,16,19847.35,1.6,0.72,Debit Card,Hyderabad,6/6/2025
+ORD0069,CUST4708,Capital Product,Beauty,4050.05,5,31,13972.67,4.9,0.15,Net Banking,Delhi,9/23/2025
+ORD0070,CUST9042,Inside Product,Sports,2866.42,1,30,2006.49,3.8,0.74,Credit Card,Hyderabad,6/23/2025
+ORD0071,CUST6861,Once Product,Beauty,3943.96,4,17,13093.95,1.6,0.79,Debit Card,Hyderabad,5/13/2026
+ORD0072,CUST5976,Goal Product,Fashion,366.14,1,9,333.19,2.1,0.5,UPI,Delhi,10/13/2025
+ORD0073,CUST1936,Might Product,Home,2854.95,4,28,8222.26,4.4,0.64,Credit Card,Mumbai,10/25/2025
+ORD0074,CUST4741,Customer Product,Beauty,2758.65,5,31,9517.34,4,0.64,UPI,Madurai,12/29/2025
+ORD0075,CUST1204,Leader Product,Books,972.68,1,34,641.97,1.6,0.59,Credit Card,Bangalore,9/12/2025
+ORD0076,CUST6740,Social Product,Fashion,1250.22,2,17,2075.37,4.3,0.27,Cash on Delivery,Chennai,7/30/2025
+ORD0077,CUST4737,Land Product,Beauty,3038.05,5,12,13367.42,2.1,0.53,Credit Card,Madurai,3/12/2026
+ORD0078,CUST7022,Chance Product,Fashion,2002.54,5,19,8110.29,2.8,0.33,Credit Card,Bangalore,3/2/2026
+ORD0079,CUST5587,Difference Product,Sports,3868.79,1,23,2978.97,4.7,0.65,Cash on Delivery,Madurai,4/19/2026
+ORD0080,CUST4890,Information Product,Sports,2222.32,1,26,1644.52,4.8,0.51,Debit Card,Hyderabad,3/8/2026
+ORD0081,CUST6309,Able Product,Sports,900,4,29,2556,2.4,0.48,Credit Card,Madurai,2/23/2026
+ORD0082,CUST6885,Power Product,Fashion,2715.2,1,11,2416.53,4.3,0.62,Cash on Delivery,Delhi,7/2/2025
+ORD0083,CUST7840,Daughter Product,Sports,4756.41,4,28,13698.46,2.9,0.03,Net Banking,Chennai,1/7/2026
+ORD0084,CUST6907,Yard Product,Books,2319.42,1,34,1530.82,1.5,0.99,Debit Card,Madurai,9/24/2025
+ORD0085,CUST3919,Improve Product,Sports,617.97,3,27,1353.35,4.1,1,Debit Card,Madurai,12/26/2025
+ORD0086,CUST9389,Necessary Product,Home,3369.44,1,16,2830.33,4.9,0.42,Credit Card,Chennai,6/1/2025
+ORD0087,CUST4900,Per Product,Fashion,420.89,5,7,1957.14,1.9,0.59,UPI,Chennai,4/16/2026
+ORD0088,CUST1326,Country Product,Fashion,1151.15,4,13,4006,3.3,0.13,UPI,Bangalore,5/14/2026
+ORD0089,CUST4511,Third Product,Home,708.07,2,9,1288.69,2.1,0.73,UPI,Hyderabad,6/29/2025
+ORD0090,CUST7766,Ok Product,Beauty,954.97,2,8,1757.14,1.3,0.81,Debit Card,Bangalore,5/18/2026
+ORD0091,CUST5548,Station Product,Fashion,2843.69,3,20,6824.86,2.4,0.46,Net Banking,Madurai,8/13/2025
+ORD0092,CUST5176,Source Product,Fashion,559.68,2,14,962.65,3.2,0.86,Net Banking,Delhi,10/25/2025
+ORD0093,CUST5621,West Product,Home,3111.85,1,32,2116.06,3.3,0.36,Net Banking,Bangalore,8/2/2025
+ORD0094,CUST2956,Great Product,Fashion,1861.29,4,4,7147.35,3.2,0.37,UPI,Bangalore,9/19/2025
+ORD0095,CUST1636,Among Product,Electronics,290.62,5,7,1351.38,2.8,0.01,UPI,Madurai,7/11/2025
+ORD0096,CUST6188,Both Product,Home,3557.64,2,29,5051.85,1.5,0.47,Cash on Delivery,Hyderabad,8/12/2025
+ORD0097,CUST7387,Suggest Product,Electronics,2204.88,5,22,8599.03,3.3,0.54,Cash on Delivery,Madurai,9/28/2025
+ORD0098,CUST6651,Back Product,Sports,456.64,2,28,657.56,1.7,0.88,Cash on Delivery,Madurai,9/5/2025
+ORD0099,CUST8374,Image Product,Home,3076.8,2,28,4430.59,1.8,0.97,Net Banking,Bangalore,10/3/2025
+ORD0100,CUST2431,Degree Product,Home,4132.14,4,9,15040.99,2.2,0.74,Debit Card,Delhi,4/8/2026
+ORD0101,CUST9864,Impact Product,Books,1932.81,3,3,5624.48,3.3,0.48,UPI,Madurai,4/27/2026
+ORD0102,CUST2645,Bed Product,Books,2677.57,2,29,3802.15,4.4,0.48,Debit Card,Chennai,1/28/2026
+ORD0103,CUST4449,Evening Product,Beauty,3201,3,11,8546.67,1.2,0.58,Net Banking,Bangalore,12/9/2025
+ORD0104,CUST9385,Fast Product,Home,1824.23,1,18,1495.87,2.5,0.72,Credit Card,Madurai,12/9/2025
+ORD0105,CUST8690,Several Product,Beauty,3380.15,1,1,3346.35,1.5,0.64,Net Banking,Chennai,5/11/2026
+ORD0106,CUST8269,Business Product,Sports,3119.64,4,35,8111.06,3.2,0.35,Credit Card,Madurai,8/27/2025
+ORD0107,CUST6384,Ten Product,Electronics,2887.11,1,9,2627.27,5,0.21,Debit Card,Chennai,2/26/2026
+ORD0108,CUST6051,Modern Product,Home,2641.83,4,1,10461.65,4.3,0.04,Credit Card,Madurai,2/28/2026
+ORD0109,CUST3665,Executive Product,Books,1787.23,2,18,2931.06,1.7,0.46,UPI,Madurai,5/18/2026
+ORD0110,CUST5991,Hospital Product,Sports,3435.62,4,36,8795.19,4.3,0.37,Net Banking,Mumbai,8/21/2025
+ORD0111,CUST6032,Democrat Product,Fashion,3105.38,4,29,8819.28,1.3,0.79,Credit Card,Hyderabad,3/25/2026
+ORD0112,CUST8013,Speech Product,Sports,1978.72,3,35,3858.5,3.5,0.07,Credit Card,Chennai,1/17/2026
+ORD0113,CUST9625,Might Product,Fashion,2529.89,5,10,11384.5,2,0.39,UPI,Hyderabad,9/3/2025
+ORD0114,CUST5765,Speech Product,Fashion,1694.07,5,6,7962.13,4.4,0.54,UPI,Delhi,4/2/2026
+ORD0115,CUST7383,Big Product,Sports,1722.6,4,36,4409.86,5,0.04,Cash on Delivery,Chennai,11/27/2025
+ORD0116,CUST8139,Indicate Product,Beauty,3173,5,38,9836.3,3.8,0.45,Net Banking,Hyderabad,7/26/2025
+ORD0117,CUST9663,Indicate Product,Books,1540.39,2,23,2372.2,2.9,0.34,Cash on Delivery,Chennai,12/22/2025
+ORD0118,CUST9386,Student Product,Electronics,3811.94,2,16,6404.06,1.5,0.82,Credit Card,Hyderabad,7/13/2025
+ORD0119,CUST9095,Majority Product,Sports,3205.79,2,15,5449.84,3.4,0.01,Debit Card,Madurai,1/22/2026
+ORD0120,CUST9674,Site Product,Fashion,231.19,5,11,1028.8,1.9,0.3,UPI,Bangalore,3/8/2026
+ORD0121,CUST8114,Place Product,Home,2129.15,5,21,8410.14,3.9,0.87,Net Banking,Hyderabad,3/15/2026
+ORD0122,CUST6472,Study Product,Electronics,1530.68,5,16,6428.86,4.7,0.88,Credit Card,Hyderabad,11/3/2025
+ORD0123,CUST4332,Even Product,Fashion,880.77,5,16,3699.23,3.2,0.87,Net Banking,Bangalore,3/2/2026
+ORD0124,CUST4589,Course Product,Books,4100.8,4,18,13450.62,1.4,0.25,UPI,Madurai,7/28/2025
+ORD0125,CUST8890,Property Product,Books,4644.64,3,23,10729.12,4,0.9,Cash on Delivery,Hyderabad,10/15/2025
+ORD0126,CUST8749,Party Product,Sports,1125.81,3,14,2904.59,1.3,0.46,UPI,Madurai,6/1/2025
+ORD0127,CUST2180,Right Product,Sports,4342.34,5,12,19106.3,3,0.72,Net Banking,Hyderabad,6/13/2025
+ORD0128,CUST3959,Music Product,Sports,267.91,1,26,198.25,1.6,0.25,Net Banking,Madurai,8/11/2025
+ORD0129,CUST9507,Sing Product,Home,1783.01,5,2,8736.75,4.7,0.38,Net Banking,Madurai,12/17/2025
+ORD0130,CUST4251,Happy Product,Fashion,2523.21,2,10,4541.78,2.4,0.24,Cash on Delivery,Hyderabad,7/29/2025
+ORD0131,CUST5238,Summer Product,Electronics,3154.78,3,19,7666.12,5,0.88,Cash on Delivery,Delhi,3/6/2026
+ORD0132,CUST9281,Identify Product,Sports,2598.66,2,18,4261.8,1.6,0.98,UPI,Delhi,11/26/2025
+ORD0133,CUST2247,Pretty Product,Home,4125.13,3,23,9529.05,3.4,0.41,Net Banking,Hyderabad,1/1/2026
+ORD0134,CUST4615,Billion Product,Fashion,2852.21,2,22,4449.45,1.4,0.01,Credit Card,Bangalore,3/29/2026
+ORD0135,CUST7125,Down Product,Books,2559.3,5,3,12412.6,3.8,0.12,Credit Card,Delhi,11/30/2025
+ORD0136,CUST5005,Around Product,Fashion,3990.99,4,17,13250.09,4.9,0.89,Net Banking,Mumbai,7/4/2025
+ORD0137,CUST1080,Official Product,Home,1624.58,1,14,1397.14,2.9,0.75,Credit Card,Bangalore,11/23/2025
+ORD0138,CUST3254,Only Product,Electronics,178.62,5,17,741.27,2.5,0.07,Cash on Delivery,Madurai,6/22/2025
+ORD0139,CUST6404,Party Product,Fashion,2046.83,4,17,6795.48,4.4,0.09,Net Banking,Madurai,10/12/2025
+ORD0140,CUST6457,Fast Product,Sports,1378.02,1,38,854.37,2.4,0.72,Debit Card,Madurai,1/24/2026
+ORD0141,CUST1381,Few Product,Sports,4963.42,3,8,13699.04,1.3,0.5,Debit Card,Chennai,6/21/2025
+ORD0142,CUST3458,Everyone Product,Fashion,3373.57,4,23,10390.6,3.3,0.42,Net Banking,Madurai,1/23/2026
+ORD0143,CUST6067,Money Product,Fashion,3110.37,2,34,4105.69,4.1,0.88,Net Banking,Chennai,1/8/2026
+ORD0144,CUST8879,Main Product,Beauty,2319.1,5,1,11479.55,2.7,0.51,Credit Card,Madurai,9/9/2025
+ORD0145,CUST7042,Ball Product,Sports,4929.35,5,38,15280.99,3.4,0.27,Cash on Delivery,Chennai,11/12/2025
+ORD0146,CUST3787,Impact Product,Books,1380.82,3,25,3106.85,2.1,0.26,Credit Card,Hyderabad,8/27/2025
+ORD0147,CUST2233,Special Product,Sports,3763.66,2,39,4591.67,1.3,0.86,Cash on Delivery,Chennai,1/6/2026
+ORD0148,CUST5848,Chair Product,Fashion,3456.43,2,21,5461.16,3.2,0.21,Debit Card,Chennai,4/12/2026
+ORD0149,CUST1015,Father Product,Home,4724.2,2,2,9259.43,3.1,0.39,Debit Card,Mumbai,4/10/2026
+ORD0150,CUST8059,Interesting Product,Home,2273.47,5,27,8298.17,4.9,0.34,Debit Card,Bangalore,10/18/2025
+ORD0151,CUST8806,Right Product,Fashion,4049.9,5,14,17414.57,3.1,0.68,Credit Card,Chennai,2/12/2026
+ORD0152,CUST8298,Ask Product,Electronics,2107.59,2,27,3077.08,1.7,0.66,Net Banking,Delhi,9/4/2025
+ORD0153,CUST9520,Floor Product,Fashion,759.62,4,13,2643.48,4.2,0.93,UPI,Madurai,3/13/2026
+ORD0154,CUST8910,Money Product,Fashion,151.49,5,15,643.83,2.9,0.52,Cash on Delivery,Mumbai,4/28/2026
+ORD0155,CUST7321,Job Product,Fashion,2505.22,4,3,9720.25,2.7,0.29,Cash on Delivery,Mumbai,4/25/2026
+ORD0156,CUST1660,Choice Product,Fashion,3712.07,4,22,11581.66,4.8,0.3,Credit Card,Hyderabad,4/6/2026
+ORD0157,CUST8110,Fly Product,Beauty,2880.09,2,38,3571.31,2.4,0.03,Credit Card,Hyderabad,10/22/2025
+ORD0158,CUST4272,Sister Product,Sports,4966.13,2,13,8641.07,4.2,0.97,Cash on Delivery,Delhi,1/3/2026
+ORD0159,CUST1669,Everything Product,Fashion,3690.54,2,39,4502.46,4,0.46,UPI,Bangalore,9/13/2025
+ORD0160,CUST5113,Chance Product,Books,4372.07,5,13,19018.5,1.5,0.41,Net Banking,Bangalore,3/4/2026
+ORD0161,CUST3521,Their Product,Electronics,3783.47,4,14,13015.14,4.7,0.39,UPI,Bangalore,11/4/2025
+ORD0162,CUST1404,Fire Product,Fashion,2261.57,4,31,6241.93,3.4,0.64,UPI,Delhi,8/8/2025
+ORD0163,CUST8308,President Product,Fashion,2805.55,4,21,8865.54,4.6,0.21,Cash on Delivery,Hyderabad,7/5/2025
+ORD0164,CUST4029,Fear Product,Sports,688.17,2,21,1087.31,4.7,0.42,UPI,Bangalore,1/7/2026
+ORD0165,CUST2324,Without Product,Electronics,151.87,3,21,359.93,2.8,0.59,Credit Card,Madurai,6/27/2025
+ORD0166,CUST6878,Husband Product,Fashion,3343.63,5,17,13876.06,1.3,0.27,Net Banking,Madurai,7/28/2025
+ORD0167,CUST9932,Court Product,Beauty,2150.14,5,16,9030.59,1.6,0.33,Credit Card,Mumbai,7/22/2025
+ORD0168,CUST9306,Hand Product,Sports,3690.97,4,17,12254.02,3.5,0.35,Cash on Delivery,Mumbai,5/11/2026
+ORD0169,CUST9728,Score Product,Sports,2739.08,4,33,7340.73,1.3,0.35,UPI,Bangalore,5/25/2025
+ORD0170,CUST2861,Would Product,Sports,1128.38,1,15,959.12,3.8,0.77,Credit Card,Delhi,1/9/2026
+ORD0171,CUST2263,With Product,Home,4347.34,1,29,3086.61,3.9,0.63,Credit Card,Delhi,8/8/2025
+ORD0172,CUST3307,Bag Product,Fashion,2669.39,4,18,8755.6,3.3,0.53,Cash on Delivery,Hyderabad,1/30/2026
+ORD0173,CUST9132,Once Product,Books,159.58,5,14,686.19,1.2,0,Credit Card,Bangalore,10/11/2025
+ORD0174,CUST7519,Above Product,Home,1487.7,2,15,2529.09,1.9,0.08,Net Banking,Mumbai,10/7/2025
+ORD0175,CUST5032,Seem Product,Sports,832.65,1,17,691.1,4.4,0.08,Debit Card,Delhi,7/3/2025
+ORD0176,CUST5784,Anyone Product,Beauty,496.08,1,39,302.61,2.9,0.08,Debit Card,Chennai,10/1/2025
+ORD0177,CUST6119,Win Product,Beauty,4095.55,5,29,14539.2,3.1,0.04,Cash on Delivery,Delhi,3/8/2026
+ORD0178,CUST8777,Room Product,Beauty,107.23,3,14,276.65,3.9,0.66,UPI,Hyderabad,6/6/2025
+ORD0179,CUST1786,Choice Product,Beauty,1508.66,1,5,1433.23,2.5,0.67,UPI,Delhi,1/20/2026
+ORD0180,CUST1997,Argue Product,Beauty,4025.5,3,20,9661.2,1.3,0.46,Credit Card,Chennai,5/22/2025
+ORD0181,CUST5076,Parent Product,Electronics,531.51,5,37,1674.26,2.4,0.97,Debit Card,Hyderabad,2/27/2026
+ORD0182,CUST5120,Support Product,Books,2466.98,2,19,3996.51,2.4,0.56,UPI,Hyderabad,11/19/2025
+ORD0183,CUST8826,Woman Product,Home,3214.86,3,2,9451.69,4.8,0.65,Cash on Delivery,Delhi,9/30/2025
+ORD0184,CUST1497,There Product,Fashion,3466.17,2,2,6793.69,4.6,0.71,Net Banking,Hyderabad,2/4/2026
+ORD0185,CUST4315,Decide Product,Electronics,2742.21,2,25,4113.32,4.9,0.56,UPI,Madurai,7/18/2025
+ORD0186,CUST3537,Interview Product,Beauty,2858.24,1,24,2172.26,4.3,0.57,Debit Card,Mumbai,8/3/2025
+ORD0187,CUST4706,Difference Product,Electronics,3373.48,4,39,8231.29,1.1,0.03,Credit Card,Hyderabad,6/24/2025
+ORD0188,CUST3531,Parent Product,Fashion,2964.51,2,6,5573.28,2.6,0.78,Net Banking,Delhi,2/6/2026
+ORD0189,CUST3346,Leave Product,Home,400.6,4,6,1506.26,4.4,0.71,Net Banking,Delhi,9/24/2025
+ORD0190,CUST8305,He Product,Beauty,4692.54,1,30,3284.78,3.5,0.83,Debit Card,Delhi,2/27/2026
+ORD0191,CUST1676,Make Product,Home,2948.35,1,22,2299.71,2.5,0.45,Credit Card,Chennai,5/31/2025
+ORD0192,CUST4325,Next Product,Sports,3255.33,2,34,4297.04,1.1,0.84,Cash on Delivery,Delhi,2/4/2026
+ORD0193,CUST8584,His Product,Fashion,4055.44,4,12,14275.15,3,0.5,Credit Card,Madurai,8/16/2025
+ORD0194,CUST6536,Civil Product,Fashion,4435.64,5,13,19295.03,3.2,0.8,Net Banking,Delhi,6/1/2025
+ORD0195,CUST4681,Democratic Product,Electronics,1537.68,2,31,2122,4.4,0.63,Cash on Delivery,Chennai,12/15/2025
+ORD0196,CUST1694,Hour Product,Fashion,4686.15,4,8,17245.03,4.1,0.77,Credit Card,Chennai,12/24/2025
+ORD0197,CUST8505,Leader Product,Electronics,2824.72,2,2,5536.45,3.9,0.34,Credit Card,Delhi,1/25/2026
+ORD0198,CUST6028,Remain Product,Home,1440.24,1,14,1238.61,4.8,0.8,Net Banking,Mumbai,11/8/2025
+ORD0199,CUST8085,Floor Product,Home,3794.44,5,21,14988.04,2,0.71,Debit Card,Madurai,11/2/2025
+ORD0200,CUST5378,Off Product,Home,370.8,5,6,1742.76,1.1,0.9,Debit Card,Delhi,8/13/2025
+ORD0201,CUST5480,Science Product,Sports,1856.28,2,28,2673.04,2.9,0.6,Credit Card,Hyderabad,6/21/2025
+ORD0202,CUST1292,Concern Product,Beauty,797.22,2,8,1466.88,1.1,0.94,Credit Card,Chennai,8/14/2025
+ORD0203,CUST5602,Mention Product,Sports,4461.95,2,1,8834.66,4.4,0.99,Debit Card,Hyderabad,10/3/2025
+ORD0204,CUST6773,Outside Product,Home,222.46,3,19,540.58,2.4,0.73,Debit Card,Mumbai,6/20/2025
+ORD0205,CUST5116,Town Product,Sports,499.69,5,38,1549.04,1.4,0.58,Debit Card,Madurai,8/13/2025
+ORD0206,CUST1795,Detail Product,Sports,636.78,3,39,1165.31,2.3,0.09,Credit Card,Hyderabad,6/2/2025
+ORD0207,CUST4089,Practice Product,Home,3870.72,2,37,4877.11,3,0.76,Credit Card,Delhi,5/2/2026
+ORD0208,CUST7773,Rock Product,Electronics,3902.41,4,26,11551.13,2.4,0.78,UPI,Bangalore,3/12/2026
+ORD0209,CUST2406,Thus Product,Home,3142.84,4,8,11565.65,3.6,0.59,UPI,Chennai,6/12/2025
+ORD0210,CUST8650,Magazine Product,Sports,4879.75,5,33,16347.16,1.5,0.57,Net Banking,Hyderabad,3/31/2026
+ORD0211,CUST3283,About Product,Books,656.8,3,25,1477.8,3,0.19,Net Banking,Hyderabad,5/15/2026
+ORD0212,CUST1077,Reach Product,Sports,1821.52,3,14,4699.52,3.5,0.04,Net Banking,Mumbai,11/28/2025
+ORD0213,CUST9503,About Product,Books,2436.46,3,20,5847.5,4.4,0.27,Net Banking,Bangalore,4/12/2026
+ORD0214,CUST2478,Raise Product,Beauty,3572.12,4,5,13574.06,1.8,0.77,Cash on Delivery,Chennai,6/23/2025
+ORD0215,CUST8243,Visit Product,Beauty,4189.1,5,20,16756.4,1.1,0.2,Net Banking,Madurai,6/26/2025
+ORD0216,CUST4897,Main Product,Sports,1884.11,2,33,2524.71,4.4,0.99,UPI,Hyderabad,4/22/2026
+ORD0217,CUST6380,Surface Product,Fashion,1615.06,4,23,4974.38,1.8,0.54,Debit Card,Delhi,4/30/2026
+ORD0218,CUST8953,None Product,Fashion,3258.85,4,17,10819.38,2.3,0.01,Cash on Delivery,Delhi,9/9/2025
+ORD0219,CUST1143,Under Product,Sports,4645.95,3,21,11010.9,3.6,0.27,UPI,Hyderabad,8/17/2025
+ORD0220,CUST2504,Friend Product,Sports,4797.1,4,19,15542.6,2.5,1,Credit Card,Chennai,8/24/2025
+ORD0221,CUST1903,Effect Product,Fashion,1926.18,2,23,2966.32,1.3,0.3,Net Banking,Chennai,4/3/2026
+ORD0222,CUST1352,Red Product,Fashion,3403.48,3,17,8474.67,4.2,0.45,Debit Card,Chennai,4/29/2026
+ORD0223,CUST1490,Here Product,Fashion,1488.41,2,29,2113.54,4,0.21,UPI,Mumbai,10/10/2025
+ORD0224,CUST2661,Look Product,Fashion,606.14,2,39,739.49,3.9,0.29,UPI,Chennai,12/13/2025
+ORD0225,CUST8471,Citizen Product,Fashion,369.61,5,1,1829.57,3.2,0.51,Credit Card,Mumbai,4/5/2026
+ORD0226,CUST6366,Voice Product,Electronics,1182.26,3,40,2128.07,3.1,0.25,Debit Card,Bangalore,6/28/2025
+ORD0227,CUST8869,Pick Product,Books,4818.33,1,21,3806.48,1.3,0.47,Net Banking,Madurai,9/20/2025
+ORD0228,CUST6887,Real Product,Books,4791.65,4,10,17249.94,4.7,0.67,UPI,Madurai,6/29/2025
+ORD0229,CUST6071,Interest Product,Electronics,2796.66,1,7,2600.89,1.5,0.2,UPI,Bangalore,9/16/2025
+ORD0230,CUST7688,Single Product,Sports,4220.76,5,1,20892.76,2.8,0.14,Cash on Delivery,Bangalore,3/6/2026
+ORD0231,CUST2491,Herself Product,Books,165.43,5,10,744.44,3,0.68,Cash on Delivery,Mumbai,7/9/2025
+ORD0232,CUST5145,Responsibility Product,Books,3645.61,2,23,5614.24,4.6,0.04,UPI,Madurai,9/23/2025
+ORD0233,CUST6083,Down Product,Books,3097.05,3,7,8640.77,3.4,0.24,Cash on Delivery,Chennai,3/3/2026
+ORD0234,CUST5048,Force Product,Electronics,3109.45,4,27,9079.59,1.4,0.17,Net Banking,Mumbai,5/18/2026
+ORD0235,CUST5292,Commercial Product,Sports,3651.16,5,11,16247.66,1.8,0.31,UPI,Mumbai,5/18/2026
+ORD0236,CUST7143,Oil Product,Sports,4817.78,1,21,3806.05,4.6,0.82,Credit Card,Mumbai,8/21/2025
+ORD0237,CUST3225,Involve Product,Beauty,704.13,3,40,1267.43,1.5,0.4,Net Banking,Delhi,11/28/2025
+ORD0238,CUST1713,Include Product,Books,2601.14,1,39,1586.7,3.6,0.23,UPI,Bangalore,11/26/2025
+ORD0239,CUST1200,Say Product,Electronics,2856.57,4,23,8798.24,3.6,0.29,Credit Card,Delhi,4/24/2026
+ORD0240,CUST6344,Month Product,Home,4976.78,4,2,19508.98,3.3,0.2,Net Banking,Madurai,5/31/2025
+ORD0241,CUST4510,Deep Product,Home,680.79,5,11,3029.52,3.2,0.7,Net Banking,Bangalore,4/23/2026
+ORD0242,CUST1713,Space Product,Electronics,2232.39,5,12,9822.52,3,0.78,Net Banking,Delhi,11/9/2025
+ORD0243,CUST3999,Early Product,Beauty,2412.17,3,5,6874.68,1.8,0.39,Net Banking,Madurai,3/20/2026
+ORD0244,CUST6636,Stuff Product,Fashion,2125.57,2,9,3868.54,2.9,0.64,Credit Card,Delhi,8/19/2025
+ORD0245,CUST3993,Behavior Product,Fashion,1376.54,5,24,5230.85,2.3,0.94,Credit Card,Hyderabad,7/21/2025
+ORD0246,CUST7811,Minute Product,Beauty,4475.14,5,2,21928.19,1.5,0.04,Net Banking,Chennai,3/15/2026
+ORD0247,CUST8690,Boy Product,Sports,721.2,2,3,1399.13,4.1,0.68,UPI,Bangalore,8/5/2025
+ORD0248,CUST8592,Ok Product,Books,2931.66,5,37,9234.73,2.9,0.25,Debit Card,Mumbai,3/23/2026
+ORD0249,CUST1510,Entire Product,Electronics,2945.78,1,38,1826.38,2.3,0.98,Debit Card,Madurai,4/3/2026
+ORD0250,CUST8432,Sign Product,Fashion,3984.6,3,13,10399.81,1.3,0.79,Cash on Delivery,Mumbai,12/6/2025
+ORD0251,CUST6731,Seek Product,Books,1162.35,1,40,697.41,4,0.31,Net Banking,Bangalore,4/28/2026
+ORD0252,CUST6130,Perhaps Product,Home,3600.7,1,35,2340.45,1.5,0.89,Credit Card,Mumbai,9/18/2025
+ORD0253,CUST9653,Prevent Product,Books,4460.74,1,26,3300.95,2.6,0.28,Debit Card,Delhi,3/1/2026
+ORD0254,CUST5399,Require Product,Fashion,797.16,3,20,1913.18,4.8,0.55,Net Banking,Bangalore,5/1/2026
+ORD0255,CUST2671,Many Product,Fashion,2771.63,4,2,10864.79,1.5,0.57,UPI,Delhi,8/23/2025
+ORD0256,CUST7199,Expert Product,Books,2469.91,5,36,7903.71,2.7,0.21,Debit Card,Mumbai,6/21/2025
+ORD0257,CUST7290,Knowledge Product,Home,4729.46,1,17,3925.45,4.1,0.21,Credit Card,Mumbai,8/20/2025
+ORD0258,CUST4650,Soon Product,Sports,3726.26,1,27,2720.17,4.4,0.96,Debit Card,Delhi,11/2/2025
+ORD0259,CUST5198,Carry Product,Fashion,2005.23,1,35,1303.4,2.5,0.12,Credit Card,Hyderabad,3/19/2026
+ORD0260,CUST9818,Dog Product,Home,4140.57,3,4,11924.84,4,0.51,Credit Card,Madurai,6/21/2025
+ORD0261,CUST8983,Expect Product,Sports,2707.27,3,16,6822.32,3.9,0.62,Debit Card,Delhi,5/2/2026
+ORD0262,CUST8642,Police Product,Home,1600.14,1,21,1264.11,1.6,0.62,Debit Card,Chennai,7/8/2025
+ORD0263,CUST4443,Add Product,Books,604.16,3,7,1685.61,2.1,0.36,Net Banking,Hyderabad,8/9/2025
+ORD0264,CUST2410,Against Product,Sports,4679.93,5,32,15911.76,2.1,0.72,Credit Card,Madurai,3/10/2026
+ORD0265,CUST2452,Sit Product,Books,3991.78,4,0,15967.12,2.8,0.65,UPI,Madurai,10/22/2025
+ORD0266,CUST2095,Either Product,Books,4632.52,1,8,4261.92,3,0.42,Credit Card,Hyderabad,10/28/2025
+ORD0267,CUST4855,Between Product,Sports,3382.66,4,5,12854.11,3.1,0.34,Debit Card,Mumbai,9/9/2025
+ORD0268,CUST1935,Age Product,Beauty,4077.94,3,30,8563.67,1.5,0.93,Debit Card,Madurai,7/26/2025
+ORD0269,CUST5637,Expert Product,Home,1565.19,4,4,6010.33,2.3,0.11,Debit Card,Madurai,11/27/2025
+ORD0270,CUST9204,Way Product,Beauty,665.81,3,23,1538.02,4,0.81,Credit Card,Bangalore,4/13/2026
+ORD0271,CUST3789,Ten Product,Fashion,192.92,5,6,906.72,2,0.9,UPI,Madurai,8/19/2025
+ORD0272,CUST3126,School Product,Electronics,2831.61,2,38,3511.2,3.4,0.1,Credit Card,Delhi,10/24/2025
+ORD0273,CUST2406,Scene Product,Sports,222.32,5,32,755.89,1.5,0.93,Debit Card,Chennai,9/7/2025
+ORD0274,CUST8563,Determine Product,Sports,4059.24,3,29,8646.18,4.1,0.15,Credit Card,Chennai,11/30/2025
+ORD0275,CUST6765,Develop Product,Electronics,3362.43,5,33,11264.14,3,0.69,Credit Card,Bangalore,12/6/2025
+ORD0276,CUST3683,Safe Product,Home,1464.62,1,39,893.42,4.8,0.89,UPI,Mumbai,10/1/2025
+ORD0277,CUST7361,Paper Product,Sports,2567.18,4,6,9652.6,1.9,0.97,Net Banking,Bangalore,11/2/2025
+ORD0278,CUST7858,Federal Product,Beauty,3550.77,4,34,9374.03,4.6,0.73,Cash on Delivery,Hyderabad,5/18/2026
+ORD0279,CUST1791,Evening Product,Fashion,162.72,4,12,572.77,4.9,0.42,Cash on Delivery,Chennai,8/28/2025
+ORD0280,CUST3446,Somebody Product,Beauty,2248.96,2,1,4452.94,1.6,0.85,Net Banking,Madurai,12/27/2025
+ORD0281,CUST1133,Guess Product,Sports,1834.62,1,39,1119.12,2.1,0.29,UPI,Bangalore,5/30/2025
+ORD0282,CUST6809,Police Product,Fashion,2307.84,4,37,5815.76,3.1,0.82,Credit Card,Bangalore,8/14/2025
+ORD0283,CUST6047,Wrong Product,Books,4323.9,1,31,2983.49,1.5,0.74,UPI,Delhi,4/26/2026
+ORD0284,CUST4682,Create Product,Books,1846.32,1,5,1754,3.3,0.25,UPI,Hyderabad,2/24/2026
+ORD0285,CUST1251,Impact Product,Electronics,3937.42,1,22,3071.19,3.6,0.38,UPI,Hyderabad,12/11/2025
+ORD0286,CUST8599,Somebody Product,Sports,743.76,2,10,1338.77,4.1,0.1,UPI,Bangalore,5/15/2026
+ORD0287,CUST5072,Memory Product,Electronics,4734.81,3,29,10085.15,1.2,0.89,UPI,Madurai,8/16/2025
+ORD0288,CUST1163,Trial Product,Sports,4326.59,5,40,12979.77,1.1,0.24,Net Banking,Delhi,6/26/2025
+ORD0289,CUST7645,Cold Product,Books,4065.34,2,22,6341.93,4.8,0.85,Debit Card,Madurai,2/1/2026
+ORD0290,CUST7179,Commercial Product,Beauty,649.36,1,32,441.56,1.5,0.59,Debit Card,Delhi,8/16/2025
+ORD0291,CUST6739,Suddenly Product,Beauty,4589.22,3,13,11977.86,4.3,0.5,Net Banking,Bangalore,11/9/2025
+ORD0292,CUST4201,News Product,Sports,2743.26,1,21,2167.18,4.9,0.89,UPI,Bangalore,6/3/2025
+ORD0293,CUST5528,State Product,Fashion,4302.25,3,23,9938.2,1.6,0.62,Debit Card,Madurai,1/17/2026
+ORD0294,CUST5901,Theory Product,Sports,1318.18,2,18,2161.82,2.3,0.87,UPI,Mumbai,6/3/2025
+ORD0295,CUST4837,Even Product,Beauty,3611.55,5,30,12640.42,2.2,0.26,Credit Card,Chennai,7/4/2025
+ORD0296,CUST8715,Dark Product,Electronics,2429.37,2,14,4178.52,2.4,0.37,Net Banking,Madurai,6/29/2025
+ORD0297,CUST1382,Various Product,Fashion,2552.34,2,18,4185.84,3.8,0.69,Net Banking,Hyderabad,10/15/2025
+ORD0298,CUST1867,Lay Product,Sports,1983.36,4,36,5077.4,4,0.03,Net Banking,Mumbai,4/5/2026
+ORD0299,CUST4311,Truth Product,Electronics,834.94,2,38,1035.33,4.2,0.42,Credit Card,Mumbai,6/16/2025
+ORD0300,CUST8625,Officer Product,Electronics,1873.64,1,31,1292.81,3.4,0.14,Net Banking,Mumbai,11/18/2025
+ORD0301,CUST3287,Wait Product,Books,4235.73,5,37,13342.55,1.7,0.51,Debit Card,Chennai,12/6/2025
+ORD0302,CUST2726,Series Product,Sports,4606.76,3,17,11470.83,4.8,0.25,UPI,Chennai,5/12/2026
+ORD0303,CUST7793,Range Product,Fashion,2001.36,1,40,1200.82,2,0.28,Cash on Delivery,Chennai,3/23/2026
+ORD0304,CUST4651,Increase Product,Beauty,4729.66,3,8,13053.86,3.5,0.93,Debit Card,Madurai,6/30/2025
+ORD0305,CUST5297,Prevent Product,Fashion,4613.09,4,31,12732.13,4.1,0.61,Credit Card,Bangalore,1/16/2026
+ORD0306,CUST1898,Blood Product,Fashion,2577.11,2,23,3968.75,3.7,0.21,Net Banking,Chennai,4/7/2026
+ORD0307,CUST1871,Fear Product,Home,443.35,2,3,860.1,2.5,0.97,UPI,Delhi,5/3/2026
+ORD0308,CUST1715,Media Product,Home,2567.61,3,8,7086.6,1.2,0.78,Debit Card,Chennai,3/23/2026
+ORD0309,CUST7077,Father Product,Home,1127.24,2,18,1848.67,1.8,0.04,Net Banking,Madurai,8/13/2025
+ORD0310,CUST6637,Physical Product,Sports,4982.51,4,36,12755.23,1.6,0.59,Credit Card,Bangalore,1/8/2026
+ORD0311,CUST6032,Ever Product,Home,3783.09,4,30,10592.65,1.6,0.25,Cash on Delivery,Hyderabad,3/12/2026
+ORD0312,CUST4888,Stage Product,Electronics,2080.17,1,29,1476.92,2.2,0.71,Credit Card,Hyderabad,6/19/2025
+ORD0313,CUST1507,Source Product,Fashion,4352.21,4,27,12708.45,2.1,0.32,Credit Card,Delhi,1/6/2026
+ORD0314,CUST8600,Experience Product,Beauty,1932.16,2,24,2936.88,3.1,0.91,Net Banking,Delhi,4/6/2026
+ORD0315,CUST1959,Certainly Product,Home,1212.84,4,34,3201.9,1.8,0.06,UPI,Mumbai,2/1/2026
+ORD0316,CUST5760,Sister Product,Beauty,266.86,5,19,1080.78,2.9,0.13,UPI,Chennai,12/2/2025
+ORD0317,CUST3715,Set Product,Home,4856.39,4,29,13792.15,3.6,0.4,Debit Card,Mumbai,5/26/2025
+ORD0318,CUST3114,All Product,Home,3582.4,5,28,12896.64,3.4,0.13,Credit Card,Mumbai,12/20/2025
+ORD0319,CUST7507,Exactly Product,Fashion,1488.18,1,31,1026.84,2.8,0.82,UPI,Hyderabad,1/17/2026
+ORD0320,CUST9599,Alone Product,Books,2979.56,2,8,5482.39,2.7,0.04,Net Banking,Mumbai,5/16/2026
+ORD0321,CUST1185,We Product,Sports,3474.29,2,27,5072.46,4.2,0.24,Net Banking,Bangalore,6/22/2025
+ORD0322,CUST2163,Director Product,Beauty,2550.11,3,37,4819.71,2.6,0.46,UPI,Madurai,9/23/2025
+ORD0323,CUST6374,Yeah Product,Electronics,3292.75,4,33,8824.57,1.7,0.11,Net Banking,Hyderabad,8/26/2025
+ORD0324,CUST1892,Measure Product,Sports,790.86,3,0,2372.58,4.9,0.04,Net Banking,Hyderabad,5/4/2026
+ORD0325,CUST4852,List Product,Sports,4692.25,2,37,5912.23,2,0.99,Credit Card,Bangalore,5/17/2026
+ORD0326,CUST4692,Pm Product,Home,1948.62,5,1,9645.67,1.2,0.44,UPI,Madurai,12/4/2025
+ORD0327,CUST3957,Would Product,Beauty,4300.85,5,19,17418.44,3.1,0.43,Cash on Delivery,Mumbai,5/10/2026
+ORD0328,CUST5767,Skin Product,Sports,695.25,2,34,917.73,2.9,0.47,UPI,Chennai,4/7/2026
+ORD0329,CUST4760,See Product,Electronics,4620.12,1,15,3927.1,2.5,0.16,Cash on Delivery,Delhi,9/24/2025
+ORD0330,CUST6869,Take Product,Beauty,2436.62,3,40,4385.92,1.5,0.08,UPI,Mumbai,4/17/2026
+ORD0331,CUST9751,Approach Product,Home,496.2,1,21,392,1.2,0.97,Cash on Delivery,Chennai,10/12/2025
+ORD0332,CUST6259,Skin Product,Books,1839.65,2,19,2980.23,4.9,0.63,UPI,Delhi,3/28/2026
+ORD0333,CUST6936,According Product,Books,1836.69,2,12,3232.57,3.9,0.77,Net Banking,Bangalore,6/8/2025
+ORD0334,CUST6575,Avoid Product,Books,2814.47,2,20,4503.15,4.5,0.62,Credit Card,Hyderabad,7/13/2025
+ORD0335,CUST7634,Cell Product,Fashion,1313.54,1,19,1063.97,2.9,0.34,Cash on Delivery,Bangalore,5/12/2026
+ORD0336,CUST7105,Similar Product,Electronics,4731.84,1,23,3643.52,3.9,0.35,UPI,Bangalore,11/3/2025
+ORD0337,CUST2952,His Product,Beauty,3486.88,4,13,12134.34,3.1,0.42,UPI,Mumbai,7/23/2025
+ORD0338,CUST6907,Particularly Product,Home,1638.53,1,29,1163.36,4.4,0.08,Credit Card,Chennai,6/30/2025
+ORD0339,CUST8986,Organization Product,Books,2132.63,5,7,9916.73,1,0.71,Net Banking,Hyderabad,11/2/2025
+ORD0340,CUST7985,Individual Product,Electronics,2468.27,4,20,7898.46,1.3,0.99,UPI,Mumbai,8/23/2025
+ORD0341,CUST6444,Challenge Product,Electronics,1971.58,4,39,4810.66,3,0.32,Cash on Delivery,Madurai,3/13/2026
+ORD0342,CUST6622,Sit Product,Electronics,156.52,5,27,571.3,2,0.18,Net Banking,Madurai,12/8/2025
+ORD0343,CUST7509,Very Product,Sports,2913.42,2,16,4894.55,1.4,0.29,Debit Card,Hyderabad,12/6/2025
+ORD0344,CUST9223,Computer Product,Books,4782.34,1,6,4495.4,2.7,0.11,Net Banking,Delhi,4/1/2026
+ORD0345,CUST8675,Avoid Product,Books,4296.37,2,32,5843.06,2.9,0.34,Net Banking,Hyderabad,1/18/2026
+ORD0346,CUST5444,Despite Product,Beauty,925.36,3,3,2692.8,4.8,0.53,Debit Card,Chennai,5/5/2026
+ORD0347,CUST5510,Room Product,Sports,3094.89,3,14,7984.82,1.7,0.19,Credit Card,Madurai,2/23/2026
+ORD0348,CUST2487,Movie Product,Home,2449.17,2,1,4849.36,4.6,0.33,Debit Card,Delhi,5/12/2026
+ORD0349,CUST1801,Tv Product,Electronics,4311.92,3,34,8537.6,2.8,0.85,Credit Card,Chennai,12/29/2025
+ORD0350,CUST1358,Memory Product,Books,3931.16,2,11,6997.46,4,0.78,Debit Card,Madurai,7/2/2025
+ORD0351,CUST7847,With Product,Fashion,2079.7,1,10,1871.73,1.8,0.26,Cash on Delivery,Chennai,9/22/2025
+ORD0352,CUST4195,News Product,Sports,977.45,5,11,4349.65,4.9,0.73,Credit Card,Mumbai,11/12/2025
+ORD0353,CUST9769,Shoulder Product,Beauty,4005.85,1,20,3204.68,4.4,0.45,Net Banking,Madurai,12/20/2025
+ORD0354,CUST9342,Strategy Product,Beauty,4298.98,1,20,3439.18,3.4,0.18,UPI,Bangalore,4/30/2026
+ORD0355,CUST6615,Speak Product,Fashion,4217.14,3,12,11133.25,2,0.65,UPI,Delhi,2/3/2026
+ORD0356,CUST7522,Soldier Product,Fashion,2468.25,5,29,8762.29,3.8,0.66,Credit Card,Madurai,8/28/2025
+ORD0357,CUST4492,First Product,Electronics,4275.48,1,30,2992.84,4.3,0.2,Cash on Delivery,Hyderabad,11/22/2025
+ORD0358,CUST3658,Congress Product,Sports,1570.64,4,38,3895.19,4.8,1,Cash on Delivery,Hyderabad,1/9/2026
+ORD0359,CUST7607,Result Product,Home,3900.7,1,23,3003.54,3.7,0.92,Debit Card,Bangalore,5/21/2025
+ORD0360,CUST6649,Heart Product,Home,1656.07,5,39,5051.01,1.6,0.64,Net Banking,Chennai,5/6/2026
+ORD0361,CUST6678,Body Product,Beauty,2128.61,5,8,9791.61,1.4,0.75,Net Banking,Mumbai,5/8/2026
+ORD0362,CUST6366,Cost Product,Beauty,1409.4,5,32,4791.96,4.5,0.22,Debit Card,Mumbai,10/17/2025
+ORD0363,CUST9828,Television Product,Sports,3528.4,3,12,9314.98,2.5,0.68,Cash on Delivery,Delhi,8/16/2025
+ORD0364,CUST3752,Difficult Product,Sports,3161.52,5,40,9484.56,1.2,0.38,Cash on Delivery,Bangalore,4/28/2026
+ORD0365,CUST7946,Stock Product,Electronics,3857.91,2,9,7021.4,3.7,0.04,UPI,Delhi,5/10/2026
+ORD0366,CUST2949,Employee Product,Fashion,1667.17,5,10,7502.27,4.8,0.17,UPI,Madurai,7/3/2025
+ORD0367,CUST7170,See Product,Beauty,2604.35,1,35,1692.83,4.6,0.86,Credit Card,Hyderabad,9/2/2025
+ORD0368,CUST3365,Almost Product,Fashion,4373.55,5,20,17494.2,3.8,0.3,Cash on Delivery,Delhi,12/11/2025
+ORD0369,CUST9068,Receive Product,Fashion,2620.87,5,11,11662.87,4.5,0.25,UPI,Mumbai,6/14/2025
+ORD0370,CUST1442,After Product,Beauty,2904.31,1,10,2613.88,3.4,0.96,Debit Card,Bangalore,11/26/2025
+ORD0371,CUST9807,Various Product,Fashion,4827.69,1,11,4296.64,4,0.9,Credit Card,Madurai,6/15/2025
+ORD0372,CUST5012,Certainly Product,Beauty,773.7,2,10,1392.66,1.3,0.4,Credit Card,Mumbai,8/14/2025
+ORD0373,CUST8128,Simply Product,Electronics,1302.68,5,38,4038.31,3.4,0.5,Net Banking,Madurai,12/19/2025
+ORD0374,CUST4321,Several Product,Beauty,495.18,1,21,391.19,4.1,0.29,Debit Card,Chennai,10/7/2025
+ORD0375,CUST1769,Include Product,Sports,1152.72,3,5,3285.25,3.3,0.56,UPI,Madurai,2/13/2026
+ORD0376,CUST4672,Either Product,Electronics,3556.69,2,37,4481.43,4.4,0.32,UPI,Hyderabad,1/5/2026
+ORD0377,CUST8719,Mrs Product,Sports,1232.93,5,34,4068.67,3.1,0.45,UPI,Delhi,4/2/2026
+ORD0378,CUST3005,Part Product,Fashion,2502.63,1,17,2077.18,4.9,0.12,Credit Card,Chennai,3/3/2026
+ORD0379,CUST3884,Work Product,Books,1469.57,5,38,4555.67,3.7,0.08,Net Banking,Chennai,5/11/2026
+ORD0380,CUST9377,Quite Product,Home,2055.11,2,16,3452.58,4,0.17,Net Banking,Chennai,3/6/2026
+ORD0381,CUST8351,Long Product,Fashion,2822.78,4,14,9710.36,4.1,0.18,UPI,Bangalore,8/29/2025
+ORD0382,CUST8612,Into Product,Sports,1607.51,3,18,3954.47,3.6,0.65,UPI,Mumbai,7/28/2025
+ORD0383,CUST3842,Sense Product,Books,3026.59,5,4,14527.63,4.2,0.34,Net Banking,Delhi,8/17/2025
+ORD0384,CUST1897,Daughter Product,Books,4872.14,4,2,19098.79,3.7,0.4,UPI,Delhi,1/16/2026
+ORD0385,CUST3832,True Product,Books,3868.31,3,3,11256.78,1.5,0.5,Debit Card,Mumbai,5/18/2026
+ORD0386,CUST7495,Management Product,Beauty,2363.17,1,12,2079.59,3,0.99,UPI,Chennai,3/5/2026
+ORD0387,CUST9909,More Product,Beauty,4842.17,3,24,11040.15,3.5,0.84,Net Banking,Chennai,8/31/2025
+ORD0388,CUST9566,Although Product,Sports,451.17,2,9,821.13,3.1,0.46,Cash on Delivery,Chennai,5/25/2025
+ORD0389,CUST8225,Offer Product,Beauty,997.32,3,31,2064.45,4.7,0.76,Credit Card,Bangalore,1/7/2026
+ORD0390,CUST6494,Expect Product,Sports,2867.08,5,9,13045.21,4.7,0.26,Debit Card,Mumbai,4/11/2026
+ORD0391,CUST7577,At Product,Home,126.1,5,26,466.57,1.4,0.52,Cash on Delivery,Madurai,3/28/2026
+ORD0392,CUST4516,Like Product,Sports,1618.69,5,31,5584.48,2.6,0.26,Net Banking,Delhi,6/11/2025
+ORD0393,CUST6642,Present Product,Home,1473.56,1,19,1193.58,2.5,0.28,Net Banking,Bangalore,7/14/2025
+ORD0394,CUST2552,Realize Product,Books,4790.44,4,29,13604.85,3.5,0.01,Net Banking,Madurai,4/5/2026
+ORD0395,CUST5725,Energy Product,Sports,4447,4,20,14230.4,1.6,0.7,Debit Card,Hyderabad,1/8/2026
+ORD0396,CUST4908,Full Product,Electronics,1495.91,5,28,5385.28,4.4,0.05,UPI,Madurai,8/29/2025
+ORD0397,CUST9087,Bag Product,Home,2862.77,5,34,9447.14,1.9,0.37,Credit Card,Bangalore,9/5/2025
+ORD0398,CUST5954,Decide Product,Sports,1833.71,1,4,1760.36,1,0.52,Debit Card,Chennai,1/31/2026
+ORD0399,CUST8352,Think Product,Books,3839.04,1,2,3762.26,1.7,0.43,Debit Card,Madurai,7/12/2025
+ORD0400,CUST3494,Necessary Product,Fashion,1038.07,3,8,2865.07,2.6,0.5,Cash on Delivery,Delhi,2/18/2026
+ORD0401,CUST1996,Myself Product,Home,2379.55,5,29,8447.4,4.7,0.75,Debit Card,Hyderabad,9/5/2025
+ORD0402,CUST3484,Star Product,Electronics,4632.86,4,12,16307.67,2.8,0.24,UPI,Hyderabad,10/25/2025
+ORD0403,CUST2677,Bit Product,Fashion,2668.96,5,36,8540.67,3.6,0.61,Credit Card,Madurai,9/7/2025
+ORD0404,CUST6068,Wonder Product,Electronics,108.84,2,25,163.26,3.6,0.53,Credit Card,Madurai,8/18/2025
+ORD0405,CUST2047,Record Product,Beauty,1133.85,3,0,3401.55,3.2,0.28,Cash on Delivery,Hyderabad,5/23/2025
+ORD0406,CUST3417,Action Product,Sports,4124.98,4,20,13199.94,3.3,0.97,UPI,Mumbai,5/4/2026
+ORD0407,CUST7714,Ready Product,Beauty,673.46,4,9,2451.39,4.4,0.49,UPI,Madurai,2/21/2026
+ORD0408,CUST7656,Teacher Product,Books,3068.04,2,13,5338.39,3.8,0.49,Credit Card,Hyderabad,7/27/2025
+ORD0409,CUST4498,Upon Product,Sports,3051.18,3,4,8787.4,2.3,0.99,Cash on Delivery,Madurai,12/5/2025
+ORD0410,CUST4554,High Product,Sports,3857.4,5,11,17165.43,1.1,0.46,Net Banking,Delhi,6/13/2025
+ORD0411,CUST9079,Really Product,Home,2145.99,2,34,2832.71,4.7,0.68,Net Banking,Bangalore,2/5/2026
+ORD0412,CUST1297,Born Product,Home,553.39,5,25,2075.21,2.8,0.6,Cash on Delivery,Chennai,2/4/2026
+ORD0413,CUST1267,Their Product,Beauty,3870.45,5,8,17804.07,4.6,0.06,UPI,Hyderabad,11/9/2025
+ORD0414,CUST9331,Firm Product,Beauty,460.9,4,17,1530.19,3.3,0.55,Credit Card,Mumbai,4/20/2026
+ORD0415,CUST5568,Interesting Product,Books,4021.14,1,38,2493.11,2.7,0.58,Debit Card,Hyderabad,11/24/2025
+ORD0416,CUST5299,By Product,Home,387.26,4,5,1471.59,3.1,0.49,Credit Card,Mumbai,10/19/2025
+ORD0417,CUST6688,Collection Product,Sports,1391.68,4,12,4898.71,2.2,0.35,UPI,Mumbai,9/20/2025
+ORD0418,CUST5572,Loss Product,Books,2936.43,4,26,8691.83,2.6,0.83,Credit Card,Delhi,7/9/2025
+ORD0419,CUST7936,Weight Product,Fashion,2563.15,2,18,4203.57,4.1,0.88,Net Banking,Delhi,3/1/2026
+ORD0420,CUST4763,Not Product,Home,1794.66,1,30,1256.26,2.5,0.7,Credit Card,Madurai,6/5/2025
+ORD0421,CUST8542,Stop Product,Electronics,3349.02,2,13,5827.29,4.5,0.48,Net Banking,Hyderabad,2/15/2026
+ORD0422,CUST8589,Travel Product,Fashion,314.74,4,1,1246.37,4.8,0.46,UPI,Chennai,9/2/2025
+ORD0423,CUST8251,Yard Product,Beauty,4573.71,5,14,19666.95,2.2,0.43,Cash on Delivery,Delhi,6/5/2025
+ORD0424,CUST5863,Wonder Product,Beauty,4583.89,2,33,6142.41,2.8,0.77,Credit Card,Madurai,12/31/2025
+ORD0425,CUST9355,Suddenly Product,Sports,4846.73,4,32,13183.11,3.5,0.38,Cash on Delivery,Delhi,7/22/2025
+ORD0426,CUST4346,Store Product,Home,1323.73,2,16,2223.87,1.2,0.48,Net Banking,Madurai,8/9/2025
+ORD0427,CUST5318,Camera Product,Sports,1654.23,3,40,2977.61,1.7,0.61,UPI,Chennai,12/6/2025
+ORD0428,CUST7616,Build Product,Sports,3054.99,1,5,2902.24,3.7,0.42,Net Banking,Bangalore,12/17/2025
+ORD0429,CUST9108,Less Product,Books,2804.41,4,6,10544.58,4,0.54,Net Banking,Hyderabad,7/15/2025
+ORD0430,CUST6464,Public Product,Sports,3079.21,3,37,5819.71,3.4,0.05,UPI,Delhi,12/29/2025
+ORD0431,CUST5432,Early Product,Sports,3132.73,1,2,3070.08,4,0.35,Credit Card,Delhi,4/10/2026
+ORD0432,CUST5007,Friend Product,Beauty,4306.77,2,23,6632.43,1.3,0.98,Net Banking,Hyderabad,10/18/2025
+ORD0433,CUST4716,Unit Product,Home,4008.17,1,20,3206.54,1.2,0.27,Credit Card,Madurai,2/4/2026
+ORD0434,CUST1887,Tree Product,Fashion,879.43,2,9,1600.56,4.4,0.08,UPI,Hyderabad,7/11/2025
+ORD0435,CUST7994,Music Product,Books,4460.84,3,14,11508.97,4.4,0.66,Cash on Delivery,Delhi,4/17/2026
+ORD0436,CUST8601,Fall Product,Books,575.7,3,36,1105.34,1.2,0.73,Cash on Delivery,Delhi,1/28/2026
+ORD0437,CUST9517,Whatever Product,Electronics,2500.09,1,13,2175.08,4.4,0.74,Credit Card,Delhi,11/15/2025
+ORD0438,CUST9565,Center Product,Electronics,4238.63,5,24,16106.79,4.2,0.41,Cash on Delivery,Bangalore,7/3/2025
+ORD0439,CUST1182,Put Product,Beauty,1959.02,4,19,6347.22,2.3,0.34,Credit Card,Madurai,2/20/2026
+ORD0440,CUST5368,Mouth Product,Beauty,3009.46,1,39,1835.77,4.6,0.88,UPI,Bangalore,6/1/2025
+ORD0441,CUST5888,Like Product,Sports,1538.13,1,24,1168.98,1.8,0.87,Cash on Delivery,Bangalore,6/2/2025
+ORD0442,CUST8225,Information Product,Electronics,2077.33,1,17,1724.18,1.6,0.92,Credit Card,Hyderabad,7/13/2025
+ORD0443,CUST1749,Human Product,Beauty,3776.83,1,8,3474.68,3.7,0.46,Debit Card,Delhi,9/16/2025
+ORD0444,CUST4529,Social Product,Beauty,1893.97,1,14,1628.81,1.3,0.08,Credit Card,Hyderabad,10/3/2025
+ORD0445,CUST9539,Hotel Product,Electronics,775.75,1,8,713.69,3.6,0.28,Credit Card,Bangalore,1/26/2026
+ORD0446,CUST4714,Book Product,Home,2711.07,3,2,7970.55,1.1,0.85,Credit Card,Chennai,6/6/2025
+ORD0447,CUST2072,Most Product,Home,1033.17,4,38,2562.26,4.9,0.83,Debit Card,Bangalore,12/1/2025
+ORD0448,CUST6081,Information Product,Sports,2775.68,2,32,3774.92,4.3,0.67,Debit Card,Delhi,12/11/2025
+ORD0449,CUST9623,Science Product,Sports,3981.69,5,28,14334.08,1.1,0.11,UPI,Chennai,1/27/2026
+ORD0450,CUST8889,Entire Product,Sports,1729.5,1,27,1262.54,4.6,0.73,Cash on Delivery,Hyderabad,3/3/2026
+ORD0451,CUST5249,Parent Product,Fashion,2543.53,2,26,3764.42,2.7,0.25,Net Banking,Madurai,8/15/2025
+ORD0452,CUST6049,Eat Product,Sports,4432.07,3,7,12365.48,1.2,0.38,Net Banking,Delhi,12/19/2025
+ORD0453,CUST4978,Such Product,Sports,2285.99,4,5,8686.76,1.3,0.18,Credit Card,Bangalore,3/2/2026
+ORD0454,CUST3499,Republican Product,Books,226.76,4,34,598.65,1.7,0.04,Net Banking,Chennai,9/3/2025
+ORD0455,CUST3919,Wide Product,Home,2821.31,4,5,10720.98,4.9,0.62,Net Banking,Madurai,4/1/2026
+ORD0456,CUST6607,Main Product,Home,4512.46,3,35,8799.3,1.6,0.85,Cash on Delivery,Bangalore,8/26/2025
+ORD0457,CUST9276,Than Product,Sports,3109.06,5,35,10104.44,3.1,0.73,Net Banking,Hyderabad,4/7/2026
+ORD0458,CUST1171,Eye Product,Fashion,4167.86,5,26,15421.08,3.8,0.54,Cash on Delivery,Hyderabad,7/9/2025
+ORD0459,CUST3470,Within Product,Home,2949.15,5,23,11354.23,1.7,0.47,Credit Card,Chennai,8/16/2025
+ORD0460,CUST3614,Move Product,Beauty,1842.83,5,22,7187.04,3.1,0.82,Credit Card,Hyderabad,5/29/2025
+ORD0461,CUST7994,Join Product,Fashion,3087.29,4,13,10743.77,2.5,0.07,Net Banking,Mumbai,8/15/2025
+ORD0462,CUST9469,Cold Product,Sports,2873.94,3,4,8276.95,4.7,0.02,Credit Card,Chennai,6/18/2025
+ORD0463,CUST7732,Mother Product,Sports,2686.72,1,33,1800.1,4.8,0.31,Cash on Delivery,Delhi,4/26/2026
+ORD0464,CUST8070,Future Product,Home,1043.99,1,3,1012.67,3.6,0.09,Debit Card,Bangalore,3/29/2026
+ORD0465,CUST2618,Not Product,Electronics,3503.29,3,6,9879.28,2.6,0.25,Cash on Delivery,Mumbai,9/12/2025
+ORD0466,CUST4237,Know Product,Electronics,2722.4,1,27,1987.35,2.6,0.46,Cash on Delivery,Hyderabad,11/8/2025
+ORD0467,CUST6552,Word Product,Books,3619.95,5,33,12126.83,3.9,0.43,Cash on Delivery,Chennai,9/26/2025
+ORD0468,CUST5207,Consumer Product,Fashion,170.2,4,30,476.56,2.9,0.67,Credit Card,Bangalore,8/16/2025
+ORD0469,CUST4347,Camera Product,Books,2680.98,4,11,9544.29,3,0.52,Net Banking,Mumbai,7/31/2025
+ORD0470,CUST1341,Claim Product,Books,3737.24,3,13,9754.2,3.5,0.4,Credit Card,Bangalore,7/26/2025
+ORD0471,CUST5862,Particular Product,Sports,2138.45,4,29,6073.2,1.2,0.01,Cash on Delivery,Mumbai,12/10/2025
+ORD0472,CUST9591,Name Product,Home,1931.74,2,7,3593.04,3.2,0.1,Net Banking,Bangalore,9/24/2025
+ORD0473,CUST6944,Officer Product,Electronics,602.33,3,9,1644.36,1.8,0.04,Net Banking,Delhi,9/10/2025
+ORD0474,CUST9678,Little Product,Books,133.86,5,28,481.9,2.2,0.74,UPI,Bangalore,4/14/2026
+ORD0475,CUST2911,Let Product,Books,2307.77,2,8,4246.3,4.6,0.18,Credit Card,Chennai,8/24/2025
+ORD0476,CUST2008,Open Product,Beauty,4569.53,5,28,16450.31,1.7,0.84,Net Banking,Mumbai,11/5/2025
+ORD0477,CUST1039,Drug Product,Fashion,3433.79,1,35,2231.96,4.2,0.57,Net Banking,Madurai,4/5/2026
+ORD0478,CUST4808,Mr Product,Fashion,2549.27,2,36,3263.07,2.4,0.32,UPI,Madurai,1/28/2026
+ORD0479,CUST4083,Control Product,Fashion,3460.24,2,19,5605.59,4.5,0.46,Credit Card,Chennai,10/22/2025
+ORD0480,CUST3757,Strong Product,Books,1559.8,5,10,7019.1,1.2,0.22,UPI,Hyderabad,6/17/2025
+ORD0481,CUST9583,Chair Product,Books,1609.92,3,10,4346.78,2.6,0.86,UPI,Bangalore,5/27/2025
+ORD0482,CUST7772,Police Product,Home,3552.23,5,35,11544.75,3.9,0.27,UPI,Mumbai,7/4/2025
+ORD0483,CUST7871,Crime Product,Sports,4128.53,2,20,6605.65,2.9,0.92,Credit Card,Mumbai,8/8/2025
+ORD0484,CUST5008,Natural Product,Electronics,1583.78,4,3,6145.07,3.2,0.91,UPI,Madurai,2/10/2026
+ORD0485,CUST6431,Week Product,Beauty,1283.54,2,8,2361.71,2.2,0.62,UPI,Delhi,12/2/2025
+ORD0486,CUST4657,Design Product,Books,4522.08,3,24,10310.34,4.3,0.27,UPI,Madurai,5/4/2026
+ORD0487,CUST9399,Each Product,Home,922.16,3,39,1687.55,4.8,0.57,Debit Card,Delhi,2/8/2026
+ORD0488,CUST6849,Enter Product,Books,4562.09,2,31,6295.68,2.9,0.52,Cash on Delivery,Delhi,12/16/2025
+ORD0489,CUST6845,Cold Product,Electronics,1923.72,3,18,4732.35,2.4,0.81,Cash on Delivery,Chennai,5/11/2026
+ORD0490,CUST7045,Present Product,Beauty,733.64,5,27,2677.79,1.1,0.29,Credit Card,Madurai,1/22/2026
+ORD0491,CUST2552,Congress Product,Books,3851.67,1,24,2927.27,4.3,0,Credit Card,Delhi,5/10/2026
+ORD0492,CUST4828,Rich Product,Books,2855.18,4,29,8108.71,1.7,0.89,UPI,Chennai,9/20/2025
+ORD0493,CUST2766,Choose Product,Beauty,1160.39,3,2,3411.55,2.5,0.32,Debit Card,Madurai,3/30/2026
+ORD0494,CUST1568,Better Product,Electronics,4169.56,2,28,6004.17,1.9,0.07,Net Banking,Hyderabad,7/8/2025
+ORD0495,CUST1644,Dream Product,Books,1643.98,5,32,5589.53,2.6,0.9,Debit Card,Bangalore,2/18/2026
+ORD0496,CUST5325,Need Product,Books,1315.52,4,30,3683.46,1.7,0.62,UPI,Mumbai,7/4/2025
+ORD0497,CUST7674,Really Product,Books,3655.68,5,0,18278.4,1.9,0.34,Credit Card,Bangalore,6/20/2025
+ORD0498,CUST3440,Ok Product,Electronics,1610.85,2,16,2706.23,4.2,0.14,Credit Card,Chennai,7/9/2025
+ORD0499,CUST4071,At Product,Sports,4089.08,1,12,3598.39,2.2,0.09,Net Banking,Chennai,8/31/2025
+ORD0500,CUST1396,Discuss Product,Electronics,4262.99,3,30,8952.28,3.7,0.58,Credit Card,Bangalore,11/28/2025
+ORD0501,CUST4379,Plan Product,Electronics,823.25,3,40,1481.85,4.9,0.09,Debit Card,Delhi,7/13/2025
+ORD0502,CUST2643,Share Product,Sports,2232.33,2,30,3125.26,2.9,0.03,Credit Card,Mumbai,8/4/2025
+ORD0503,CUST5259,Fall Product,Home,792.62,4,16,2663.2,2.6,0.49,Net Banking,Delhi,8/5/2025
+ORD0504,CUST2267,Your Product,Electronics,2165.05,2,27,3160.97,2,0.66,Net Banking,Hyderabad,1/28/2026
+ORD0505,CUST8459,Energy Product,Beauty,4644.73,2,31,6409.73,1.2,0.56,UPI,Hyderabad,6/22/2025
+ORD0506,CUST7236,Well Product,Home,2756.07,3,15,7027.98,3.5,0.36,Net Banking,Hyderabad,4/16/2026
+ORD0507,CUST9627,Control Product,Beauty,678.86,3,19,1649.63,2.9,0.85,Cash on Delivery,Mumbai,6/28/2025
+ORD0508,CUST1481,Eye Product,Books,2616.78,5,39,7981.18,1.5,0.1,Debit Card,Madurai,11/15/2025
+ORD0509,CUST1296,Long Product,Beauty,771.24,5,40,2313.72,3,0.52,Cash on Delivery,Hyderabad,11/8/2025
+ORD0510,CUST6490,Leader Product,Fashion,1381.7,2,27,2017.28,4.2,0.47,Credit Card,Bangalore,12/20/2025
+ORD0511,CUST3969,Record Product,Fashion,3834.19,2,26,5674.6,4.3,0.42,Credit Card,Mumbai,10/24/2025
+ORD0512,CUST6921,Full Product,Fashion,1090.86,3,1,3239.85,1.6,0.93,Net Banking,Chennai,3/18/2026
+ORD0513,CUST9889,Human Product,Books,907,4,28,2612.16,4.2,0.67,Cash on Delivery,Delhi,5/18/2026
+ORD0514,CUST6289,Focus Product,Beauty,2317.5,4,24,7045.2,2.7,0.01,Credit Card,Delhi,7/29/2025
+ORD0515,CUST9022,Drive Product,Home,2484.87,3,1,7380.06,2.1,0.88,UPI,Bangalore,5/5/2026
+ORD0516,CUST3323,South Product,Fashion,1325.15,1,31,914.35,4.4,0.22,Credit Card,Delhi,9/1/2025
+ORD0517,CUST3666,Discover Product,Home,2984.15,3,6,8415.3,4.7,0.61,UPI,Mumbai,10/22/2025
+ORD0518,CUST7760,Half Product,Books,751.57,4,5,2855.97,1.3,0.34,Cash on Delivery,Hyderabad,1/20/2026
+ORD0519,CUST2317,Prevent Product,Home,3028.25,5,1,14989.84,4.7,0.5,Credit Card,Mumbai,6/30/2025
+ORD0520,CUST8648,Property Product,Home,4166.69,4,19,13500.08,4.6,0.08,Net Banking,Delhi,8/19/2025
+ORD0521,CUST6492,Professor Product,Sports,863.8,4,5,3282.44,4.5,0.92,Cash on Delivery,Madurai,8/24/2025
+ORD0522,CUST9559,Car Product,Electronics,2327.74,3,27,5097.75,1.9,0.89,Net Banking,Mumbai,10/13/2025
+ORD0523,CUST9836,Gas Product,Electronics,2420.95,2,30,3389.33,2.7,0.96,Debit Card,Mumbai,7/13/2025
+ORD0524,CUST1443,Safe Product,Beauty,187.53,5,5,890.77,1.5,0.35,Net Banking,Chennai,11/14/2025
+ORD0525,CUST5009,Candidate Product,Fashion,4857.74,5,29,17244.98,1.6,0.17,Debit Card,Madurai,4/9/2026
+ORD0526,CUST5125,Dog Product,Home,342.97,5,24,1303.29,2.9,1,Net Banking,Hyderabad,11/2/2025
+ORD0527,CUST6659,Father Product,Electronics,3195.06,2,10,5751.11,4.6,0.31,Net Banking,Bangalore,6/9/2025
+ORD0528,CUST5729,National Product,Home,983.99,5,34,3247.17,1.4,0.26,Cash on Delivery,Bangalore,11/6/2025
+ORD0529,CUST6236,Case Product,Sports,3796.5,3,23,8769.92,3.2,0.57,UPI,Bangalore,3/7/2026
+ORD0530,CUST8287,New Product,Sports,2814.3,4,30,7880.04,2.7,0.99,Debit Card,Mumbai,12/18/2025
+ORD0531,CUST3649,Win Product,Home,1638.47,1,14,1409.08,1.2,0.33,UPI,Hyderabad,1/8/2026
+ORD0532,CUST2370,Each Product,Books,2858.03,3,2,8402.61,3.6,0.95,Cash on Delivery,Bangalore,5/18/2026
+ORD0533,CUST6700,Weight Product,Books,1721.12,4,22,5369.89,4.1,0.12,Cash on Delivery,Chennai,7/27/2025
+ORD0534,CUST4487,Maybe Product,Home,1910.81,3,24,4356.65,1.9,0.96,Net Banking,Delhi,7/7/2025
+ORD0535,CUST7041,Begin Product,Beauty,984.18,2,4,1889.63,1.1,0.71,Debit Card,Madurai,2/18/2026
+ORD0536,CUST8905,Water Product,Fashion,3338.95,3,33,6711.29,3.2,0.62,Net Banking,Madurai,2/24/2026
+ORD0537,CUST5704,Activity Product,Books,3425.04,3,11,9144.86,4.2,0.22,Debit Card,Delhi,1/1/2026
+ORD0538,CUST2946,Teach Product,Home,4641.07,4,34,12252.42,1.5,0.7,Debit Card,Bangalore,3/28/2026
+ORD0539,CUST2844,Year Product,Beauty,2507.95,3,23,5793.36,4.3,0.85,Debit Card,Delhi,2/5/2026
+ORD0540,CUST7626,Above Product,Sports,2565.77,1,15,2180.9,2.4,0.69,Credit Card,Chennai,2/27/2026
+ORD0541,CUST8722,Government Product,Home,1283.64,3,39,2349.06,1.4,0.56,Cash on Delivery,Madurai,1/1/2026
+ORD0542,CUST9533,Thank Product,Books,905.38,3,27,1982.78,4.4,0.3,Cash on Delivery,Mumbai,10/6/2025
+ORD0543,CUST7728,Like Product,Fashion,3137.63,4,37,7906.83,3,0.02,Debit Card,Hyderabad,4/15/2026
+ORD0544,CUST4206,President Product,Sports,1430.39,1,19,1158.62,4.8,0.46,Debit Card,Chennai,1/29/2026
+ORD0545,CUST6900,Never Product,Fashion,229.42,2,3,445.07,1.8,0.41,Cash on Delivery,Hyderabad,6/10/2025
+ORD0546,CUST6549,Owner Product,Home,161.61,5,36,517.15,3.3,0.46,Cash on Delivery,Bangalore,8/16/2025
+ORD0547,CUST5996,Southern Product,Home,597.47,1,36,382.38,4.2,0.75,Debit Card,Chennai,8/4/2025
+ORD0548,CUST9781,Born Product,Home,417.94,5,38,1295.61,5,0.68,UPI,Delhi,1/30/2026
+ORD0549,CUST1253,Room Product,Books,2617.03,3,16,6594.92,4.9,0.77,Cash on Delivery,Delhi,5/21/2025
+ORD0550,CUST3794,Parent Product,Home,4186.02,1,5,3976.72,2,0.07,Debit Card,Mumbai,7/23/2025
+ORD0551,CUST9214,Call Product,Home,4136.82,3,7,11541.73,2.8,0.61,Net Banking,Chennai,5/22/2025
+ORD0552,CUST4226,Near Product,Beauty,2574.74,5,38,7981.69,3.1,0.75,Net Banking,Hyderabad,8/9/2025
+ORD0553,CUST2718,Summer Product,Beauty,2937.03,3,32,5991.54,1.6,0.77,Credit Card,Mumbai,5/21/2025
+ORD0554,CUST4253,Idea Product,Electronics,1043.93,5,35,3392.77,2.1,0.97,Net Banking,Madurai,11/1/2025
+ORD0555,CUST1074,Treatment Product,Beauty,205.82,1,36,131.72,1.2,0.32,UPI,Delhi,1/31/2026
+ORD0556,CUST1714,Book Product,Books,2114.19,5,11,9408.15,2.8,0.82,Net Banking,Bangalore,4/28/2026
+ORD0557,CUST4954,Home Product,Sports,4685.58,1,16,3935.89,4.5,0.23,Debit Card,Madurai,10/16/2025
+ORD0558,CUST7070,Treat Product,Sports,1935.49,4,12,6812.92,2.2,0.52,Debit Card,Chennai,12/11/2025
+ORD0559,CUST2535,Drop Product,Electronics,2115.88,4,9,7701.8,4.2,0.34,Cash on Delivery,Hyderabad,7/4/2025
+ORD0560,CUST7106,Claim Product,Sports,1110.2,5,37,3497.13,3.9,0.18,Cash on Delivery,Mumbai,5/1/2026
+ORD0561,CUST2297,Similar Product,Sports,740.55,3,28,1599.59,3.2,0.79,Debit Card,Madurai,9/13/2025
+ORD0562,CUST2672,Contain Product,Books,3987.74,4,25,11963.22,2.2,0.24,UPI,Madurai,9/28/2025
+ORD0563,CUST6741,Social Product,Beauty,2056.04,3,2,6044.76,2.4,0.83,UPI,Delhi,3/15/2026
+ORD0564,CUST1376,General Product,Home,1061.82,3,1,3153.61,3.3,0.65,UPI,Mumbai,2/9/2026
+ORD0565,CUST7425,Teach Product,Electronics,4739.67,3,11,12654.92,3.7,0.97,Debit Card,Madurai,11/19/2025
+ORD0566,CUST3715,Leg Product,Electronics,4481.44,1,17,3719.6,2.1,0.58,Cash on Delivery,Madurai,3/20/2026
+ORD0567,CUST9211,Know Product,Electronics,3541.7,5,1,17531.42,3.2,0.49,Cash on Delivery,Mumbai,4/1/2026
+ORD0568,CUST9616,Approach Product,Books,4970.67,4,31,13719.05,3.7,0.42,Debit Card,Chennai,3/3/2026
+ORD0569,CUST9647,Life Product,Books,293.89,3,31,608.35,3.5,0.49,Net Banking,Delhi,2/11/2026
+ORD0570,CUST7266,Reveal Product,Sports,2293.38,2,12,4036.35,4.3,1,Cash on Delivery,Chennai,2/2/2026
+ORD0571,CUST6917,Team Product,Fashion,2515.68,4,20,8050.18,4.8,0.18,Debit Card,Chennai,5/18/2026
+ORD0572,CUST9074,Many Product,Electronics,2136.01,4,22,6664.35,4.9,0.02,Cash on Delivery,Bangalore,6/1/2025
+ORD0573,CUST6786,Give Product,Home,1606.28,4,21,5075.84,2.8,0.02,Debit Card,Chennai,12/5/2025
+ORD0574,CUST7907,Surface Product,Books,2654.99,5,30,9292.46,4.9,0.14,Credit Card,Hyderabad,8/7/2025
+ORD0575,CUST5483,Continue Product,Books,410.36,5,33,1374.71,1.2,0.29,Credit Card,Bangalore,7/28/2025
+ORD0576,CUST9229,There Product,Home,2230.75,1,27,1628.45,4.6,1,Net Banking,Chennai,8/31/2025
+ORD0577,CUST4334,I Product,Beauty,3753.74,4,10,13513.46,3.3,0.54,Cash on Delivery,Mumbai,10/28/2025
+ORD0578,CUST7531,Which Product,Books,3120.55,3,17,7770.17,2.2,0.13,Credit Card,Mumbai,7/31/2025
+ORD0579,CUST7624,Make Product,Fashion,3055.88,1,32,2078,2.3,0.23,UPI,Madurai,11/30/2025
+ORD0580,CUST5310,Beat Product,Fashion,2869.52,4,22,8952.9,4.3,0.05,Net Banking,Chennai,11/23/2025
+ORD0581,CUST1564,Defense Product,Electronics,1169.97,4,36,2995.12,3.1,0.94,UPI,Madurai,5/3/2026
+ORD0582,CUST7221,Knowledge Product,Beauty,565.53,3,8,1560.86,2.9,0.94,Cash on Delivery,Delhi,10/13/2025
+ORD0583,CUST1024,Onto Product,Fashion,2228.74,2,13,3878.01,2,0.4,Cash on Delivery,Mumbai,11/20/2025
+ORD0584,CUST5482,Better Product,Books,2844.55,3,7,7936.29,2.2,0.73,UPI,Madurai,8/26/2025
+ORD0585,CUST3155,Practice Product,Fashion,4829.45,4,36,12363.39,1.5,0.99,Cash on Delivery,Bangalore,11/10/2025
+ORD0586,CUST6117,Can Product,Beauty,2036.36,1,16,1710.54,3.9,0.28,Net Banking,Chennai,9/21/2025
+ORD0587,CUST3744,Court Product,Fashion,3272.78,4,14,11258.36,2,0.39,Cash on Delivery,Hyderabad,11/21/2025
+ORD0588,CUST1204,Or Product,Electronics,4546.36,3,19,11047.65,2.8,0.76,Debit Card,Bangalore,7/8/2025
+ORD0589,CUST2236,Same Product,Beauty,2545.12,3,24,5802.87,2.7,0.67,Net Banking,Mumbai,7/23/2025
+ORD0590,CUST3290,Debate Product,Home,2480.29,5,12,10913.28,2.7,0.9,UPI,Mumbai,8/1/2025
+ORD0591,CUST7266,Clear Product,Sports,1887.62,4,9,6870.94,2.4,0.6,Credit Card,Mumbai,10/10/2025
+ORD0592,CUST7120,Either Product,Books,2170.21,5,23,8355.31,2.1,0.7,Debit Card,Hyderabad,11/19/2025
+ORD0593,CUST1660,Stop Product,Beauty,4882.62,5,13,21239.4,3.7,0.92,Debit Card,Mumbai,8/10/2025
+ORD0594,CUST4568,On Product,Sports,835.71,2,3,1621.28,4.3,0.32,UPI,Chennai,3/4/2026
+ORD0595,CUST2805,Policy Product,Beauty,488.19,1,23,375.91,3.6,0.97,UPI,Chennai,12/21/2025
+ORD0596,CUST2040,Phone Product,Electronics,4733.13,2,6,8898.28,4.2,0.23,Cash on Delivery,Bangalore,6/7/2025
+ORD0597,CUST9801,Hospital Product,Sports,671.85,3,34,1330.26,3.3,0.23,Net Banking,Bangalore,4/25/2026
+ORD0598,CUST1817,Parent Product,Electronics,1461.59,4,14,5027.87,2,0.09,Net Banking,Hyderabad,7/11/2025
+ORD0599,CUST9527,Mission Product,Books,3459.68,2,32,4705.16,5,0.09,Cash on Delivery,Mumbai,2/6/2026
+ORD0600,CUST3173,Why Product,Home,2803.6,2,16,4710.05,4.6,0.51,UPI,Delhi,1/12/2026
+ORD0601,CUST7037,Opportunity Product,Beauty,570.33,3,27,1249.02,4.7,0.72,Debit Card,Mumbai,12/28/2025
+ORD0602,CUST7231,Economy Product,Home,4236.98,4,21,13388.86,3.8,0.8,UPI,Chennai,6/29/2025
+ORD0603,CUST4286,She Product,Books,1102.05,3,38,2049.81,2.9,0.73,Credit Card,Delhi,10/27/2025
+ORD0604,CUST8418,Sometimes Product,Home,1380.27,1,32,938.58,1.3,0.53,Debit Card,Bangalore,4/23/2026
+ORD0605,CUST2651,Relate Product,Fashion,299.84,4,3,1163.38,4.2,0.67,Credit Card,Delhi,6/12/2025
+ORD0606,CUST6414,Same Product,Books,1531.08,4,32,4164.54,3.9,0.18,Net Banking,Bangalore,1/16/2026
+ORD0607,CUST7663,Ground Product,Home,383.83,5,1,1899.96,2.3,0.37,Cash on Delivery,Bangalore,9/3/2025
+ORD0608,CUST3253,Discussion Product,Electronics,1552.87,2,5,2950.45,5,0.06,Net Banking,Chennai,6/13/2025
+ORD0609,CUST9935,Have Product,Electronics,3673.24,2,15,6244.51,3.7,0.3,UPI,Chennai,8/28/2025
+ORD0610,CUST4650,This Product,Books,1815.18,4,31,5009.9,1.8,0.32,Cash on Delivery,Delhi,10/12/2025
+ORD0611,CUST6407,Effort Product,Beauty,837.8,3,30,1759.38,4.6,0.58,Net Banking,Madurai,4/17/2026
+ORD0612,CUST4015,I Product,Fashion,3134,5,12,13789.6,3.2,0.82,Debit Card,Hyderabad,7/23/2025
+ORD0613,CUST6743,Miss Product,Fashion,1887.44,3,21,4473.23,3.1,0.8,UPI,Chennai,10/14/2025
+ORD0614,CUST8977,Several Product,Books,3344.98,1,32,2274.59,4.2,0.03,Cash on Delivery,Mumbai,4/2/2026
+ORD0615,CUST8815,Treatment Product,Books,1390.22,1,33,931.45,3.1,0.12,UPI,Mumbai,4/25/2026
+ORD0616,CUST4067,Entire Product,Fashion,173.69,2,31,239.69,3,0.31,Debit Card,Madurai,7/10/2025
+ORD0617,CUST9538,Indicate Product,Fashion,1893.5,2,36,2423.68,4.8,0.43,Debit Card,Delhi,6/18/2025
+ORD0618,CUST3393,Inside Product,Electronics,1298.02,5,39,3958.96,1.7,0.78,UPI,Delhi,7/4/2025
+ORD0619,CUST3904,Call Product,Books,1474.5,4,14,5072.28,4.8,0.32,Cash on Delivery,Mumbai,5/19/2026
+ORD0620,CUST5905,Street Product,Home,2897.31,4,34,7648.9,1,0.4,Debit Card,Chennai,2/16/2026
+ORD0621,CUST1039,Size Product,Home,4426.88,3,13,11554.16,2,0.89,Credit Card,Bangalore,11/23/2025
+ORD0622,CUST5998,Look Product,Sports,4408.26,4,6,16575.06,4.8,0.84,Cash on Delivery,Hyderabad,9/8/2025
+ORD0623,CUST9366,Again Product,Beauty,3975.59,5,16,16697.48,2.7,0.66,Credit Card,Chennai,6/13/2025
+ORD0624,CUST1767,Baby Product,Beauty,3558.57,3,3,10355.44,2.4,0.19,Credit Card,Mumbai,6/23/2025
+ORD0625,CUST6497,Window Product,Electronics,4518.92,3,4,13014.49,3.2,0.2,UPI,Hyderabad,6/11/2025
+ORD0626,CUST8770,Almost Product,Electronics,3628.87,3,6,10233.41,2.2,0.39,Cash on Delivery,Madurai,12/28/2025
+ORD0627,CUST9037,Simple Product,Books,2497.73,1,5,2372.84,1.4,0.37,UPI,Hyderabad,10/16/2025
+ORD0628,CUST3242,Two Product,Books,4752.09,2,1,9409.14,1.8,0.4,Cash on Delivery,Madurai,7/22/2025
+ORD0629,CUST5406,For Product,Beauty,2820.45,2,22,4399.9,1.2,0.59,Debit Card,Bangalore,8/5/2025
+ORD0630,CUST1429,Seem Product,Fashion,3312.43,2,27,4836.15,3.5,0.81,Debit Card,Chennai,6/25/2025
+ORD0631,CUST2262,Wife Product,Home,1470.39,3,26,3264.27,2.9,0.03,Cash on Delivery,Madurai,2/2/2026
+ORD0632,CUST8925,Peace Product,Beauty,3644.41,3,8,10058.57,2.8,0.51,Cash on Delivery,Chennai,7/5/2025
+ORD0633,CUST6373,Brother Product,Home,4193.77,4,23,12916.81,1.7,0.62,Credit Card,Chennai,7/13/2025
+ORD0634,CUST7498,Number Product,Electronics,2348.17,5,4,11271.22,2.4,0.82,Net Banking,Madurai,7/2/2025
+ORD0635,CUST5390,Behind Product,Beauty,3547.79,3,40,6386.02,2,0.66,Net Banking,Delhi,8/17/2025
+ORD0636,CUST1782,Power Product,Beauty,3197.92,1,20,2558.34,1.7,0.56,Debit Card,Delhi,12/19/2025
+ORD0637,CUST7691,Lawyer Product,Sports,862.74,5,6,4054.88,3.8,0.3,Debit Card,Delhi,6/2/2025
+ORD0638,CUST9674,Purpose Product,Sports,1641.31,4,5,6236.98,2.7,0.27,Cash on Delivery,Delhi,7/30/2025
+ORD0639,CUST6546,During Product,Beauty,917.72,5,35,2982.59,3.5,0.21,UPI,Hyderabad,1/7/2026
+ORD0640,CUST8187,Low Product,Home,3667.51,1,31,2530.58,1.9,0.81,Credit Card,Chennai,5/11/2026
+ORD0641,CUST1860,Sort Product,Fashion,4635.48,2,38,5748,2.5,0.7,UPI,Mumbai,10/9/2025
+ORD0642,CUST2466,Total Product,Fashion,4405.87,1,8,4053.4,4,0.92,UPI,Chennai,5/14/2026
+ORD0643,CUST1803,Down Product,Home,2090.16,3,9,5706.14,4.9,0.16,Debit Card,Chennai,2/20/2026
+ORD0644,CUST9503,Pull Product,Electronics,3976.93,4,38,9862.79,1.1,0.94,UPI,Madurai,9/24/2025
+ORD0645,CUST9381,Reveal Product,Electronics,4841.08,3,0,14523.24,3.5,0.45,Cash on Delivery,Chennai,12/1/2025
+ORD0646,CUST8098,Data Product,Books,4651.94,4,24,14141.9,3.9,0.22,Credit Card,Chennai,1/16/2026
+ORD0647,CUST2929,Direction Product,Sports,4156.31,3,2,12219.55,4.9,0.17,Cash on Delivery,Mumbai,4/21/2026
+ORD0648,CUST6513,Huge Product,Electronics,956.48,3,28,2066,2,0.49,Debit Card,Madurai,11/6/2025
+ORD0649,CUST7167,Trade Product,Beauty,545.33,2,14,937.97,4.8,0.6,Debit Card,Chennai,2/27/2026
+ORD0650,CUST6839,During Product,Sports,4681.98,2,27,6835.69,1.8,0.94,Credit Card,Hyderabad,1/31/2026
+ORD0651,CUST5802,Scientist Product,Home,4333.78,4,15,14734.85,3.6,0.11,Credit Card,Madurai,7/26/2025
+ORD0652,CUST5381,Billion Product,Fashion,1897.35,3,8,5236.69,1,0.63,UPI,Madurai,6/10/2025
+ORD0653,CUST4841,Perhaps Product,Home,1391.35,5,27,5078.43,1,0.99,Debit Card,Mumbai,6/19/2025
+ORD0654,CUST9794,Kind Product,Electronics,830.91,4,12,2924.8,2.6,0.57,UPI,Mumbai,1/13/2026
+ORD0655,CUST1385,Civil Product,Electronics,2552.55,4,1,10108.1,2.5,0.83,UPI,Mumbai,6/14/2025
+ORD0656,CUST7772,According Product,Fashion,4884.64,5,15,20759.72,5,0.41,UPI,Madurai,11/22/2025
+ORD0657,CUST7714,This Product,Home,4313.95,1,10,3882.55,1.6,0.09,Debit Card,Chennai,3/18/2026
+ORD0658,CUST6052,Capital Product,Books,4722.47,1,31,3258.5,4.3,0.14,Cash on Delivery,Bangalore,11/7/2025
+ORD0659,CUST3795,Necessary Product,Beauty,1500.31,5,33,5026.04,2.2,0.06,Credit Card,Bangalore,9/5/2025
+ORD0660,CUST4537,Ok Product,Books,2333.22,3,1,6929.66,4.6,0.27,Cash on Delivery,Mumbai,5/12/2026
+ORD0661,CUST2046,Many Product,Beauty,482.13,5,11,2145.48,3.3,0.69,Net Banking,Mumbai,12/20/2025
+ORD0662,CUST6643,Various Product,Fashion,3702.02,4,11,13179.19,3.8,0.09,Cash on Delivery,Delhi,10/14/2025
+ORD0663,CUST4961,Ground Product,Fashion,3019.42,1,38,1872.04,4.7,0.01,Credit Card,Madurai,11/27/2025
+ORD0664,CUST5015,Spend Product,Sports,1178.14,2,38,1460.89,2.6,0.5,Net Banking,Hyderabad,7/17/2025
+ORD0665,CUST3601,Its Product,Electronics,449.68,3,3,1308.57,4.9,0.04,Credit Card,Chennai,10/8/2025
+ORD0666,CUST7057,Rate Product,Sports,4017,1,10,3615.3,4.3,0.77,Credit Card,Bangalore,3/6/2026
+ORD0667,CUST7058,Identify Product,Beauty,1657.98,4,36,4244.43,4,0.43,Credit Card,Hyderabad,12/16/2025
+ORD0668,CUST7841,Writer Product,Fashion,3797.12,1,12,3341.47,3.7,0.88,UPI,Mumbai,10/12/2025
+ORD0669,CUST1435,Front Product,Home,715.85,3,7,1997.22,1.7,0.49,Net Banking,Mumbai,1/7/2026
+ORD0670,CUST1538,Drug Product,Sports,1570.75,1,0,1570.75,1.8,0.5,UPI,Bangalore,8/24/2025
+ORD0671,CUST2547,Movement Product,Electronics,533.61,4,28,1536.8,3.4,0.72,Debit Card,Hyderabad,8/9/2025
+ORD0672,CUST3412,Worker Product,Home,3833.17,4,38,9506.26,3.7,0.72,Cash on Delivery,Mumbai,4/29/2026
+ORD0673,CUST8177,Opportunity Product,Beauty,3608.95,3,12,9527.63,4.9,0.63,Debit Card,Delhi,5/12/2026
+ORD0674,CUST1536,Pull Product,Electronics,3951.15,1,32,2686.78,4.6,0.64,Net Banking,Bangalore,10/14/2025
+ORD0675,CUST7303,Leader Product,Beauty,766.27,4,9,2789.22,1.6,0.94,Credit Card,Madurai,11/6/2025
+ORD0676,CUST5884,Parent Product,Sports,3129.17,5,28,11265.01,2,0.22,Debit Card,Bangalore,5/8/2026
+ORD0677,CUST7258,Perhaps Product,Sports,4400.71,1,9,4004.65,3.2,0.64,Net Banking,Delhi,5/6/2026
+ORD0678,CUST4636,Almost Product,Sports,1846.99,3,30,3878.68,4.4,0.29,Credit Card,Bangalore,6/30/2025
+ORD0679,CUST8512,Participant Product,Books,3251.48,3,40,5852.66,2.9,0.94,Credit Card,Madurai,5/5/2026
+ORD0680,CUST8405,Together Product,Books,2508.75,2,13,4365.23,4,0.21,UPI,Hyderabad,8/19/2025
+ORD0681,CUST7300,Heavy Product,Sports,4479.74,1,12,3942.17,4.3,0.91,Cash on Delivery,Chennai,9/3/2025
+ORD0682,CUST5868,With Product,Beauty,4699.3,5,15,19972.02,1.8,0.55,Net Banking,Bangalore,4/25/2026
+ORD0683,CUST5221,Maintain Product,Electronics,553.46,1,35,359.75,2.2,0.07,Credit Card,Madurai,4/15/2026
+ORD0684,CUST5136,Spring Product,Fashion,1146.22,4,37,2888.47,3.7,0.92,Credit Card,Bangalore,1/28/2026
+ORD0685,CUST6773,Huge Product,Sports,4732.3,1,40,2839.38,2.9,0.18,UPI,Delhi,12/21/2025
+ORD0686,CUST2322,Defense Product,Electronics,3925.94,2,0,7851.88,2.5,0.91,Credit Card,Chennai,9/19/2025
+ORD0687,CUST5610,Increase Product,Fashion,1494.72,4,39,3647.12,3.4,0.06,Credit Card,Hyderabad,3/28/2026
+ORD0688,CUST4915,Before Product,Electronics,3450.97,2,13,6004.69,4.3,0.92,Cash on Delivery,Bangalore,3/31/2026
+ORD0689,CUST7880,Media Product,Beauty,2845.04,4,37,7169.5,3.3,0.13,UPI,Mumbai,8/26/2025
+ORD0690,CUST6266,Most Product,Home,4794.23,2,29,6807.81,3,0.34,Debit Card,Mumbai,6/21/2025
+ORD0691,CUST1101,For Product,Beauty,4556.33,2,40,5467.6,5,0.66,UPI,Chennai,10/22/2025
+ORD0692,CUST4576,Fear Product,Home,2661.98,2,37,3354.09,2.2,0.37,Cash on Delivery,Bangalore,12/11/2025
+ORD0693,CUST5024,Write Product,Electronics,4718.18,3,21,11182.09,5,0.53,Credit Card,Bangalore,2/22/2026
+ORD0694,CUST2249,Learn Product,Fashion,1678.24,5,1,8307.29,2.2,0.24,UPI,Mumbai,11/29/2025
+ORD0695,CUST9596,Position Product,Electronics,4457.67,1,40,2674.6,3.3,0.66,Debit Card,Bangalore,4/12/2026
+ORD0696,CUST3879,Evidence Product,Beauty,2896.06,4,15,9846.6,4.6,0.55,Debit Card,Bangalore,10/22/2025
+ORD0697,CUST9466,Too Product,Books,4286.29,4,6,16116.45,3.9,0.96,Cash on Delivery,Delhi,7/21/2025
+ORD0698,CUST4157,Produce Product,Fashion,2738.28,2,19,4436.01,1.4,0.79,Cash on Delivery,Chennai,6/2/2025
+ORD0699,CUST7256,Product Product,Electronics,2162.45,4,24,6573.85,3,0.93,Debit Card,Madurai,12/3/2025
+ORD0700,CUST3286,Allow Product,Fashion,1673.64,3,18,4117.15,4.6,0.07,Net Banking,Bangalore,5/31/2025
+ORD0701,CUST3818,Strategy Product,Fashion,4176.63,1,0,4176.63,1.9,0.24,Net Banking,Madurai,12/9/2025
+ORD0702,CUST8751,Then Product,Electronics,4176.99,3,33,8395.75,1.3,0.85,Cash on Delivery,Bangalore,9/1/2025
+ORD0703,CUST7408,Far Product,Home,974.4,5,39,2971.92,2.4,0.1,Credit Card,Delhi,10/31/2025
+ORD0704,CUST2742,East Product,Books,2984.18,3,39,5461.05,3.9,0.78,Credit Card,Hyderabad,9/29/2025
+ORD0705,CUST8008,May Product,Fashion,198.21,3,31,410.29,3.6,0.96,UPI,Delhi,9/30/2025
+ORD0706,CUST5162,Since Product,Sports,3831.54,3,29,8161.18,3.2,0.21,UPI,Hyderabad,8/7/2025
+ORD0707,CUST5489,Executive Product,Beauty,1416.69,3,34,2805.05,1.9,0.57,Cash on Delivery,Mumbai,6/1/2025
+ORD0708,CUST6798,Health Product,Sports,1665.81,1,20,1332.65,4.5,0.57,Debit Card,Bangalore,10/3/2025
+ORD0709,CUST9738,Think Product,Beauty,3760.87,1,37,2369.35,3.5,0.06,Debit Card,Bangalore,4/22/2026
+ORD0710,CUST4836,Officer Product,Fashion,3884.8,3,16,9789.7,2.2,0.23,Credit Card,Mumbai,9/22/2025
+ORD0711,CUST8050,Raise Product,Beauty,3720.88,5,33,12464.95,4.9,0.56,Debit Card,Madurai,8/30/2025
+ORD0712,CUST7831,Care Product,Home,2945.45,4,40,7069.08,4.7,0.95,Credit Card,Chennai,11/20/2025
+ORD0713,CUST9167,Interesting Product,Sports,433.38,3,16,1092.12,4.5,0.36,UPI,Delhi,1/13/2026
+ORD0714,CUST2916,Really Product,Electronics,1333.21,5,31,4599.57,1.8,0.01,UPI,Madurai,4/3/2026
+ORD0715,CUST9238,Those Product,Sports,1821.68,5,29,6466.96,2.1,0.28,Credit Card,Bangalore,7/19/2025
+ORD0716,CUST2936,Board Product,Books,2848.41,3,18,7007.09,4.1,0.6,UPI,Madurai,7/16/2025
+ORD0717,CUST4645,Focus Product,Electronics,2851.4,4,39,6957.42,2.8,0.38,Credit Card,Madurai,4/26/2026
+ORD0718,CUST9682,Many Product,Electronics,3424.54,2,2,6712.1,2,0.65,Debit Card,Mumbai,1/4/2026
+ORD0719,CUST7686,Describe Product,Sports,759.72,2,33,1018.02,1.6,0.28,UPI,Delhi,9/17/2025
+ORD0720,CUST1141,Seat Product,Sports,1066.23,3,23,2462.99,1.8,0.76,Credit Card,Mumbai,4/12/2026
+ORD0721,CUST9890,Tonight Product,Beauty,1292.44,2,11,2300.54,3.7,0.43,Net Banking,Bangalore,10/28/2025
+ORD0722,CUST9137,Hospital Product,Fashion,1751.65,2,9,3188,3.2,0.89,Credit Card,Hyderabad,8/25/2025
+ORD0723,CUST5413,Officer Product,Sports,3482.54,4,36,8915.3,4.2,0.59,Debit Card,Bangalore,1/3/2026
+ORD0724,CUST9170,Character Product,Beauty,3118.23,5,8,14343.86,3.1,0.06,Cash on Delivery,Chennai,1/6/2026
+ORD0725,CUST2149,Step Product,Sports,3268.16,5,28,11765.38,1.4,0.49,Net Banking,Bangalore,11/23/2025
+ORD0726,CUST6944,Simply Product,Books,566.73,4,37,1428.16,1.9,0.08,UPI,Chennai,4/21/2026
+ORD0727,CUST2928,Hold Product,Sports,1353.78,4,20,4332.1,1.3,0.92,Credit Card,Hyderabad,1/29/2026
+ORD0728,CUST3686,Piece Product,Electronics,2430.26,2,16,4082.84,3.2,0.13,Credit Card,Madurai,6/16/2025
+ORD0729,CUST6512,Only Product,Beauty,3086.25,3,9,8425.46,5,0.03,UPI,Delhi,12/23/2025
+ORD0730,CUST8068,South Product,Sports,2736.47,1,8,2517.55,1.6,0.19,Cash on Delivery,Bangalore,5/30/2025
+ORD0731,CUST5099,Game Product,Home,2649.58,2,28,3815.4,3.3,0.08,Cash on Delivery,Madurai,8/3/2025
+ORD0732,CUST8968,Choose Product,Beauty,2511.99,1,40,1507.19,4.7,0.53,Net Banking,Hyderabad,7/30/2025
+ORD0733,CUST9122,Boy Product,Sports,2949.47,1,31,2035.13,3,0.27,Credit Card,Bangalore,5/11/2026
+ORD0734,CUST8810,More Product,Fashion,2766.69,3,1,8217.07,3,0.9,Credit Card,Hyderabad,8/12/2025
+ORD0735,CUST2790,Mind Product,Home,1029.77,1,26,762.03,2.7,0.81,Debit Card,Bangalore,11/2/2025
+ORD0736,CUST1730,Think Product,Beauty,3166.75,1,39,1931.72,3.7,0.82,Cash on Delivery,Madurai,6/23/2025
+ORD0737,CUST7728,Listen Product,Books,507.95,3,35,990.5,3.5,0.61,Debit Card,Bangalore,4/7/2026
+ORD0738,CUST1457,Not Product,Electronics,418.75,4,38,1038.5,4,0.44,UPI,Hyderabad,7/26/2025
+ORD0739,CUST3449,Follow Product,Books,1307.12,4,31,3607.65,2.3,0.41,Credit Card,Bangalore,1/21/2026
+ORD0740,CUST3504,Seek Product,Books,4593.75,4,0,18375,3.6,0.08,Net Banking,Delhi,4/24/2026
+ORD0741,CUST9506,Game Product,Beauty,298.78,1,7,277.87,3.8,0,UPI,Chennai,5/15/2026
+ORD0742,CUST1846,His Product,Beauty,3205.56,4,17,10642.46,2.6,0.9,Debit Card,Bangalore,1/21/2026
+ORD0743,CUST1444,Tonight Product,Fashion,3814.31,3,33,7666.76,4.2,0.69,Debit Card,Chennai,6/21/2025
+ORD0744,CUST8718,Especially Product,Books,2396.57,1,16,2013.12,3,0.49,Cash on Delivery,Madurai,6/28/2025
+ORD0745,CUST4544,Term Product,Electronics,246.26,5,4,1182.05,4.4,0.84,Cash on Delivery,Mumbai,4/8/2026
+ORD0746,CUST7691,Theory Product,Sports,3928.32,5,14,16891.78,1.1,0.73,Credit Card,Chennai,12/17/2025
+ORD0747,CUST1913,Food Product,Fashion,635.56,1,1,629.2,2.3,0.18,Cash on Delivery,Delhi,1/29/2026
+ORD0748,CUST6699,Describe Product,Sports,2112.6,2,37,2661.88,4.7,0.46,Credit Card,Mumbai,2/27/2026
+ORD0749,CUST2091,Main Product,Fashion,4126.88,2,20,6603.01,3.3,0.43,Cash on Delivery,Bangalore,1/21/2026
+ORD0750,CUST7725,Art Product,Beauty,2296.33,1,6,2158.55,3.7,0.31,Credit Card,Chennai,5/11/2026
+ORD0751,CUST4709,End Product,Electronics,110.61,5,26,409.26,1.6,0.26,Net Banking,Hyderabad,6/14/2025
+ORD0752,CUST2381,Card Product,Home,4461.87,2,18,7317.47,1.9,0.42,Cash on Delivery,Bangalore,3/29/2026
+ORD0753,CUST1640,Though Product,Books,1680.77,4,30,4706.16,2.4,0.22,Net Banking,Hyderabad,7/29/2025
+ORD0754,CUST3991,Paper Product,Sports,2417.29,2,7,4496.16,3.8,0.84,Credit Card,Bangalore,7/19/2025
+ORD0755,CUST8478,Floor Product,Home,1364.74,2,15,2320.06,1.8,0.17,Debit Card,Delhi,7/15/2025
+ORD0756,CUST2180,World Product,Electronics,900.92,1,22,702.72,4.1,0.93,Net Banking,Madurai,4/23/2026
+ORD0757,CUST8534,Trouble Product,Books,3459.77,3,3,10067.93,1,0.35,UPI,Mumbai,3/5/2026
+ORD0758,CUST3033,Notice Product,Beauty,4803.29,5,4,23055.79,4.1,0.81,Debit Card,Delhi,1/23/2026
+ORD0759,CUST3322,Not Product,Electronics,310.7,3,39,568.58,1.2,0.62,Debit Card,Madurai,7/5/2025
+ORD0760,CUST3492,Return Product,Sports,4267.7,5,33,14296.79,1.8,0.41,Credit Card,Madurai,10/22/2025
+ORD0761,CUST8177,Sometimes Product,Fashion,3002.67,5,17,12461.08,1.4,0.89,UPI,Delhi,7/17/2025
+ORD0762,CUST2395,Form Product,Beauty,1026.87,1,16,862.57,2.9,0.95,Credit Card,Madurai,10/27/2025
+ORD0763,CUST9294,Church Product,Fashion,1731.26,5,12,7617.54,2.2,0.25,Net Banking,Madurai,8/6/2025
+ORD0764,CUST8783,Edge Product,Beauty,2904.5,2,10,5228.1,3,0.33,Debit Card,Hyderabad,11/2/2025
+ORD0765,CUST1271,Both Product,Home,1569.78,2,24,2386.07,2.8,0.57,UPI,Bangalore,1/20/2026
+ORD0766,CUST4357,Great Product,Books,4214.37,1,24,3202.92,2.4,0.05,Net Banking,Madurai,4/12/2026
+ORD0767,CUST7383,Arrive Product,Sports,1507.32,2,21,2381.57,2.1,0.18,Net Banking,Mumbai,1/15/2026
+ORD0768,CUST9565,Direction Product,Home,2796.37,3,15,7130.74,2.5,0.92,Net Banking,Bangalore,6/26/2025
+ORD0769,CUST2223,Movie Product,Electronics,1468.31,2,32,1996.9,2.9,0.9,Credit Card,Delhi,7/27/2025
+ORD0770,CUST4191,Of Product,Sports,3282.51,1,15,2790.13,2.6,0.08,UPI,Delhi,4/16/2026
+ORD0771,CUST8409,Store Product,Home,4690.01,5,2,22981.05,1,0.69,UPI,Hyderabad,6/20/2025
+ORD0772,CUST7502,Possible Product,Home,912.95,4,11,3250.1,3.1,0.14,Cash on Delivery,Hyderabad,5/6/2026
+ORD0773,CUST5914,Today Product,Sports,1191.49,3,24,2716.6,4.7,0.49,Credit Card,Delhi,5/9/2026
+ORD0774,CUST6343,Early Product,Electronics,4568.4,5,1,22613.58,1.9,0.51,Debit Card,Madurai,4/27/2026
+ORD0775,CUST3255,Truth Product,Sports,3143.4,5,40,9430.2,1.5,0.3,Credit Card,Hyderabad,6/27/2025
+ORD0776,CUST5114,Pass Product,Home,2287.69,2,7,4255.1,3,0.46,Net Banking,Madurai,5/16/2026
+ORD0777,CUST5194,Purpose Product,Fashion,1016.2,4,7,3780.26,4.1,0.21,Cash on Delivery,Delhi,8/6/2025
+ORD0778,CUST6139,So Product,Electronics,3775.96,1,0,3775.96,2.1,0.02,Net Banking,Delhi,11/19/2025
+ORD0779,CUST9250,Indicate Product,Fashion,602.34,4,11,2144.33,2.2,0.23,Debit Card,Chennai,10/13/2025
+ORD0780,CUST4236,Research Product,Books,750.84,5,26,2778.11,1.3,0.9,Cash on Delivery,Madurai,8/24/2025
+ORD0781,CUST3454,Space Product,Beauty,2333.69,5,6,10968.34,1.7,0.03,Debit Card,Hyderabad,6/6/2025
+ORD0782,CUST3257,Throw Product,Sports,3176.82,5,9,14454.53,1.4,0.15,Cash on Delivery,Bangalore,11/5/2025
+ORD0783,CUST2628,Republican Product,Home,294.15,5,32,1000.11,2.7,0.78,Credit Card,Delhi,12/19/2025
+ORD0784,CUST6529,Meet Product,Books,4851.74,3,10,13099.7,3.5,0.6,Debit Card,Delhi,6/11/2025
+ORD0785,CUST9651,Third Product,Fashion,3586.07,4,3,13913.95,4.7,0.22,UPI,Chennai,4/23/2026
+ORD0786,CUST5830,Street Product,Beauty,3230.19,2,29,4586.87,4.2,0.89,Debit Card,Mumbai,8/9/2025
+ORD0787,CUST1354,Serious Product,Electronics,3662.21,3,25,8239.97,4,0.29,Credit Card,Madurai,6/7/2025
+ORD0788,CUST9624,Create Product,Home,874.23,1,40,524.54,3.7,0.01,Credit Card,Mumbai,10/11/2025
+ORD0789,CUST3195,Describe Product,Fashion,2196.81,5,28,7908.52,1.8,0.28,UPI,Delhi,8/2/2025
+ORD0790,CUST4997,Behind Product,Beauty,3147.75,3,10,8498.93,1.5,0.09,Net Banking,Hyderabad,12/18/2025
+ORD0791,CUST7864,Whose Product,Home,170.16,1,15,144.64,3.6,0.94,Credit Card,Hyderabad,2/8/2026
+ORD0792,CUST9673,Few Product,Electronics,3602.54,3,35,7024.95,4.2,0.68,Credit Card,Delhi,8/25/2025
+ORD0793,CUST1112,Method Product,Home,4797.76,2,40,5757.31,2.3,0.6,Cash on Delivery,Bangalore,7/12/2025
+ORD0794,CUST3951,Sign Product,Home,1987.44,5,1,9837.83,4.7,0.46,UPI,Hyderabad,12/26/2025
+ORD0795,CUST1759,Hope Product,Fashion,800.28,4,8,2945.03,4,0.4,UPI,Hyderabad,9/9/2025
+ORD0796,CUST1484,Personal Product,Electronics,3663.77,3,22,8573.22,4.2,0.16,Debit Card,Madurai,3/7/2026
+ORD0797,CUST1104,Where Product,Books,4061.88,5,0,20309.4,4.9,0.5,Credit Card,Madurai,9/27/2025
+ORD0798,CUST7003,Budget Product,Electronics,2814.76,3,19,6839.87,1,0.26,Cash on Delivery,Bangalore,11/12/2025
+ORD0799,CUST7800,Artist Product,Fashion,3348.61,2,39,4085.3,3.7,0.4,Cash on Delivery,Chennai,9/18/2025
+ORD0800,CUST1607,Trouble Product,Beauty,1976.99,3,8,5456.49,3.9,0.55,Net Banking,Delhi,4/27/2026
+ORD0801,CUST5982,List Product,Electronics,4197.38,3,18,10325.55,1.9,0.44,Net Banking,Hyderabad,8/13/2025
+ORD0802,CUST8623,Pressure Product,Sports,3499.4,2,14,6018.97,4.1,0.08,Cash on Delivery,Chennai,8/5/2025
+ORD0803,CUST2401,Police Product,Beauty,4935.98,5,35,16041.93,4.4,0.86,Net Banking,Delhi,1/28/2026
+ORD0804,CUST4449,Hope Product,Books,2250.59,4,23,6931.82,4.2,0.91,UPI,Madurai,1/12/2026
+ORD0805,CUST5318,Such Product,Beauty,3237.58,1,35,2104.43,5,0.12,Credit Card,Mumbai,3/31/2026
+ORD0806,CUST6291,Account Product,Home,4055.98,4,26,12005.7,3.2,0.29,Net Banking,Chennai,10/14/2025
+ORD0807,CUST5646,Somebody Product,Fashion,2995.55,5,25,11233.31,1.2,0.2,Net Banking,Madurai,6/8/2025
+ORD0808,CUST5626,Soldier Product,Home,1639.33,1,27,1196.71,4.9,0.92,Debit Card,Chennai,6/2/2025
+ORD0809,CUST6453,Onto Product,Books,1020.14,2,29,1448.6,5,0.41,Net Banking,Delhi,1/20/2026
+ORD0810,CUST6049,Wear Product,Beauty,2503.19,2,16,4205.36,3.8,0.67,Credit Card,Hyderabad,5/24/2025
+ORD0811,CUST6725,Some Product,Fashion,1413.68,3,18,3477.65,2.3,0.54,Debit Card,Hyderabad,12/25/2025
+ORD0812,CUST6259,Light Product,Beauty,1506.41,2,8,2771.79,3.5,0.67,Cash on Delivery,Delhi,10/29/2025
+ORD0813,CUST1107,Ball Product,Fashion,2628.95,1,15,2234.61,2.4,0.29,Debit Card,Chennai,9/1/2025
+ORD0814,CUST5021,Between Product,Books,2268.51,2,24,3448.14,2.4,0.2,UPI,Bangalore,2/25/2026
+ORD0815,CUST4971,Soldier Product,Books,4516.24,4,7,16800.41,3.4,0.35,UPI,Mumbai,1/12/2026
+ORD0816,CUST7863,Line Product,Books,4689.57,2,22,7315.73,2.8,0.93,UPI,Delhi,10/27/2025
+ORD0817,CUST3193,Adult Product,Sports,4246.04,3,36,8152.4,2.3,0.36,UPI,Bangalore,10/15/2025
+ORD0818,CUST5028,Moment Product,Beauty,4029.11,3,23,9307.24,3.6,0.27,Credit Card,Delhi,11/22/2025
+ORD0819,CUST2529,Adult Product,Fashion,3047.5,2,31,4205.55,4.7,0.79,Debit Card,Chennai,9/12/2025
+ORD0820,CUST4401,Stand Product,Fashion,3243.9,1,4,3114.14,2.3,0.8,Net Banking,Madurai,12/22/2025
+ORD0821,CUST5658,He Product,Sports,3644.1,2,40,4372.92,1.6,1,Credit Card,Chennai,8/11/2025
+ORD0822,CUST3905,Collection Product,Sports,4672.32,1,11,4158.36,3.6,0.48,Net Banking,Madurai,9/13/2025
+ORD0823,CUST3958,Fast Product,Fashion,984.89,2,6,1851.59,4.6,0.56,Credit Card,Hyderabad,12/21/2025
+ORD0824,CUST5316,Perform Product,Electronics,4072.8,1,11,3624.79,1.7,0.98,Net Banking,Madurai,12/30/2025
+ORD0825,CUST4681,Relationship Product,Electronics,2904.28,5,8,13359.69,1.7,0.77,Credit Card,Mumbai,7/7/2025
+ORD0826,CUST4657,Site Product,Beauty,1323.98,5,20,5295.92,4.8,0.2,Debit Card,Mumbai,9/14/2025
+ORD0827,CUST4298,Theory Product,Home,4022.96,3,30,8448.22,4.8,0.97,Net Banking,Chennai,12/11/2025
+ORD0828,CUST2033,Some Product,Sports,837.29,2,4,1607.6,2.2,0.48,Net Banking,Bangalore,2/23/2026
+ORD0829,CUST4050,Election Product,Books,1258.11,1,12,1107.14,2.1,0.44,UPI,Hyderabad,2/23/2026
+ORD0830,CUST1778,Ever Product,Electronics,3065.71,4,0,12262.84,2.4,0.23,Debit Card,Mumbai,11/1/2025
+ORD0831,CUST8932,Open Product,Books,155.3,5,7,722.14,2.4,0.35,Net Banking,Hyderabad,12/21/2025
+ORD0832,CUST6332,Small Product,Books,4649.27,3,19,11297.73,4.9,0.73,UPI,Mumbai,1/21/2026
+ORD0833,CUST1971,Maybe Product,Home,943.4,1,30,660.38,1,0.39,UPI,Bangalore,1/31/2026
+ORD0834,CUST4694,Watch Product,Beauty,1550.65,2,1,3070.29,1.4,0.96,Debit Card,Bangalore,5/13/2026
+ORD0835,CUST2330,Short Product,Books,3432.95,2,36,4394.18,4,0.62,Net Banking,Mumbai,11/2/2025
+ORD0836,CUST7536,Room Product,Beauty,1798.79,4,27,5252.47,2,0.7,Cash on Delivery,Delhi,10/27/2025
+ORD0837,CUST6894,Through Product,Home,680.65,3,20,1633.56,3.4,0.82,Debit Card,Hyderabad,6/3/2025
+ORD0838,CUST6005,Certainly Product,Home,3907.27,2,7,7267.52,1.4,0.25,UPI,Delhi,5/12/2026
+ORD0839,CUST9502,Myself Product,Books,2768.9,3,22,6479.23,4.5,0.12,UPI,Bangalore,6/6/2025
+ORD0840,CUST3011,All Product,Fashion,1478.31,3,32,3015.75,3.1,0.83,Debit Card,Chennai,7/4/2025
+ORD0841,CUST9781,Arrive Product,Sports,3790.9,1,35,2464.09,2.6,0.71,Debit Card,Bangalore,1/4/2026
+ORD0842,CUST3702,Weight Product,Electronics,2777.68,1,10,2499.91,2.9,0.98,Debit Card,Bangalore,2/2/2026
+ORD0843,CUST9833,Hour Product,Home,971.33,4,10,3496.79,4.3,0.69,UPI,Madurai,8/12/2025
+ORD0844,CUST2361,Measure Product,Electronics,3727.94,4,30,10438.23,3.4,0.83,Net Banking,Chennai,11/28/2025
+ORD0845,CUST4410,Result Product,Electronics,1037.21,1,28,746.79,1.2,0.92,Cash on Delivery,Chennai,6/6/2025
+ORD0846,CUST3578,Than Product,Sports,1718.52,5,6,8077.04,1.5,0.86,Credit Card,Madurai,9/29/2025
+ORD0847,CUST8770,General Product,Electronics,3006.03,1,33,2014.04,3.5,0.69,Net Banking,Mumbai,9/16/2025
+ORD0848,CUST4574,Pay Product,Sports,1746.75,4,23,5379.99,3.6,0.3,Credit Card,Delhi,9/6/2025
+ORD0849,CUST4975,Upon Product,Fashion,3942.15,4,9,14349.43,1.9,0.93,Debit Card,Bangalore,4/9/2026
+ORD0850,CUST3590,Management Product,Beauty,2151.53,2,11,3829.72,3.2,0.82,Cash on Delivery,Bangalore,4/1/2026
+ORD0851,CUST4335,Within Product,Fashion,4313.55,3,8,11905.4,5,0.59,Cash on Delivery,Madurai,11/16/2025
+ORD0852,CUST4199,Challenge Product,Home,854.03,3,35,1665.36,1.4,0.8,Net Banking,Hyderabad,12/7/2025
+ORD0853,CUST4233,Office Product,Beauty,3641.07,1,39,2221.05,2.6,0.92,Credit Card,Mumbai,7/29/2025
+ORD0854,CUST2784,Good Product,Sports,2920.83,2,11,5199.08,4.1,0.91,UPI,Hyderabad,4/5/2026
+ORD0855,CUST4123,Raise Product,Home,2805.37,4,23,8640.54,2.7,0.66,Cash on Delivery,Delhi,1/16/2026
+ORD0856,CUST3762,World Product,Home,4696.21,1,23,3616.08,2.2,0.41,Cash on Delivery,Mumbai,5/29/2025
+ORD0857,CUST1811,Success Product,Sports,2489.9,3,27,5452.88,4.9,0.6,Cash on Delivery,Chennai,5/6/2026
+ORD0858,CUST2316,Position Product,Electronics,1885.43,4,4,7240.05,2.5,0.06,Net Banking,Madurai,7/24/2025
+ORD0859,CUST2113,From Product,Fashion,289.37,3,14,746.57,4.4,0.52,UPI,Chennai,7/22/2025
+ORD0860,CUST3577,Item Product,Beauty,583.67,4,28,1680.97,4.2,0.8,Debit Card,Madurai,9/17/2025
+ORD0861,CUST5447,Produce Product,Books,4150.87,2,5,7886.65,2.7,0.69,Credit Card,Bangalore,3/14/2026
+ORD0862,CUST9040,Career Product,Home,1936.39,4,0,7745.56,3.2,0.04,Cash on Delivery,Mumbai,9/24/2025
+ORD0863,CUST9580,Face Product,Books,938.93,3,9,2563.28,2.2,0.13,Credit Card,Bangalore,5/10/2026
+ORD0864,CUST6067,Out Product,Electronics,1462.34,1,39,892.03,1.7,0.08,Debit Card,Hyderabad,8/23/2025
+ORD0865,CUST3374,Off Product,Home,4297.92,2,18,7048.59,2.1,0.61,Credit Card,Madurai,9/3/2025
+ORD0866,CUST5456,Wrong Product,Books,3720.54,4,38,9226.94,2.6,0.87,Credit Card,Bangalore,11/3/2025
+ORD0867,CUST2467,Involve Product,Beauty,4608.64,2,21,7281.65,2.2,0.86,Net Banking,Delhi,1/10/2026
+ORD0868,CUST1411,Old Product,Sports,4116.18,4,10,14818.25,3.6,0.45,Debit Card,Chennai,8/26/2025
+ORD0869,CUST6373,Food Product,Beauty,2397.84,4,13,8344.48,3.8,0.64,UPI,Mumbai,6/17/2025
+ORD0870,CUST3538,They Product,Beauty,601.71,1,39,367.04,1.9,0.72,Credit Card,Chennai,11/14/2025
+ORD0871,CUST1585,Approach Product,Electronics,2839.31,1,8,2612.17,1.3,0.44,Debit Card,Delhi,11/8/2025
+ORD0872,CUST8910,Party Product,Fashion,3437.98,5,40,10313.94,5,0.77,Cash on Delivery,Madurai,2/10/2026
+ORD0873,CUST2418,Degree Product,Beauty,341.39,3,6,962.72,1.2,0.6,Debit Card,Mumbai,9/25/2025
+ORD0874,CUST1454,Western Product,Fashion,1679.65,1,30,1175.75,3.4,0.25,Net Banking,Bangalore,10/4/2025
+ORD0875,CUST8702,Series Product,Home,838.59,5,26,3102.78,1.1,0.32,Credit Card,Mumbai,7/12/2025
+ORD0876,CUST2785,As Product,Sports,2205.72,5,28,7940.59,4.4,0.14,Debit Card,Hyderabad,2/18/2026
+ORD0877,CUST8026,Or Product,Electronics,4442.71,5,19,17992.98,3.8,0.17,Credit Card,Mumbai,10/3/2025
+ORD0878,CUST3739,True Product,Books,3996.06,4,15,13586.6,1.6,0.98,Debit Card,Hyderabad,1/28/2026
+ORD0879,CUST8464,Determine Product,Home,2631.23,4,40,6314.95,4.5,0.14,Net Banking,Madurai,5/31/2025
+ORD0880,CUST9164,Many Product,Electronics,1715.59,2,32,2333.2,2.4,0.44,Credit Card,Chennai,10/22/2025
+ORD0881,CUST6893,Pull Product,Sports,4573.81,5,28,16465.72,4.5,0.53,Debit Card,Chennai,12/25/2025
+ORD0882,CUST9771,Everything Product,Books,3566.3,2,5,6775.97,2.2,0.34,UPI,Bangalore,2/5/2026
+ORD0883,CUST8667,Center Product,Sports,4077.17,2,30,5708.04,1.9,0.92,UPI,Delhi,2/22/2026
+ORD0884,CUST8571,As Product,Sports,1795.88,2,12,3160.75,3.7,0.62,Credit Card,Chennai,10/6/2025
+ORD0885,CUST2337,Market Product,Electronics,2692.95,1,16,2262.08,1.7,0.09,UPI,Chennai,11/21/2025
+ORD0886,CUST9843,Police Product,Fashion,3850.43,1,21,3041.84,1,0.4,Cash on Delivery,Hyderabad,2/6/2026
+ORD0887,CUST9289,Door Product,Books,2729.67,2,5,5186.37,2.3,0.5,Credit Card,Bangalore,2/4/2026
+ORD0888,CUST5427,Say Product,Sports,1439.17,4,2,5641.55,3,0.19,Credit Card,Chennai,10/26/2025
+ORD0889,CUST1721,Fact Product,Fashion,1451.18,2,2,2844.31,4.8,0.9,Debit Card,Hyderabad,6/10/2025
+ORD0890,CUST4623,Their Product,Home,941.3,5,3,4565.31,3.6,0.44,Cash on Delivery,Mumbai,8/5/2025
+ORD0891,CUST9474,Take Product,Fashion,3333.59,1,17,2766.88,2.6,0.5,Debit Card,Chennai,6/30/2025
+ORD0892,CUST8943,Sister Product,Books,1273,5,30,4455.5,3.1,0.08,Credit Card,Chennai,11/13/2025
+ORD0893,CUST8529,Property Product,Books,2794.91,1,9,2543.37,4.7,0.04,Credit Card,Bangalore,7/7/2025
+ORD0894,CUST6960,Agency Product,Fashion,2724.14,5,34,8989.66,1.3,0.4,Credit Card,Bangalore,7/20/2025
+ORD0895,CUST6250,Step Product,Electronics,1024.79,4,25,3074.37,4.2,0.43,Credit Card,Delhi,2/20/2026
+ORD0896,CUST9386,Himself Product,Sports,1342.9,3,26,2981.24,4.9,0.56,Cash on Delivery,Madurai,1/9/2026
+ORD0897,CUST4068,Appear Product,Home,420.32,2,8,773.39,1.9,0.34,UPI,Bangalore,12/2/2025
+ORD0898,CUST8605,Civil Product,Sports,188.35,1,10,169.51,2.5,0.21,Credit Card,Delhi,10/4/2025
+ORD0899,CUST4911,Your Product,Fashion,4303.64,4,40,10328.74,1.3,0.57,UPI,Mumbai,3/5/2026
+ORD0900,CUST1081,Road Product,Books,2409.23,1,14,2071.94,3.7,0.53,Debit Card,Bangalore,5/13/2026
+ORD0901,CUST2962,City Product,Sports,610.93,4,32,1661.73,4.6,0.8,Net Banking,Madurai,3/10/2026
+ORD0902,CUST6114,Here Product,Electronics,1481.64,3,34,2933.65,2.4,0.06,Credit Card,Hyderabad,10/23/2025
+ORD0903,CUST9358,Think Product,Electronics,2968.46,4,33,7955.47,3.5,0.79,Debit Card,Mumbai,5/6/2026
+ORD0904,CUST8722,Key Product,Beauty,4954.9,4,37,12486.35,3.4,0.82,Credit Card,Bangalore,3/23/2026
+ORD0905,CUST2699,Sing Product,Books,4335.13,3,9,11834.9,1.8,0.46,Debit Card,Delhi,7/15/2025
+ORD0906,CUST3684,Morning Product,Fashion,558.82,2,38,692.94,3.3,0.53,Debit Card,Mumbai,1/22/2026
+ORD0907,CUST4196,Board Product,Fashion,2820.46,4,28,8122.92,2.5,0.92,Credit Card,Mumbai,8/14/2025
+ORD0908,CUST4742,Plant Product,Books,1163.56,1,21,919.21,3.5,0.77,Net Banking,Chennai,8/28/2025
+ORD0909,CUST6699,Arrive Product,Beauty,3234.69,4,16,10868.56,2.4,0.47,Cash on Delivery,Mumbai,9/30/2025
+ORD0910,CUST9165,Southern Product,Books,1518.62,5,37,4783.65,4,0.03,Credit Card,Bangalore,5/29/2025
+ORD0911,CUST3929,Door Product,Fashion,1346.96,3,13,3515.57,2.1,0.98,Debit Card,Bangalore,5/5/2026
+ORD0912,CUST6947,Model Product,Beauty,1029.89,3,28,2224.56,4.1,0.18,Net Banking,Chennai,7/3/2025
+ORD0913,CUST5329,Sell Product,Fashion,3926.66,1,33,2630.86,3.8,0.56,Credit Card,Bangalore,1/10/2026
+ORD0914,CUST6297,Consumer Product,Fashion,4864.42,5,29,17268.69,2.4,0.54,Cash on Delivery,Madurai,7/5/2025
+ORD0915,CUST2626,Certainly Product,Books,4245.22,5,33,14221.49,1.2,0.28,UPI,Delhi,1/3/2026
+ORD0916,CUST3007,Interesting Product,Home,613.4,5,23,2361.59,2.4,0.65,Credit Card,Madurai,9/14/2025
+ORD0917,CUST2389,Since Product,Fashion,3297.97,1,13,2869.23,1.4,0.73,UPI,Delhi,8/31/2025
+ORD0918,CUST1336,Theory Product,Sports,418.24,3,36,803.02,1.5,0.51,Debit Card,Bangalore,12/20/2025
+ORD0919,CUST5564,Fund Product,Books,1185.9,5,27,4328.53,3.9,0.78,Credit Card,Hyderabad,3/16/2026
+ORD0920,CUST6590,Head Product,Beauty,1377.78,5,7,6406.68,1.9,0.73,Net Banking,Delhi,3/17/2026
+ORD0921,CUST5441,Education Product,Sports,4261.97,5,36,13638.3,4.8,0.84,UPI,Delhi,11/12/2025
+ORD0922,CUST8867,Law Product,Electronics,4018.42,3,20,9644.21,3.7,0.67,Credit Card,Mumbai,12/24/2025
+ORD0923,CUST2572,Likely Product,Beauty,2464.35,3,1,7319.12,4.5,0.65,Cash on Delivery,Madurai,12/28/2025
+ORD0924,CUST9741,Marriage Product,Fashion,3591.2,1,40,2154.72,3.7,0.97,Net Banking,Chennai,7/14/2025
+ORD0925,CUST8920,Animal Product,Fashion,3849.26,5,21,15204.58,1.3,0.77,Credit Card,Chennai,11/4/2025
+ORD0926,CUST2586,While Product,Beauty,4173.58,1,37,2629.36,4.6,0.02,Credit Card,Hyderabad,9/30/2025
+ORD0927,CUST4882,Stay Product,Beauty,1371.64,3,12,3621.13,3.4,0.4,Net Banking,Chennai,1/22/2026
+ORD0928,CUST3588,On Product,Electronics,1727.79,5,7,8034.22,1.8,0.55,UPI,Madurai,9/15/2025
+ORD0929,CUST2438,They Product,Beauty,4665.33,4,24,14182.6,3.6,0.38,UPI,Mumbai,4/28/2026
+ORD0930,CUST3340,Choice Product,Home,1648.59,2,36,2110.2,1.9,0.55,Credit Card,Bangalore,11/24/2025
+ORD0931,CUST5468,Travel Product,Beauty,2415.14,4,11,8597.9,3.1,0.63,Credit Card,Madurai,1/25/2026
+ORD0932,CUST4462,Buy Product,Beauty,4174.03,3,29,8890.68,3.4,0.18,UPI,Mumbai,4/26/2026
+ORD0933,CUST3087,Off Product,Books,1237.34,5,12,5444.3,2.7,0.33,Cash on Delivery,Delhi,3/15/2026
+ORD0934,CUST1951,Economic Product,Books,3944.55,4,35,10255.83,1.5,0.61,Cash on Delivery,Mumbai,7/6/2025
+ORD0935,CUST8950,Begin Product,Fashion,3803.1,1,32,2586.11,2,0.06,UPI,Delhi,12/23/2025
+ORD0936,CUST1666,Agency Product,Books,1930.66,1,0,1930.66,3.7,0.3,UPI,Chennai,5/7/2026
+ORD0937,CUST1286,Consumer Product,Books,4619.75,5,32,15707.15,3.1,0.65,Credit Card,Hyderabad,12/4/2025
+ORD0938,CUST9810,Traditional Product,Home,4263.11,2,19,6906.24,2.3,0.01,Credit Card,Bangalore,9/6/2025
+ORD0939,CUST2170,Boy Product,Electronics,4363.06,2,18,7155.42,2,0.99,Debit Card,Chennai,4/15/2026
+ORD0940,CUST4524,Speech Product,Beauty,2541.47,5,0,12707.35,2.6,0.69,Cash on Delivery,Hyderabad,11/11/2025
+ORD0941,CUST2547,Note Product,Sports,4901.43,1,8,4509.32,4.8,0.38,Debit Card,Bangalore,3/8/2026
+ORD0942,CUST7797,Clearly Product,Books,2974.4,4,34,7852.42,3.6,0.74,UPI,Madurai,11/30/2025
+ORD0943,CUST9749,View Product,Fashion,2599.69,2,10,4679.44,4.2,0.32,Debit Card,Mumbai,2/15/2026
+ORD0944,CUST4472,Tonight Product,Sports,3904.6,5,18,16008.86,1.1,0.47,Credit Card,Mumbai,4/3/2026
+ORD0945,CUST4573,Including Product,Electronics,4261.74,3,21,10100.32,3.6,0.14,Debit Card,Mumbai,9/27/2025
+ORD0946,CUST8115,Guy Product,Sports,3389.66,2,13,5898.01,3.3,0.38,Credit Card,Delhi,2/16/2026
+ORD0947,CUST9688,Within Product,Home,1356.95,4,15,4613.63,3.3,0.78,UPI,Mumbai,9/26/2025
+ORD0948,CUST7920,Accept Product,Fashion,2711.09,5,26,10031.03,3.6,0.86,Cash on Delivery,Bangalore,1/16/2026
+ORD0949,CUST9952,Adult Product,Sports,3023.98,3,10,8164.75,1.8,0.27,Debit Card,Hyderabad,8/24/2025
+ORD0950,CUST8090,Of Product,Fashion,621.38,1,14,534.39,4.1,0,UPI,Madurai,2/13/2026
+ORD0951,CUST8181,Economic Product,Home,939.92,3,34,1861.04,4.6,0.08,Debit Card,Delhi,9/17/2025
+ORD0952,CUST9910,Smile Product,Electronics,1744.33,3,7,4866.68,1.7,0.6,UPI,Mumbai,10/23/2025
+ORD0953,CUST5795,Per Product,Sports,874.86,5,3,4243.07,4.3,0.54,UPI,Chennai,4/7/2026
+ORD0954,CUST6931,Clear Product,Sports,2774.15,1,21,2191.58,4.5,1,Cash on Delivery,Madurai,8/14/2025
+ORD0955,CUST2456,Figure Product,Home,806.33,2,39,983.72,4.9,0.27,Credit Card,Madurai,6/22/2025
+ORD0956,CUST6355,Culture Product,Home,4156.67,2,14,7149.47,4.9,0.02,Credit Card,Chennai,6/26/2025
+ORD0957,CUST5558,Central Product,Sports,3366.19,2,40,4039.43,3.9,0.98,Net Banking,Delhi,6/7/2025
+ORD0958,CUST2294,News Product,Fashion,4935.21,5,4,23689.01,3.1,0.09,Net Banking,Chennai,2/7/2026
+ORD0959,CUST5427,Alone Product,Books,4851.69,5,22,18921.59,2,0.45,Credit Card,Madurai,3/11/2026
+ORD0960,CUST4459,President Product,Fashion,1251.21,5,23,4817.16,2.3,0.82,Credit Card,Mumbai,11/3/2025
+ORD0961,CUST6754,Report Product,Sports,3450.46,4,29,9799.31,2.1,0.58,UPI,Delhi,8/14/2025
+ORD0962,CUST1448,Worker Product,Fashion,1997.1,3,39,3654.69,1.3,0.35,Debit Card,Hyderabad,2/17/2026
+ORD0963,CUST7912,Toward Product,Books,4353.81,2,17,7227.32,4.5,0.76,Cash on Delivery,Chennai,1/17/2026
+ORD0964,CUST7177,Father Product,Books,1300.36,5,35,4226.17,2,0.92,Net Banking,Mumbai,1/20/2026
+ORD0965,CUST4512,Know Product,Electronics,3782.23,4,14,13010.87,3.2,0.4,Debit Card,Bangalore,10/9/2025
+ORD0966,CUST2106,Site Product,Beauty,1881.78,1,29,1336.06,2.8,0.38,UPI,Bangalore,12/24/2025
+ORD0967,CUST4011,Staff Product,Beauty,2556.18,3,32,5214.61,3.6,0.85,UPI,Bangalore,2/23/2026
+ORD0968,CUST8488,Individual Product,Books,4998.97,2,12,8798.19,4.4,0.23,Debit Card,Madurai,8/4/2025
+ORD0969,CUST7613,Economy Product,Beauty,2819.09,5,27,10289.68,1.7,0.17,Credit Card,Bangalore,3/13/2026
+ORD0970,CUST5656,Add Product,Sports,1876.89,4,40,4504.54,2.2,0.76,Credit Card,Madurai,6/23/2025
+ORD0971,CUST3766,American Product,Electronics,2735.65,4,35,7112.69,4.4,0.14,UPI,Bangalore,12/30/2025
+ORD0972,CUST7293,Well Product,Sports,4214.76,1,33,2823.89,2.1,0.34,UPI,Bangalore,12/6/2025
+ORD0973,CUST1172,Major Product,Electronics,525.96,2,28,757.38,4.4,0.31,Credit Card,Hyderabad,2/22/2026
+ORD0974,CUST5653,Eye Product,Sports,3163.12,1,40,1897.87,3.3,0.06,UPI,Bangalore,12/18/2025
+ORD0975,CUST3239,Question Product,Electronics,1263.81,4,40,3033.14,3.8,0.18,Credit Card,Bangalore,1/29/2026
+ORD0976,CUST7371,Same Product,Fashion,1491.04,5,35,4845.88,3.4,0.3,Credit Card,Mumbai,10/10/2025
+ORD0977,CUST7696,Strategy Product,Electronics,3166.94,3,38,5890.51,4.1,0.68,UPI,Chennai,5/24/2025
+ORD0978,CUST3301,Maintain Product,Fashion,2306.19,4,19,7472.06,3.6,0.92,Debit Card,Delhi,11/8/2025
+ORD0979,CUST8882,Any Product,Sports,3650.54,5,36,11681.73,4,0.47,Cash on Delivery,Chennai,3/6/2026
+ORD0980,CUST1595,Network Product,Books,4511.09,1,30,3157.76,1.6,0.72,UPI,Hyderabad,11/7/2025
+ORD0981,CUST1202,Court Product,Sports,737.18,1,2,722.44,1.6,0.29,Net Banking,Delhi,11/26/2025
+ORD0982,CUST7607,Price Product,Home,4257.47,5,22,16604.13,3.3,0.38,Credit Card,Madurai,3/21/2026
+ORD0983,CUST4303,Any Product,Sports,1382,4,23,4256.56,4.1,0.36,UPI,Delhi,1/31/2026
+ORD0984,CUST5795,Modern Product,Beauty,824.72,5,17,3422.59,4.8,0.12,Credit Card,Mumbai,6/8/2025
+ORD0985,CUST7027,Turn Product,Electronics,2194.63,5,15,9327.18,2.7,0.73,Cash on Delivery,Chennai,11/16/2025
+ORD0986,CUST1300,Recently Product,Electronics,123.16,4,20,394.11,1.9,0.9,Credit Card,Madurai,9/8/2025
+ORD0987,CUST9069,Section Product,Beauty,2291.87,2,10,4125.37,3,0.99,Net Banking,Bangalore,2/21/2026
+ORD0988,CUST7034,Should Product,Books,2678.63,4,38,6643,3.7,0.41,UPI,Mumbai,11/17/2025
+ORD0989,CUST8594,International Product,Beauty,4332.18,1,29,3075.85,4.5,0.13,Net Banking,Mumbai,7/31/2025
+ORD0990,CUST7556,Single Product,Beauty,4494.28,3,20,10786.27,4.3,0.06,Debit Card,Mumbai,10/11/2025
+ORD0991,CUST2091,Land Product,Books,4652.74,1,40,2791.64,1.6,0.33,Cash on Delivery,Delhi,12/24/2025
+ORD0992,CUST9703,Three Product,Home,112.09,1,1,110.97,3.7,0.48,UPI,Chennai,11/28/2025
+ORD0993,CUST5958,Blood Product,Electronics,2248.63,5,5,10680.99,4.1,0.89,Credit Card,Mumbai,7/15/2025
+ORD0994,CUST7971,Particularly Product,Beauty,2841.92,4,25,8525.76,2.6,0.8,Credit Card,Mumbai,1/20/2026
+ORD0995,CUST1929,Statement Product,Books,4949.83,1,18,4058.86,3.6,0.41,Cash on Delivery,Mumbai,9/15/2025
+ORD0996,CUST3771,Production Product,Beauty,3831.45,2,33,5134.14,3.2,0.72,Debit Card,Madurai,8/26/2025
+ORD0997,CUST6815,Central Product,Beauty,2546.75,5,3,12351.74,4.8,0.68,UPI,Hyderabad,12/7/2025
+ORD0998,CUST7633,Image Product,Beauty,2005.94,5,5,9528.22,4.1,0.98,Debit Card,Mumbai,3/16/2026
+ORD0999,CUST6813,Woman Product,Books,1849.8,1,27,1350.35,4.9,0.09,Net Banking,Madurai,3/23/2026
+ORD1000,CUST2232,Pull Product,Books,1745.5,4,21,5515.78,4.8,0.01,Net Banking,Hyderabad,1/22/2026

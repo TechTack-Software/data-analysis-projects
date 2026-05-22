@@ -1,0 +1,10 @@
+show databases ;
+create database placement;
+use placement;
+use placement;
+select * from placementdata;
+select avg(Age) from placementdata;
+select min(Age) from placementdata;
+select max(Age) from placementdata;
+select count(Student_ID) from placementdata;
+select sum(Projects_Completed) from placementdata;

@@ -1,0 +1,1001 @@
+Student_ID,Name,Gender,Department,Age,CGPA,Attendance_Percentage,Internships,Projects_Completed,Aptitude_Test_Score,Communication_Skill_Score,Placement_Status,Salary_Package_LPA
+S0001,Michael,Male,CIVIL,23,8.2,77,0,2,55,54,Not Placed,0
+S0002,Diana,Male,IT,19,9.46,97,0,1,67,42,Not Placed,0
+S0003,Douglas,Female,IT,21,7.53,95,0,6,52,85,Not Placed,0
+S0004,Paul,Male,ECE,18,7.95,70,0,3,84,67,Placed,5.5
+S0005,Kayla,Female,CSE,23,5.46,82,0,5,94,62,Not Placed,0
+S0006,Brian,Female,MECH,19,7.3,84,0,3,45,75,Not Placed,0
+S0007,Melissa,Male,EEE,20,8.52,74,0,1,89,58,Placed,10.7
+S0008,Misty,Male,MECH,23,7.27,70,2,2,63,62,Placed,9.03
+S0009,Jennifer,Female,CIVIL,23,5.86,75,5,4,50,69,Not Placed,0
+S0010,Mary,Male,ECE,21,7.78,80,5,1,93,89,Placed,5.06
+S0011,Travis,Male,CIVIL,21,6.34,96,1,3,96,85,Not Placed,0
+S0012,Brianna,Male,CIVIL,22,6.98,89,5,2,49,56,Not Placed,0
+S0013,Matthew,Male,IT,22,7.69,97,5,5,67,97,Placed,6.59
+S0014,Erin,Female,MECH,18,7.47,67,0,2,49,80,Not Placed,0
+S0015,Justin,Male,CIVIL,23,6.92,89,4,5,73,56,Not Placed,0
+S0016,Joel,Male,ECE,21,5.57,77,4,3,89,81,Not Placed,0
+S0017,Gabriel,Male,CIVIL,20,5.79,76,0,2,72,88,Not Placed,0
+S0018,Ian,Male,MECH,24,9.21,98,4,3,52,49,Not Placed,0
+S0019,Arthur,Male,ECE,24,9.61,98,0,1,60,71,Not Placed,0
+S0020,Robert,Male,CSE,23,9.03,63,1,5,55,96,Not Placed,0
+S0021,James,Female,MECH,19,7.43,94,0,2,89,48,Not Placed,0
+S0022,Elizabeth,Male,CIVIL,20,6.33,87,4,5,53,99,Not Placed,0
+S0023,Sally,Female,CSE,19,6.99,83,5,5,68,97,Not Placed,0
+S0024,Jamie,Male,CSE,18,6.12,61,2,2,77,75,Not Placed,0
+S0025,Sarah,Female,CSE,22,8.54,74,0,1,44,97,Not Placed,0
+S0026,Robin,Female,IT,24,6.19,91,5,2,53,74,Not Placed,0
+S0027,Luis,Female,ECE,21,7.36,72,3,6,46,46,Not Placed,0
+S0028,David,Female,CIVIL,20,7.06,63,5,6,83,81,Placed,3.89
+S0029,Heidi,Female,IT,21,9,75,0,5,52,52,Not Placed,0
+S0030,Daniel,Female,MECH,18,5.92,75,3,1,95,99,Not Placed,0
+S0031,Kevin,Male,EEE,21,5.25,60,4,2,45,99,Not Placed,0
+S0032,Anthony,Female,ECE,24,7.41,63,3,1,50,64,Not Placed,0
+S0033,James,Female,IT,19,8.93,87,2,5,84,86,Placed,8.96
+S0034,Benjamin,Female,CSE,18,6.48,97,0,1,87,74,Not Placed,0
+S0035,Sean,Male,IT,18,7.92,93,4,5,50,43,Not Placed,0
+S0036,Monica,Male,MECH,22,7.98,75,5,5,65,47,Not Placed,0
+S0037,Jeffrey,Female,ECE,19,5.2,86,0,5,82,77,Not Placed,0
+S0038,John,Female,EEE,20,8.35,75,2,2,56,65,Not Placed,0
+S0039,Jennifer,Male,MECH,19,9.65,60,0,5,69,79,Placed,11.96
+S0040,Shawn,Female,ECE,19,7.53,82,1,2,96,44,Not Placed,0
+S0041,Maxwell,Female,CIVIL,18,7.19,79,4,6,79,91,Placed,7.76
+S0042,Jessica,Male,ECE,20,9.69,76,1,1,47,96,Not Placed,0
+S0043,Isabella,Female,MECH,21,8.02,81,5,6,53,83,Not Placed,0
+S0044,Daniel,Male,CSE,20,6.26,65,0,3,80,67,Not Placed,0
+S0045,Robert,Female,MECH,18,8.86,76,5,4,50,87,Not Placed,0
+S0046,Karen,Male,EEE,19,5.56,69,5,3,74,42,Not Placed,0
+S0047,Teresa,Male,CIVIL,18,5.21,62,2,2,97,62,Not Placed,0
+S0048,Marcus,Male,IT,24,6.77,86,4,2,79,87,Not Placed,0
+S0049,Daniel,Female,CIVIL,24,9.05,61,3,3,51,87,Not Placed,0
+S0050,Malik,Male,EEE,24,8.68,77,1,6,50,90,Not Placed,0
+S0051,Tracy,Female,ECE,24,5.19,74,3,4,52,92,Not Placed,0
+S0052,Zachary,Female,ECE,20,8.98,74,1,2,41,82,Not Placed,0
+S0053,Sarah,Female,CSE,18,9.32,82,2,4,81,72,Placed,9.12
+S0054,Jonathan,Female,ECE,23,9.39,71,2,1,77,56,Placed,3.98
+S0055,Carolyn,Male,ECE,18,8.93,98,3,4,72,47,Not Placed,0
+S0056,Kyle,Male,ECE,21,8.54,93,0,5,99,91,Placed,9.18
+S0057,Courtney,Male,CIVIL,20,5.35,81,5,6,79,60,Not Placed,0
+S0058,Jason,Female,MECH,19,7.54,86,5,6,60,65,Not Placed,0
+S0059,Charles,Female,EEE,22,5.96,84,5,2,83,87,Not Placed,0
+S0060,Christopher,Female,EEE,21,9.17,78,2,5,53,67,Not Placed,0
+S0061,Kimberly,Male,ECE,22,7.21,92,1,6,70,90,Placed,4.53
+S0062,Melissa,Female,IT,24,8.32,81,4,2,45,92,Not Placed,0
+S0063,James,Male,EEE,21,6,62,0,5,55,70,Not Placed,0
+S0064,Chad,Male,IT,23,9.43,72,4,4,85,84,Placed,7.45
+S0065,Cheryl,Female,CSE,22,8.44,87,0,6,54,51,Not Placed,0
+S0066,Kristy,Female,EEE,22,6.25,89,0,4,48,91,Not Placed,0
+S0067,Randall,Male,CIVIL,24,9.08,87,4,5,93,98,Placed,7.01
+S0068,Brian,Female,CIVIL,19,7.37,75,2,3,93,80,Placed,9.89
+S0069,Tyler,Female,MECH,18,6.37,78,0,3,55,57,Not Placed,0
+S0070,Kyle,Male,CSE,21,5.69,84,1,6,84,49,Not Placed,0
+S0071,Kyle,Female,EEE,24,7.04,89,4,2,66,43,Not Placed,0
+S0072,William,Male,ECE,20,7.92,61,5,5,94,96,Placed,6.42
+S0073,Amber,Male,EEE,19,8.77,94,3,5,87,87,Placed,10.2
+S0074,Abigail,Female,CIVIL,19,6.36,61,3,6,64,61,Not Placed,0
+S0075,Miranda,Male,CSE,23,9.2,99,1,4,74,41,Not Placed,0
+S0076,Margaret,Female,IT,21,7.14,71,3,4,43,56,Not Placed,0
+S0077,Monica,Female,CSE,21,6.63,77,3,4,88,100,Not Placed,0
+S0078,Andrea,Male,CIVIL,18,5.1,63,4,2,100,62,Not Placed,0
+S0079,Brittany,Male,IT,19,8.77,72,1,5,93,41,Not Placed,0
+S0080,Joseph,Female,ECE,19,7.37,96,0,4,100,53,Not Placed,0
+S0081,Michele,Male,MECH,18,8.03,67,5,2,89,92,Placed,11.68
+S0082,David,Male,CSE,23,9.64,84,4,6,65,100,Placed,4.78
+S0083,Sherry,Male,ECE,22,8.86,98,5,5,91,47,Not Placed,0
+S0084,Victoria,Female,EEE,18,7.14,64,2,3,72,81,Placed,3.11
+S0085,David,Female,IT,23,7.17,100,2,4,97,93,Placed,9.37
+S0086,Gregory,Female,EEE,24,7.61,77,5,5,79,91,Placed,9.97
+S0087,Jason,Female,EEE,19,8.66,80,2,1,94,55,Not Placed,0
+S0088,Jeremy,Female,IT,21,8.75,99,4,3,82,64,Placed,3.26
+S0089,Kelly,Female,MECH,18,6.06,81,2,5,57,96,Not Placed,0
+S0090,John,Female,MECH,24,7.58,65,1,4,55,86,Not Placed,0
+S0091,Daniel,Male,ECE,19,6.2,91,3,1,68,90,Not Placed,0
+S0092,Joshua,Female,EEE,23,7.02,79,1,3,82,77,Placed,7.26
+S0093,Robert,Male,CSE,23,7.75,89,2,3,57,59,Not Placed,0
+S0094,Melissa,Male,IT,19,5.96,94,0,6,100,88,Not Placed,0
+S0095,Joseph,Male,IT,20,8.69,97,2,5,88,73,Placed,5.55
+S0096,Carolyn,Male,ECE,18,6.14,79,1,5,40,85,Not Placed,0
+S0097,Christopher,Female,CSE,24,9.87,78,4,2,84,100,Placed,8.74
+S0098,Jonathan,Male,CSE,20,5.06,90,2,3,70,68,Not Placed,0
+S0099,Erika,Female,CSE,22,9.71,67,3,4,92,44,Not Placed,0
+S0100,Brian,Female,CSE,19,8.15,69,0,5,49,91,Not Placed,0
+S0101,Stephen,Male,MECH,21,5.59,98,3,5,78,90,Not Placed,0
+S0102,Kathleen,Male,MECH,23,7.25,79,3,4,95,77,Placed,5.75
+S0103,Jennifer,Male,IT,19,5.5,100,1,6,53,56,Not Placed,0
+S0104,Joel,Female,ECE,18,5.87,70,0,4,40,66,Not Placed,0
+S0105,Daniel,Male,CIVIL,19,6.16,78,5,4,84,95,Not Placed,0
+S0106,David,Male,CIVIL,19,9.62,97,5,2,82,91,Placed,6.83
+S0107,Jeanette,Female,EEE,18,9.54,64,1,3,43,50,Not Placed,0
+S0108,Natalie,Female,CSE,22,7.34,85,2,5,100,57,Placed,7.86
+S0109,Andrew,Male,IT,23,5.2,80,3,1,78,56,Not Placed,0
+S0110,Eddie,Female,MECH,18,9.18,97,4,6,100,41,Not Placed,0
+S0111,Joseph,Male,MECH,21,8.82,90,1,4,73,81,Placed,11.24
+S0112,Jeffrey,Male,IT,20,8.17,65,3,4,70,62,Placed,6
+S0113,James,Male,EEE,18,7.06,78,3,4,82,100,Placed,10.32
+S0114,Edward,Male,CIVIL,24,6.57,67,2,5,89,65,Not Placed,0
+S0115,Kathryn,Female,CIVIL,21,7.71,63,3,3,52,73,Not Placed,0
+S0116,Laurie,Female,CIVIL,21,8.8,77,1,3,75,48,Not Placed,0
+S0117,Timothy,Male,ECE,22,5.61,98,5,6,91,55,Not Placed,0
+S0118,Jason,Female,CSE,23,5.07,65,3,1,54,93,Not Placed,0
+S0119,Michael,Female,EEE,19,9.16,78,3,3,72,85,Placed,6.74
+S0120,Robin,Male,CSE,20,7.28,84,1,5,52,98,Not Placed,0
+S0121,Michelle,Male,ECE,23,8.86,81,3,5,99,90,Placed,5.4
+S0122,Victoria,Female,MECH,21,6.49,97,4,2,82,71,Not Placed,0
+S0123,Kenneth,Male,CIVIL,19,6.73,94,4,3,64,69,Not Placed,0
+S0124,Linda,Female,CIVIL,24,7.86,86,1,6,42,60,Not Placed,0
+S0125,Joseph,Female,CSE,24,6.91,69,5,2,71,42,Not Placed,0
+S0126,David,Female,CIVIL,19,9.23,93,0,1,98,69,Placed,9.5
+S0127,Christian,Male,ECE,24,5.37,81,2,4,79,84,Not Placed,0
+S0128,James,Female,MECH,18,8.37,84,4,6,60,80,Not Placed,0
+S0129,Shelly,Male,EEE,18,8.09,100,1,3,83,98,Placed,11.98
+S0130,Richard,Female,CSE,18,8.8,66,5,6,68,50,Not Placed,0
+S0131,Sean,Male,IT,22,6.62,78,0,4,62,63,Not Placed,0
+S0132,Bethany,Female,MECH,23,7.06,71,5,1,50,51,Not Placed,0
+S0133,Lindsey,Female,EEE,20,6.2,69,4,6,54,69,Not Placed,0
+S0134,Stacey,Female,MECH,20,8.33,78,3,2,83,74,Placed,3.66
+S0135,Jose,Female,EEE,18,8.19,76,3,3,69,94,Placed,4.79
+S0136,John,Female,CSE,24,6.19,82,4,6,76,58,Not Placed,0
+S0137,Patricia,Male,MECH,23,8.29,60,2,6,76,95,Placed,10
+S0138,Melissa,Male,MECH,20,7.48,74,2,3,78,91,Placed,4.97
+S0139,Dave,Male,ECE,24,8.39,68,5,6,80,46,Not Placed,0
+S0140,Cathy,Female,ECE,23,7.2,83,4,1,86,48,Not Placed,0
+S0141,Brian,Female,IT,20,7.08,68,1,3,90,74,Placed,7.78
+S0142,Sarah,Female,CSE,19,9.57,78,3,3,87,95,Placed,10.24
+S0143,Jo,Female,CSE,20,8.77,85,1,5,94,91,Placed,6.29
+S0144,Angela,Female,CIVIL,20,7.68,83,3,6,83,87,Placed,5.36
+S0145,Felicia,Female,MECH,19,5.54,90,1,5,41,79,Not Placed,0
+S0146,Lauren,Male,IT,18,8.24,89,5,3,98,84,Placed,8.84
+S0147,Willie,Male,EEE,21,9.73,91,2,2,47,46,Not Placed,0
+S0148,Brian,Male,EEE,23,6.86,94,5,6,66,77,Not Placed,0
+S0149,Lauren,Male,CIVIL,20,5.5,99,3,3,66,100,Not Placed,0
+S0150,Ricardo,Female,MECH,23,6.09,75,3,1,94,63,Not Placed,0
+S0151,Alyssa,Male,CIVIL,19,6.79,77,3,4,52,47,Not Placed,0
+S0152,Matthew,Male,IT,24,8.21,61,4,3,43,90,Not Placed,0
+S0153,Kyle,Male,ECE,24,7.82,95,0,2,53,77,Not Placed,0
+S0154,Elizabeth,Male,MECH,20,5.74,60,4,2,57,94,Not Placed,0
+S0155,Anthony,Male,MECH,20,8.99,61,0,3,48,40,Not Placed,0
+S0156,Rhonda,Male,CIVIL,18,5.08,63,2,4,48,87,Not Placed,0
+S0157,Leonard,Male,MECH,18,7.38,92,2,4,77,46,Not Placed,0
+S0158,Jennifer,Male,CSE,21,8.64,93,5,6,59,69,Not Placed,0
+S0159,Ashley,Male,ECE,22,9.24,66,3,4,71,85,Placed,3.66
+S0160,Yesenia,Female,EEE,22,5.74,77,1,5,79,80,Not Placed,0
+S0161,Jacqueline,Male,CIVIL,23,7.65,92,3,1,78,67,Placed,10.14
+S0162,Steven,Female,EEE,21,9.39,73,4,2,67,68,Placed,6.72
+S0163,Christina,Female,IT,23,8.65,87,2,3,60,82,Not Placed,0
+S0164,Lynn,Female,CSE,23,9.61,65,0,1,93,45,Not Placed,0
+S0165,Sara,Female,CIVIL,18,8.69,95,1,5,43,77,Not Placed,0
+S0166,Sean,Female,MECH,20,7.05,87,5,6,95,98,Placed,3.46
+S0167,Patricia,Female,IT,24,6.76,92,4,6,53,49,Not Placed,0
+S0168,Lori,Male,EEE,24,5.54,83,4,3,47,88,Not Placed,0
+S0169,Michael,Female,CSE,19,7.8,99,4,5,83,81,Placed,3.24
+S0170,Timothy,Male,MECH,23,6.37,81,2,2,62,40,Not Placed,0
+S0171,Jennifer,Male,EEE,21,7,100,1,6,41,45,Not Placed,0
+S0172,Kathleen,Male,CSE,19,7.27,83,1,3,59,86,Not Placed,0
+S0173,Jennifer,Female,CIVIL,21,5.79,63,4,3,83,45,Not Placed,0
+S0174,Miguel,Male,ECE,21,7.43,86,3,5,57,53,Not Placed,0
+S0175,Richard,Female,CSE,19,5.55,97,5,6,71,73,Not Placed,0
+S0176,Scott,Male,IT,24,6.98,63,4,3,40,53,Not Placed,0
+S0177,David,Female,IT,19,6.28,67,2,6,40,71,Not Placed,0
+S0178,Donna,Female,CSE,21,6.9,74,5,6,72,75,Not Placed,0
+S0179,Jermaine,Female,MECH,21,9.31,87,0,1,41,69,Not Placed,0
+S0180,Kimberly,Female,IT,24,7.87,100,5,1,66,58,Placed,6.65
+S0181,Laura,Male,EEE,22,9.74,83,3,1,45,67,Not Placed,0
+S0182,Carl,Female,IT,20,7,85,0,6,95,59,Not Placed,0
+S0183,Alexandria,Male,ECE,20,8.9,92,0,5,80,47,Not Placed,0
+S0184,Angela,Female,IT,19,8.64,69,5,2,55,46,Not Placed,0
+S0185,Jasmin,Female,EEE,24,8.01,64,5,6,51,100,Not Placed,0
+S0186,Lisa,Female,CIVIL,20,7.82,88,4,5,83,99,Placed,8.79
+S0187,Ricky,Female,MECH,18,5.75,90,0,3,68,80,Not Placed,0
+S0188,Jennifer,Male,ECE,24,6.76,79,0,1,69,68,Not Placed,0
+S0189,Michelle,Female,EEE,22,6.44,65,5,5,79,78,Not Placed,0
+S0190,Joseph,Female,MECH,21,7.77,62,5,5,68,98,Placed,8.87
+S0191,David,Male,MECH,23,7.51,88,0,3,46,91,Not Placed,0
+S0192,Holly,Male,ECE,20,5.86,88,1,5,68,73,Not Placed,0
+S0193,Breanna,Female,CSE,20,9.59,86,3,6,89,61,Placed,8.38
+S0194,Matthew,Male,ECE,18,5.47,84,5,6,58,56,Not Placed,0
+S0195,Richard,Female,IT,22,7.91,82,1,6,59,81,Not Placed,0
+S0196,Chad,Male,CIVIL,23,8.54,79,0,6,75,64,Placed,10.12
+S0197,Alexandra,Female,MECH,20,9.14,93,5,6,45,81,Not Placed,0
+S0198,Michael,Female,IT,19,5.09,71,2,3,100,53,Not Placed,0
+S0199,Gregory,Male,CIVIL,20,10,64,1,1,58,94,Not Placed,0
+S0200,Tyler,Male,CIVIL,21,9.38,68,4,2,78,64,Placed,4.46
+S0201,Brian,Female,IT,22,5.22,75,2,3,68,79,Not Placed,0
+S0202,Julie,Female,EEE,24,6.2,72,3,5,63,83,Not Placed,0
+S0203,Scott,Male,MECH,19,6.41,92,3,2,73,66,Not Placed,0
+S0204,Nicholas,Male,ECE,18,9.37,90,0,5,95,63,Placed,11.41
+S0205,Jody,Male,IT,24,8.82,88,2,2,97,72,Placed,10.48
+S0206,Wendy,Female,IT,21,7.26,61,2,4,66,43,Not Placed,0
+S0207,Kristie,Female,IT,19,9.97,74,2,1,41,60,Not Placed,0
+S0208,Rebecca,Female,MECH,18,5.19,68,3,4,88,85,Not Placed,0
+S0209,Daniel,Female,CSE,24,9.53,76,0,2,53,93,Not Placed,0
+S0210,Jimmy,Female,CSE,18,6.44,67,2,4,43,55,Not Placed,0
+S0211,Justin,Male,CIVIL,19,9.18,98,3,6,74,41,Not Placed,0
+S0212,Tyler,Female,IT,23,6.46,99,0,5,62,55,Not Placed,0
+S0213,Jason,Male,EEE,24,8.34,83,4,5,44,73,Not Placed,0
+S0214,Anna,Male,ECE,19,7.35,84,5,6,63,56,Placed,3.15
+S0215,David,Male,CSE,20,8.66,66,5,6,89,77,Placed,9.81
+S0216,Mary,Female,CIVIL,19,7.73,71,5,6,93,89,Placed,7.18
+S0217,Jake,Male,IT,18,9.06,89,0,2,42,58,Not Placed,0
+S0218,Sherri,Female,ECE,18,6.58,92,2,5,65,92,Not Placed,0
+S0219,Rachel,Female,ECE,18,8.77,78,1,1,62,95,Placed,10.79
+S0220,Luke,Male,EEE,23,9,85,3,4,87,68,Placed,6.05
+S0221,Kimberly,Female,CSE,21,7.49,77,4,6,91,45,Not Placed,0
+S0222,Bethany,Male,ECE,23,8.01,94,1,1,58,60,Not Placed,0
+S0223,Brian,Female,ECE,21,6.48,98,3,2,85,67,Not Placed,0
+S0224,Jocelyn,Male,CSE,23,5.21,99,2,6,67,57,Not Placed,0
+S0225,Autumn,Male,IT,24,8.19,92,2,6,91,87,Placed,4.44
+S0226,Ashlee,Female,ECE,21,8.04,62,3,2,48,44,Not Placed,0
+S0227,Joseph,Female,ECE,21,9.75,98,0,4,49,83,Not Placed,0
+S0228,Kyle,Female,IT,18,8.82,68,4,4,73,63,Placed,5.83
+S0229,Gregory,Male,ECE,24,5.13,91,1,5,73,64,Not Placed,0
+S0230,John,Female,IT,18,6.3,73,3,6,79,58,Not Placed,0
+S0231,Angel,Female,CSE,24,5.68,88,0,6,51,97,Not Placed,0
+S0232,Wesley,Female,ECE,24,8.41,82,2,5,85,44,Not Placed,0
+S0233,Alexis,Male,CSE,19,5.79,100,5,3,51,90,Not Placed,0
+S0234,Mark,Female,EEE,24,8.96,91,1,5,41,63,Not Placed,0
+S0235,Mallory,Female,EEE,23,9.92,99,1,1,96,45,Not Placed,0
+S0236,Kayla,Female,CIVIL,18,8.59,86,4,5,89,66,Placed,3.66
+S0237,Heidi,Male,IT,21,7.25,93,5,5,62,48,Not Placed,0
+S0238,Jesse,Male,IT,20,7.51,67,0,3,73,49,Not Placed,0
+S0239,Melissa,Male,ECE,19,9.67,82,1,5,100,100,Placed,11.05
+S0240,Albert,Male,MECH,23,8.18,77,4,3,48,80,Not Placed,0
+S0241,John,Female,MECH,18,5.84,69,4,5,50,82,Not Placed,0
+S0242,Susan,Female,CIVIL,19,9.13,65,0,6,42,100,Not Placed,0
+S0243,Jeremy,Female,CIVIL,20,8.83,99,3,4,80,41,Not Placed,0
+S0244,Jared,Male,IT,21,7.41,85,5,1,59,69,Not Placed,0
+S0245,Lisa,Female,CIVIL,24,7.08,73,3,2,61,78,Placed,5.81
+S0246,Abigail,Male,ECE,19,6.73,68,3,5,88,63,Not Placed,0
+S0247,Elizabeth,Male,ECE,21,7.33,88,2,1,55,49,Not Placed,0
+S0248,Kathleen,Female,IT,24,9.32,75,3,2,95,97,Placed,10.32
+S0249,Kayla,Female,CSE,18,5.8,89,4,3,71,96,Not Placed,0
+S0250,Nina,Female,CSE,18,9.73,89,4,5,55,53,Not Placed,0
+S0251,Rachel,Male,EEE,19,6.41,90,4,1,58,74,Not Placed,0
+S0252,Rick,Male,MECH,22,9.41,83,5,3,88,65,Placed,3.41
+S0253,Benjamin,Female,MECH,20,5.97,78,4,5,44,64,Not Placed,0
+S0254,Melissa,Female,ECE,24,9.13,99,4,1,47,48,Not Placed,0
+S0255,Stephen,Female,MECH,18,9.93,83,4,2,88,49,Not Placed,0
+S0256,Donald,Female,IT,22,5.23,81,1,5,91,70,Not Placed,0
+S0257,Kyle,Female,MECH,20,9.47,80,1,3,99,79,Placed,4.46
+S0258,David,Male,ECE,20,7.54,94,4,5,71,85,Placed,5.7
+S0259,Michelle,Male,MECH,21,8.37,97,3,6,59,90,Not Placed,0
+S0260,Angel,Male,MECH,21,6.33,97,5,6,76,54,Not Placed,0
+S0261,Audrey,Male,CIVIL,19,5.85,99,5,4,89,93,Not Placed,0
+S0262,Kenneth,Female,EEE,19,5.16,67,5,4,52,41,Not Placed,0
+S0263,Stacey,Male,CIVIL,19,7.06,86,1,5,72,89,Placed,11.28
+S0264,Janice,Male,EEE,22,7.59,80,4,5,82,70,Placed,6.39
+S0265,Jeremiah,Male,ECE,22,6.71,76,2,2,79,70,Not Placed,0
+S0266,Elizabeth,Female,ECE,21,6.49,78,2,6,85,53,Not Placed,0
+S0267,Daniel,Female,EEE,24,6.74,77,5,5,58,47,Not Placed,0
+S0268,Michael,Male,ECE,21,6.73,78,1,6,42,58,Not Placed,0
+S0269,Amanda,Female,MECH,23,8.28,90,5,5,53,52,Not Placed,0
+S0270,Sarah,Male,CSE,23,6.36,99,0,2,87,77,Not Placed,0
+S0271,Nicole,Female,ECE,23,9.53,100,1,1,54,43,Not Placed,0
+S0272,Roberto,Female,CIVIL,21,7.36,68,5,2,40,75,Not Placed,0
+S0273,Zachary,Male,CSE,23,7.39,78,1,6,60,58,Not Placed,0
+S0274,Frances,Male,CSE,24,7.87,62,4,2,98,98,Placed,6.76
+S0275,Kathleen,Male,CSE,20,6.98,71,3,3,99,87,Not Placed,0
+S0276,Meredith,Female,IT,24,7.84,81,0,6,58,69,Not Placed,0
+S0277,Amy,Male,CIVIL,21,7.52,72,2,3,91,47,Not Placed,0
+S0278,Karen,Female,MECH,23,8.24,71,5,3,40,87,Not Placed,0
+S0279,Matthew,Female,CSE,21,8.79,99,1,4,94,80,Placed,10.44
+S0280,Lauren,Female,IT,21,8.35,68,1,2,70,60,Placed,3.06
+S0281,Courtney,Female,CIVIL,19,8.77,79,2,5,77,86,Placed,3.1
+S0282,Robert,Female,CIVIL,18,5.31,89,0,4,59,50,Not Placed,0
+S0283,Rebecca,Male,EEE,19,8.19,83,2,2,79,54,Not Placed,0
+S0284,Robert,Male,IT,23,7.27,83,4,5,66,84,Placed,11.22
+S0285,Reginald,Male,CSE,24,8.77,93,0,6,68,73,Placed,6.26
+S0286,Rebecca,Female,CSE,23,7.74,72,4,2,76,74,Placed,4.48
+S0287,Veronica,Female,CSE,21,6.03,91,4,5,45,97,Not Placed,0
+S0288,Shelby,Female,CIVIL,24,5.66,89,3,5,76,43,Not Placed,0
+S0289,Rebecca,Male,MECH,18,6.54,85,0,1,56,92,Not Placed,0
+S0290,Erin,Female,CSE,20,5.23,64,2,1,74,43,Not Placed,0
+S0291,Theresa,Female,EEE,18,7.04,86,1,4,63,97,Placed,7.04
+S0292,Derek,Male,IT,22,8.41,94,5,3,48,81,Not Placed,0
+S0293,Tiffany,Female,EEE,23,6.97,74,1,1,93,40,Not Placed,0
+S0294,Sarah,Female,IT,20,8.6,94,3,2,64,92,Placed,5.23
+S0295,Jaime,Female,MECH,24,5.94,67,5,6,42,91,Not Placed,0
+S0296,Christina,Male,EEE,22,9.68,75,0,1,53,44,Not Placed,0
+S0297,David,Female,IT,22,8.36,75,0,4,87,42,Not Placed,0
+S0298,Emily,Female,MECH,22,6.09,68,0,2,72,58,Not Placed,0
+S0299,Ann,Male,EEE,20,8.86,75,2,2,59,96,Not Placed,0
+S0300,Megan,Female,MECH,21,6.38,97,4,2,96,87,Not Placed,0
+S0301,Thomas,Female,EEE,19,5.23,84,2,3,90,73,Not Placed,0
+S0302,Joanne,Female,CIVIL,19,6.5,94,1,2,70,55,Not Placed,0
+S0303,Wendy,Female,IT,20,9.03,95,0,5,66,66,Placed,7.77
+S0304,Jennifer,Male,MECH,23,6.02,65,5,3,99,68,Not Placed,0
+S0305,Anthony,Male,IT,24,9.15,77,0,5,64,83,Placed,8.43
+S0306,James,Female,ECE,18,8.81,95,5,2,53,70,Not Placed,0
+S0307,Justin,Male,CIVIL,22,6.06,67,1,4,87,88,Not Placed,0
+S0308,Erica,Female,ECE,20,8.52,75,3,3,75,60,Placed,6.43
+S0309,Marcus,Female,ECE,19,6.8,89,3,6,46,91,Not Placed,0
+S0310,Steven,Male,CSE,20,6.85,62,3,2,76,95,Not Placed,0
+S0311,Alexa,Female,IT,21,7.77,97,4,3,86,66,Placed,4.37
+S0312,Steve,Female,CIVIL,23,7.85,91,1,6,75,81,Placed,6.04
+S0313,Bradley,Female,IT,22,8.7,70,3,3,86,90,Placed,4.52
+S0314,James,Male,CSE,21,9.95,93,0,1,42,93,Not Placed,0
+S0315,Brent,Male,IT,22,5.69,74,5,2,44,85,Not Placed,0
+S0316,Stephen,Female,CSE,18,7.28,99,0,5,80,82,Placed,11.21
+S0317,Jessica,Female,MECH,20,7.66,60,3,6,41,73,Not Placed,0
+S0318,Derrick,Male,CSE,22,5.09,87,5,2,91,100,Not Placed,0
+S0319,Amber,Female,EEE,18,5.74,99,1,3,73,56,Not Placed,0
+S0320,Sean,Male,ECE,23,6.87,89,3,6,76,55,Not Placed,0
+S0321,Shane,Female,MECH,21,9.14,62,0,4,45,65,Not Placed,0
+S0322,Brendan,Female,MECH,24,5.28,70,0,4,45,71,Not Placed,0
+S0323,Lauren,Female,ECE,18,9.87,62,4,6,54,53,Not Placed,0
+S0324,Susan,Male,ECE,18,9.62,77,5,5,97,74,Placed,8.92
+S0325,Katie,Male,ECE,19,9.81,69,4,6,88,92,Placed,10.39
+S0326,David,Male,CIVIL,23,7.82,84,4,5,83,97,Placed,5.99
+S0327,Luis,Male,CSE,20,5.39,82,5,4,43,46,Not Placed,0
+S0328,Zachary,Female,EEE,21,8.03,98,4,3,65,89,Placed,3.27
+S0329,Carl,Female,CSE,24,6.14,84,4,6,67,51,Not Placed,0
+S0330,Kenneth,Female,CIVIL,24,8.09,64,1,2,45,57,Not Placed,0
+S0331,Andrew,Male,CSE,20,8.17,84,5,1,60,63,Not Placed,0
+S0332,Meredith,Female,EEE,22,7.22,66,2,2,48,45,Not Placed,0
+S0333,Jared,Male,MECH,22,7.77,66,3,3,41,45,Not Placed,0
+S0334,Aaron,Male,CIVIL,22,8.92,60,3,4,58,66,Not Placed,0
+S0335,Todd,Female,IT,19,9.53,96,1,6,73,50,Not Placed,0
+S0336,Kimberly,Female,ECE,21,6.34,91,2,2,49,44,Not Placed,0
+S0337,Jonathan,Female,MECH,22,6.5,83,0,2,56,100,Not Placed,0
+S0338,Karl,Female,MECH,21,5.98,68,0,4,59,40,Not Placed,0
+S0339,Samantha,Male,ECE,20,9.02,88,2,6,61,67,Placed,11.77
+S0340,Brenda,Female,ECE,23,8.02,72,5,2,70,60,Placed,11.68
+S0341,Shane,Female,ECE,24,8.47,96,3,3,90,55,Not Placed,0
+S0342,Laura,Male,CIVIL,24,8.93,67,2,2,99,76,Placed,8.33
+S0343,Nicholas,Female,CIVIL,18,7.75,89,5,2,100,85,Placed,6.95
+S0344,Michael,Male,ECE,23,9.09,91,3,3,48,80,Not Placed,0
+S0345,Elizabeth,Female,MECH,21,5.77,84,3,5,44,68,Not Placed,0
+S0346,Jessica,Male,CSE,24,7.67,86,5,3,74,42,Not Placed,0
+S0347,Jennifer,Male,MECH,23,6.24,82,5,5,50,81,Not Placed,0
+S0348,Kristy,Female,IT,22,8.39,81,3,1,90,67,Placed,3.09
+S0349,Melissa,Female,EEE,24,8.73,97,4,2,84,76,Placed,7.01
+S0350,Allison,Female,CSE,20,8.4,92,5,1,49,62,Not Placed,0
+S0351,David,Female,ECE,21,7.08,67,0,6,93,100,Placed,4.28
+S0352,Adam,Female,ECE,18,8.92,90,4,1,62,70,Placed,6.94
+S0353,Adam,Male,CIVIL,24,6.5,67,5,3,41,94,Not Placed,0
+S0354,Michael,Male,ECE,22,5.82,75,5,5,73,51,Not Placed,0
+S0355,Lee,Female,EEE,18,7.13,74,3,6,91,65,Placed,4.66
+S0356,Ashley,Male,IT,20,8.69,88,1,4,77,67,Placed,3.04
+S0357,Monique,Male,ECE,20,8.76,96,0,5,46,91,Not Placed,0
+S0358,Elizabeth,Female,MECH,21,5.99,76,0,4,82,95,Not Placed,0
+S0359,Jeffrey,Female,MECH,22,8.06,67,4,4,62,62,Placed,8.56
+S0360,Steven,Male,IT,20,5.42,80,1,3,47,55,Not Placed,0
+S0361,Tyler,Female,IT,21,8.47,84,4,2,66,78,Placed,8.17
+S0362,Aaron,Female,IT,19,8.18,71,5,4,75,50,Not Placed,0
+S0363,Alan,Male,EEE,19,6.57,99,3,3,43,95,Not Placed,0
+S0364,Kimberly,Female,CIVIL,21,5.98,95,3,4,72,81,Not Placed,0
+S0365,Elizabeth,Male,IT,20,7.08,91,3,5,50,45,Not Placed,0
+S0366,Jamie,Female,MECH,22,5.16,94,1,4,58,50,Not Placed,0
+S0367,Patrick,Male,CIVIL,21,5.57,77,0,3,89,74,Not Placed,0
+S0368,Amanda,Female,CSE,21,7.73,66,3,6,87,93,Placed,9.76
+S0369,David,Male,CIVIL,22,6.31,88,0,2,95,47,Not Placed,0
+S0370,Heather,Male,IT,24,8.45,99,5,2,80,67,Placed,8.55
+S0371,Lisa,Male,ECE,23,5.3,94,2,5,57,78,Not Placed,0
+S0372,Madison,Male,IT,24,6.46,77,4,5,100,94,Not Placed,0
+S0373,Megan,Male,IT,19,8.93,77,0,2,95,81,Placed,9.31
+S0374,Jonathan,Female,CIVIL,21,8.56,85,1,5,71,49,Not Placed,0
+S0375,Brandy,Female,MECH,23,6.88,100,0,1,90,96,Not Placed,0
+S0376,Joshua,Male,CIVIL,18,6.39,89,2,3,100,71,Not Placed,0
+S0377,Thomas,Female,IT,21,8.65,100,3,3,82,84,Placed,10.65
+S0378,Douglas,Female,MECH,22,9.12,77,3,3,60,93,Not Placed,0
+S0379,Donna,Male,CSE,23,5.65,81,3,1,97,83,Not Placed,0
+S0380,Laura,Female,EEE,18,8.92,61,3,2,47,99,Not Placed,0
+S0381,Anthony,Female,IT,24,9.96,72,3,2,84,98,Placed,10.94
+S0382,Shannon,Male,CSE,21,9.66,65,2,3,81,63,Placed,3.74
+S0383,John,Male,IT,21,8.13,74,5,1,67,81,Placed,9.33
+S0384,David,Male,CSE,23,5.39,74,4,4,73,83,Not Placed,0
+S0385,Caroline,Male,IT,21,6.72,87,0,4,84,48,Not Placed,0
+S0386,Donna,Male,EEE,24,5.45,66,0,3,60,63,Not Placed,0
+S0387,Jimmy,Male,MECH,23,9.07,69,1,5,44,73,Not Placed,0
+S0388,Jessica,Female,MECH,23,5.82,73,2,2,80,87,Not Placed,0
+S0389,Melissa,Male,MECH,23,7.21,65,1,2,97,46,Not Placed,0
+S0390,Alicia,Female,CIVIL,18,6.92,80,3,2,90,48,Not Placed,0
+S0391,Tanner,Male,CIVIL,20,6.24,98,4,3,86,78,Not Placed,0
+S0392,Jessica,Female,CIVIL,18,6.03,92,4,4,52,87,Not Placed,0
+S0393,Wendy,Female,CIVIL,22,8.92,91,1,2,64,47,Not Placed,0
+S0394,Jennifer,Female,MECH,21,5.36,83,0,2,99,60,Not Placed,0
+S0395,Scott,Male,MECH,18,6.83,71,5,1,88,70,Not Placed,0
+S0396,Kenneth,Female,CIVIL,23,5.07,62,1,4,99,43,Not Placed,0
+S0397,Terri,Male,ECE,18,7.51,87,3,1,84,65,Placed,8.76
+S0398,Scott,Female,EEE,22,6.55,73,4,5,91,49,Not Placed,0
+S0399,Ian,Male,CSE,19,8.17,64,5,4,59,84,Not Placed,0
+S0400,Lauren,Male,ECE,23,5.43,67,3,5,69,79,Not Placed,0
+S0401,Benjamin,Male,CIVIL,18,8.71,71,5,6,47,40,Not Placed,0
+S0402,Amanda,Female,IT,20,5.82,93,2,6,73,90,Not Placed,0
+S0403,Kevin,Female,EEE,20,5.63,67,2,1,89,97,Not Placed,0
+S0404,Meagan,Female,MECH,20,7.62,96,2,4,80,44,Not Placed,0
+S0405,Christina,Male,MECH,23,5.28,70,4,3,63,50,Not Placed,0
+S0406,Todd,Male,CSE,21,8.61,92,1,1,40,42,Not Placed,0
+S0407,Miguel,Female,IT,20,6.82,71,1,1,99,94,Not Placed,0
+S0408,Ashlee,Female,CSE,22,6.24,80,5,1,57,92,Not Placed,0
+S0409,Lauren,Male,EEE,18,8.37,71,0,5,54,91,Not Placed,0
+S0410,Mary,Female,CSE,20,9.38,79,2,5,60,45,Not Placed,0
+S0411,Tyler,Female,ECE,22,6,79,4,2,87,79,Not Placed,0
+S0412,Luke,Female,CSE,19,9.86,94,1,2,88,90,Placed,4.36
+S0413,Daniel,Female,CIVIL,23,7.71,60,5,1,100,61,Placed,9.83
+S0414,Amy,Male,IT,23,6.54,93,1,4,55,66,Not Placed,0
+S0415,Shelly,Female,CIVIL,20,6.4,74,0,5,97,94,Not Placed,0
+S0416,James,Male,CIVIL,24,7.29,65,5,5,77,46,Not Placed,0
+S0417,Christine,Male,IT,20,6.97,96,4,6,43,67,Not Placed,0
+S0418,Joy,Female,ECE,21,6.3,85,2,6,84,93,Not Placed,0
+S0419,Karen,Male,IT,18,6.36,72,0,5,48,89,Not Placed,0
+S0420,Meghan,Female,IT,21,5.82,80,3,5,66,47,Not Placed,0
+S0421,Rhonda,Female,CIVIL,23,6.54,67,2,6,45,50,Not Placed,0
+S0422,Sarah,Male,ECE,21,8.02,80,1,6,49,45,Not Placed,0
+S0423,Brian,Male,EEE,24,7.57,79,5,2,56,92,Not Placed,0
+S0424,Gregory,Male,IT,18,7.26,95,5,4,55,46,Not Placed,0
+S0425,Thomas,Female,CIVIL,23,5.06,68,1,4,52,92,Not Placed,0
+S0426,George,Male,IT,23,9.69,97,0,1,77,56,Placed,3.2
+S0427,Travis,Female,CSE,19,7.22,65,1,3,97,94,Placed,4.1
+S0428,Sandra,Female,IT,20,9.62,85,3,4,71,41,Not Placed,0
+S0429,Richard,Male,MECH,22,6.07,77,1,2,57,68,Not Placed,0
+S0430,Laura,Male,ECE,21,8.08,78,5,5,71,66,Placed,7.31
+S0431,Stephanie,Male,EEE,24,5.69,93,1,5,55,80,Not Placed,0
+S0432,Patricia,Female,EEE,20,8.57,94,3,3,90,71,Placed,11.21
+S0433,Connor,Male,EEE,22,5.9,98,2,3,54,41,Not Placed,0
+S0434,Sergio,Male,ECE,22,6.79,74,4,2,50,46,Not Placed,0
+S0435,Donald,Female,ECE,24,9.08,63,5,2,88,100,Placed,8.18
+S0436,Janet,Female,MECH,18,9.96,71,1,3,55,77,Not Placed,0
+S0437,Maria,Male,EEE,22,8.52,96,2,5,76,49,Not Placed,0
+S0438,Christopher,Male,CSE,22,6.55,62,3,2,45,43,Not Placed,0
+S0439,Nicole,Female,CIVIL,19,7.39,99,2,2,52,91,Not Placed,0
+S0440,Cynthia,Male,CSE,24,9.59,63,2,5,41,49,Not Placed,0
+S0441,Christy,Male,ECE,20,7.63,64,2,6,63,85,Placed,6.56
+S0442,Evan,Female,IT,23,6.61,87,1,4,90,80,Not Placed,0
+S0443,Nicholas,Male,EEE,20,9.84,99,5,2,90,62,Placed,8.99
+S0444,Sarah,Female,MECH,18,8.67,68,2,1,51,86,Not Placed,0
+S0445,Jesse,Male,EEE,19,5.91,99,2,5,54,80,Not Placed,0
+S0446,Ashley,Male,CIVIL,23,6.66,75,0,2,62,60,Not Placed,0
+S0447,Gregory,Male,CIVIL,18,8.2,88,2,2,40,56,Not Placed,0
+S0448,Samuel,Female,IT,21,6.75,60,0,4,43,64,Not Placed,0
+S0449,Donna,Male,IT,21,7.47,82,3,1,74,64,Placed,10.46
+S0450,Kim,Male,CSE,20,5.37,78,0,3,41,60,Not Placed,0
+S0451,Bryan,Male,ECE,22,5.85,70,3,5,86,44,Not Placed,0
+S0452,James,Female,IT,18,9.93,61,3,6,67,100,Placed,4.48
+S0453,William,Female,CIVIL,20,5.51,72,1,5,66,84,Not Placed,0
+S0454,James,Female,IT,18,6.49,63,0,5,65,76,Not Placed,0
+S0455,Michael,Female,IT,18,6.8,65,3,6,58,92,Not Placed,0
+S0456,Robert,Male,ECE,24,5.13,100,1,4,58,45,Not Placed,0
+S0457,Amy,Female,IT,20,6.99,76,3,5,45,81,Not Placed,0
+S0458,Joseph,Female,EEE,20,9.43,71,2,3,68,42,Not Placed,0
+S0459,Tiffany,Male,CSE,23,6.13,96,2,6,43,49,Not Placed,0
+S0460,Troy,Male,EEE,24,6.72,86,4,2,88,77,Not Placed,0
+S0461,Debra,Male,EEE,24,7.61,90,4,2,76,96,Placed,7.29
+S0462,Joshua,Male,CSE,24,8.57,96,4,5,97,73,Placed,9.1
+S0463,Janice,Male,EEE,18,7.25,73,1,2,91,52,Not Placed,0
+S0464,Darren,Female,ECE,23,9.94,72,3,2,92,80,Placed,10.51
+S0465,Kristy,Female,MECH,21,9.57,65,0,4,64,75,Placed,7.97
+S0466,Toni,Male,IT,22,9.59,99,0,4,77,73,Placed,4.01
+S0467,Jill,Female,EEE,20,7.94,66,0,1,76,89,Placed,10.07
+S0468,Frederick,Male,ECE,21,6.92,96,3,1,78,70,Not Placed,0
+S0469,Nancy,Male,CSE,23,5.72,85,4,3,42,65,Not Placed,0
+S0470,Deborah,Female,ECE,24,7.38,83,2,3,41,61,Not Placed,0
+S0471,Jerry,Female,CIVIL,21,7.46,66,5,2,95,54,Not Placed,0
+S0472,Michael,Male,EEE,19,8.87,77,2,5,86,66,Placed,8.81
+S0473,Autumn,Male,CSE,20,9.57,91,3,3,88,73,Placed,10.39
+S0474,John,Male,IT,19,8.55,68,3,5,89,94,Placed,10.91
+S0475,Karina,Male,ECE,23,9.38,63,1,4,55,42,Not Placed,0
+S0476,Samantha,Male,CIVIL,18,6,89,2,6,72,65,Not Placed,0
+S0477,Justin,Female,ECE,19,6.21,98,3,4,68,51,Not Placed,0
+S0478,Courtney,Male,IT,24,9.19,65,2,4,58,41,Not Placed,0
+S0479,Cindy,Male,ECE,23,7.86,74,1,6,81,54,Not Placed,0
+S0480,Paula,Male,IT,20,7.05,60,0,2,70,98,Placed,8.83
+S0481,Eric,Female,ECE,19,8.04,77,2,4,67,97,Placed,10.66
+S0482,Mary,Male,MECH,23,7.33,93,5,4,92,79,Placed,8.26
+S0483,Keith,Male,EEE,18,9.83,95,2,5,81,78,Placed,5.54
+S0484,Andrea,Female,CIVIL,23,6.68,100,2,3,60,95,Not Placed,0
+S0485,John,Male,CSE,24,9.76,79,5,5,52,49,Not Placed,0
+S0486,Lori,Male,CIVIL,21,9.29,85,4,6,82,60,Placed,4.26
+S0487,Jennifer,Male,ECE,23,9.99,86,2,6,65,64,Placed,3.32
+S0488,Karen,Female,MECH,20,8.57,94,5,4,80,90,Placed,11.16
+S0489,Debra,Female,IT,23,9.23,95,5,1,51,58,Not Placed,0
+S0490,Sandra,Male,IT,20,6.29,71,4,3,100,83,Not Placed,0
+S0491,Daniel,Female,ECE,22,6.12,86,2,3,90,96,Not Placed,0
+S0492,Amy,Male,EEE,19,6.47,90,0,6,43,95,Not Placed,0
+S0493,John,Male,IT,19,7.5,84,5,4,73,59,Placed,3.49
+S0494,Brian,Male,CSE,21,6.71,89,4,6,49,60,Not Placed,0
+S0495,Olivia,Female,ECE,19,6.66,80,1,1,80,43,Not Placed,0
+S0496,Rhonda,Male,IT,22,8.81,96,1,4,88,50,Not Placed,0
+S0497,Kevin,Male,CIVIL,20,7.17,85,3,4,67,70,Placed,3.04
+S0498,Cindy,Male,CIVIL,23,9.75,93,2,6,52,41,Not Placed,0
+S0499,Christopher,Female,MECH,22,6.24,82,5,1,59,48,Not Placed,0
+S0500,Michael,Female,CIVIL,22,6.53,62,0,3,59,100,Not Placed,0
+S0501,Tiffany,Female,ECE,24,7.98,87,2,2,96,83,Placed,6.08
+S0502,Gary,Male,IT,23,5.94,61,3,6,54,54,Not Placed,0
+S0503,Robyn,Male,EEE,23,5.11,70,4,6,47,63,Not Placed,0
+S0504,Jordan,Male,CIVIL,24,6.28,99,4,1,43,78,Not Placed,0
+S0505,Sarah,Male,MECH,20,5.1,67,5,4,66,68,Not Placed,0
+S0506,Jeffrey,Female,CIVIL,18,7.37,73,1,6,84,83,Placed,3.08
+S0507,Eric,Male,MECH,23,8.31,99,2,2,78,84,Placed,6.77
+S0508,Donald,Male,MECH,19,8.09,67,2,4,90,46,Not Placed,0
+S0509,Pamela,Male,MECH,21,8.89,72,4,4,62,85,Placed,5.66
+S0510,Todd,Male,CIVIL,18,9.55,90,5,1,61,55,Not Placed,0
+S0511,Troy,Male,CIVIL,23,9.53,91,4,1,49,100,Not Placed,0
+S0512,Tammy,Female,CSE,18,5.51,74,2,3,69,58,Not Placed,0
+S0513,Vanessa,Male,CSE,24,9.07,78,0,6,63,91,Placed,5.81
+S0514,Briana,Male,ECE,20,8.79,60,0,6,94,48,Not Placed,0
+S0515,Zachary,Female,IT,18,9.47,77,4,1,96,86,Placed,6.35
+S0516,Jonathan,Female,EEE,23,7,77,3,6,93,64,Not Placed,0
+S0517,Jeffrey,Male,IT,18,9.43,67,1,6,48,84,Not Placed,0
+S0518,Manuel,Female,ECE,22,7.08,90,4,6,91,76,Placed,6.94
+S0519,Kenneth,Male,EEE,21,5.14,68,5,4,70,98,Not Placed,0
+S0520,Seth,Male,CIVIL,24,5.23,80,2,6,40,85,Not Placed,0
+S0521,Kelly,Male,EEE,20,6.69,99,4,6,46,67,Not Placed,0
+S0522,Matthew,Male,CSE,23,8.32,84,5,5,49,93,Not Placed,0
+S0523,Jodi,Female,ECE,19,9.67,90,4,2,94,71,Placed,3.67
+S0524,Sandra,Female,EEE,24,6.65,63,2,5,72,54,Not Placed,0
+S0525,Kimberly,Male,EEE,21,6.17,88,3,4,91,76,Not Placed,0
+S0526,Ashley,Male,MECH,22,6.58,61,3,4,46,65,Not Placed,0
+S0527,Harold,Male,CIVIL,23,5,98,0,3,79,80,Not Placed,0
+S0528,Grace,Female,ECE,22,7.28,83,2,2,92,43,Not Placed,0
+S0529,Stephanie,Male,CSE,24,8.84,90,4,3,85,82,Placed,9.44
+S0530,Justin,Female,MECH,22,8.29,81,0,6,62,93,Placed,11.68
+S0531,Chase,Male,CIVIL,23,6.87,62,0,4,97,50,Not Placed,0
+S0532,Joshua,Male,EEE,19,8.61,76,0,2,79,52,Not Placed,0
+S0533,Marcus,Male,CIVIL,24,7.29,81,1,4,46,88,Not Placed,0
+S0534,Renee,Male,EEE,18,8.36,88,0,5,69,82,Placed,11.61
+S0535,Elizabeth,Male,CIVIL,22,7.65,95,0,5,99,67,Placed,7.35
+S0536,Eduardo,Female,MECH,21,5.87,66,1,5,64,82,Not Placed,0
+S0537,Charles,Female,EEE,24,7.09,75,4,3,57,65,Not Placed,0
+S0538,Matthew,Female,CIVIL,22,5.67,98,3,6,84,96,Not Placed,0
+S0539,Evelyn,Male,MECH,23,9.3,95,5,2,80,53,Not Placed,0
+S0540,Nicholas,Female,CIVIL,18,6.45,68,2,2,85,81,Not Placed,0
+S0541,Bridget,Female,EEE,24,8.8,90,4,6,77,76,Placed,9.39
+S0542,Rhonda,Male,IT,20,5.06,61,0,1,64,49,Not Placed,0
+S0543,Steven,Female,IT,24,8.75,78,1,2,83,56,Placed,10.55
+S0544,Caitlin,Male,CIVIL,23,7.71,88,2,6,46,79,Not Placed,0
+S0545,Sean,Male,EEE,21,7.81,92,1,6,90,90,Placed,5.59
+S0546,Rachel,Female,IT,22,7.08,80,5,1,75,43,Not Placed,0
+S0547,Kevin,Female,MECH,22,9.34,74,3,6,98,80,Placed,9.39
+S0548,Michelle,Male,IT,19,8.69,72,1,2,58,68,Not Placed,0
+S0549,Peter,Female,IT,19,8.68,84,0,3,42,67,Not Placed,0
+S0550,Brittany,Male,IT,20,7.92,60,2,6,61,69,Placed,11.44
+S0551,Kim,Female,CSE,24,7.98,99,5,3,93,82,Placed,7.41
+S0552,Robert,Male,EEE,22,8.54,74,4,1,51,73,Not Placed,0
+S0553,Bryan,Female,ECE,20,7.69,82,0,2,54,96,Not Placed,0
+S0554,Holly,Male,CSE,23,6.47,93,4,6,70,75,Not Placed,0
+S0555,Geoffrey,Male,CIVIL,20,6.73,99,1,2,98,79,Not Placed,0
+S0556,Jessica,Female,CSE,22,6.91,84,0,6,56,74,Not Placed,0
+S0557,Patricia,Female,CIVIL,19,9.11,92,2,4,91,72,Placed,7.38
+S0558,Dominique,Male,CIVIL,18,6.6,66,0,5,50,89,Not Placed,0
+S0559,Meagan,Male,IT,22,6.05,73,5,4,95,83,Not Placed,0
+S0560,Bradley,Male,CSE,21,9.14,87,5,1,81,92,Placed,9.72
+S0561,Bradley,Female,MECH,18,8.58,65,0,2,44,43,Not Placed,0
+S0562,Wendy,Female,ECE,18,7.87,76,1,4,66,64,Placed,8.67
+S0563,Jennifer,Male,CIVIL,22,6.95,94,0,6,40,81,Not Placed,0
+S0564,Eric,Female,CIVIL,20,5.23,82,0,1,99,72,Not Placed,0
+S0565,Michelle,Male,MECH,19,8.03,88,2,6,64,65,Placed,3.28
+S0566,Jill,Female,CIVIL,24,5.68,94,3,2,58,80,Not Placed,0
+S0567,Natalie,Male,CSE,18,9.34,83,5,5,100,40,Not Placed,0
+S0568,Colleen,Female,IT,23,5.03,85,4,1,74,75,Not Placed,0
+S0569,Michael,Male,IT,19,8.71,82,5,6,53,66,Not Placed,0
+S0570,Lisa,Male,MECH,21,6.1,72,2,6,47,51,Not Placed,0
+S0571,Stephen,Male,IT,23,8.22,78,0,3,82,44,Not Placed,0
+S0572,Heather,Male,CSE,20,7.9,82,2,6,48,82,Not Placed,0
+S0573,Marcus,Female,CIVIL,22,8.1,80,1,3,71,68,Placed,8.55
+S0574,Patricia,Male,CSE,20,5.76,83,4,4,91,60,Not Placed,0
+S0575,John,Male,CIVIL,23,6.23,87,1,3,57,93,Not Placed,0
+S0576,Jill,Female,MECH,18,6.66,89,3,3,68,62,Not Placed,0
+S0577,Brenda,Male,ECE,23,5.88,65,4,2,93,57,Not Placed,0
+S0578,Dennis,Male,MECH,22,9.43,64,0,5,97,41,Not Placed,0
+S0579,Robert,Female,MECH,22,7.03,73,4,5,98,42,Not Placed,0
+S0580,Brandon,Female,IT,21,7.36,83,1,5,65,54,Not Placed,0
+S0581,Pamela,Male,MECH,19,7.51,85,0,1,63,72,Placed,8.96
+S0582,Katherine,Male,CIVIL,23,7.23,96,1,6,100,76,Placed,10.85
+S0583,Christopher,Male,CSE,20,7.42,62,2,4,54,88,Not Placed,0
+S0584,Erica,Female,EEE,21,6.85,73,0,3,73,98,Not Placed,0
+S0585,William,Female,CIVIL,20,9.41,80,0,5,46,85,Not Placed,0
+S0586,Jason,Male,MECH,20,7.89,71,4,4,64,81,Placed,6.29
+S0587,Bryan,Female,EEE,22,6.88,93,1,3,65,62,Not Placed,0
+S0588,Sheryl,Female,IT,19,5.03,88,1,1,50,54,Not Placed,0
+S0589,Erica,Male,EEE,24,5.93,98,2,1,85,92,Not Placed,0
+S0590,Wayne,Male,MECH,19,6.65,90,0,4,83,70,Not Placed,0
+S0591,Kristine,Male,IT,23,8.24,61,3,2,55,42,Not Placed,0
+S0592,Ronald,Male,MECH,21,7.56,69,4,3,43,50,Not Placed,0
+S0593,Michelle,Female,CSE,19,8,100,4,6,41,96,Not Placed,0
+S0594,Terri,Male,MECH,24,7.25,90,3,4,50,54,Not Placed,0
+S0595,Kaitlyn,Female,EEE,22,8.84,92,4,6,56,50,Not Placed,0
+S0596,John,Male,IT,22,7.95,84,1,1,64,48,Not Placed,0
+S0597,Dawn,Male,IT,21,9.3,86,4,5,92,49,Not Placed,0
+S0598,Stephanie,Male,CSE,21,9.51,62,4,5,96,90,Placed,7.53
+S0599,Daisy,Female,MECH,21,8.3,94,4,6,92,40,Not Placed,0
+S0600,Jesse,Female,ECE,22,6.85,93,0,4,67,54,Not Placed,0
+S0601,Ronnie,Female,EEE,24,9.02,96,5,2,46,67,Not Placed,0
+S0602,Laurie,Female,ECE,19,6.16,78,0,5,78,96,Not Placed,0
+S0603,Elaine,Male,EEE,23,5.03,60,5,1,76,73,Not Placed,0
+S0604,Nicholas,Female,CIVIL,22,6.03,86,2,2,63,46,Not Placed,0
+S0605,James,Female,CIVIL,21,6.27,87,4,5,76,63,Not Placed,0
+S0606,Richard,Female,ECE,20,8.77,95,3,4,90,75,Placed,4.61
+S0607,Bethany,Male,CIVIL,19,7.89,85,5,6,87,48,Not Placed,0
+S0608,Jesse,Female,ECE,24,7.23,70,5,5,46,53,Not Placed,0
+S0609,John,Male,CSE,24,7.75,63,5,6,50,64,Not Placed,0
+S0610,Ashley,Male,ECE,18,5.73,87,4,3,45,44,Not Placed,0
+S0611,Jaime,Female,CIVIL,22,8.05,84,5,5,99,65,Placed,8.91
+S0612,Caitlin,Male,CIVIL,24,5.29,100,1,1,71,68,Not Placed,0
+S0613,Scott,Male,MECH,19,7.59,62,1,5,90,78,Placed,7.64
+S0614,Tami,Male,ECE,24,8.37,75,2,2,81,40,Not Placed,0
+S0615,Richard,Male,CIVIL,23,7,85,5,2,65,77,Not Placed,0
+S0616,Heather,Female,ECE,24,5.34,95,0,5,58,86,Not Placed,0
+S0617,Michelle,Male,ECE,19,6.38,72,4,4,69,99,Not Placed,0
+S0618,David,Female,CSE,24,7.04,95,0,3,44,72,Not Placed,0
+S0619,Taylor,Female,EEE,22,7.57,94,2,5,92,90,Placed,5.25
+S0620,Laurie,Male,EEE,18,7.42,81,1,6,89,69,Placed,7.15
+S0621,Brenda,Male,ECE,21,6.29,100,3,6,90,54,Not Placed,0
+S0622,Miranda,Male,ECE,18,9.78,94,4,3,40,84,Not Placed,0
+S0623,David,Female,ECE,20,6.99,81,5,2,44,75,Not Placed,0
+S0624,Brian,Male,EEE,23,6.09,77,4,6,51,100,Not Placed,0
+S0625,Thomas,Male,IT,24,6,75,5,2,95,56,Not Placed,0
+S0626,Lauren,Male,CSE,23,6.25,82,4,1,49,89,Not Placed,0
+S0627,Adam,Male,EEE,20,9.78,99,3,5,40,88,Not Placed,0
+S0628,Melinda,Female,EEE,19,8.1,96,3,4,95,57,Placed,4.65
+S0629,Michaela,Male,MECH,20,8.75,63,1,4,73,91,Placed,7.3
+S0630,Thomas,Female,ECE,23,6.97,71,5,6,69,47,Not Placed,0
+S0631,Carolyn,Female,ECE,22,5.04,73,5,1,64,77,Not Placed,0
+S0632,Emily,Female,MECH,20,9.31,95,1,3,56,55,Not Placed,0
+S0633,Mark,Female,ECE,24,6.83,87,3,6,53,66,Not Placed,0
+S0634,Michael,Male,CSE,23,7,71,3,5,76,48,Not Placed,0
+S0635,Kara,Male,IT,24,6.35,95,1,4,67,94,Not Placed,0
+S0636,Anthony,Female,EEE,19,9.8,90,1,2,91,40,Not Placed,0
+S0637,Andrew,Female,ECE,22,9.98,93,5,3,74,86,Placed,10.07
+S0638,Jennifer,Male,IT,24,9.29,85,0,2,46,84,Not Placed,0
+S0639,Calvin,Female,ECE,20,6.27,66,5,3,68,87,Not Placed,0
+S0640,Charles,Female,CIVIL,22,7.8,82,2,1,41,66,Not Placed,0
+S0641,Sean,Female,ECE,23,5.99,94,4,3,51,89,Not Placed,0
+S0642,Randy,Female,EEE,23,7.55,88,5,4,96,45,Not Placed,0
+S0643,Courtney,Female,CSE,18,9.78,100,1,3,91,99,Placed,6.8
+S0644,Scott,Female,MECH,23,5.81,80,1,3,60,81,Not Placed,0
+S0645,Robert,Female,EEE,19,6.98,83,3,5,87,77,Not Placed,0
+S0646,Kristina,Female,CIVIL,23,5.92,68,0,6,86,55,Not Placed,0
+S0647,Angelica,Male,EEE,22,8.75,70,1,1,65,46,Not Placed,0
+S0648,Joshua,Female,MECH,19,5.27,93,3,1,88,45,Not Placed,0
+S0649,Michael,Female,EEE,23,5.42,79,3,6,54,55,Not Placed,0
+S0650,Christine,Female,ECE,24,5.63,70,4,6,41,42,Not Placed,0
+S0651,Sara,Male,MECH,22,7.38,77,4,2,75,68,Placed,11.73
+S0652,Matthew,Female,ECE,21,7.28,100,5,4,96,76,Placed,7.71
+S0653,Ann,Female,IT,20,7.7,88,0,4,59,63,Not Placed,0
+S0654,Vanessa,Male,CIVIL,21,5.05,68,4,4,62,58,Not Placed,0
+S0655,Yvonne,Female,MECH,19,9.73,79,3,4,40,89,Not Placed,0
+S0656,Steven,Female,EEE,19,8.98,83,4,5,52,66,Not Placed,0
+S0657,Denise,Female,CSE,21,5.82,84,5,2,93,64,Not Placed,0
+S0658,Rachel,Female,EEE,19,8.13,99,4,6,91,84,Placed,5.45
+S0659,Aaron,Female,MECH,21,9.27,68,1,6,58,47,Not Placed,0
+S0660,Emily,Male,CSE,22,6.36,91,4,1,52,60,Not Placed,0
+S0661,Robert,Female,CIVIL,18,5.11,78,0,6,57,48,Not Placed,0
+S0662,Monica,Female,ECE,24,6.16,60,1,3,71,53,Not Placed,0
+S0663,Dennis,Male,CSE,20,9,89,2,1,84,90,Placed,5.97
+S0664,Mark,Female,EEE,24,8.88,94,0,2,70,51,Not Placed,0
+S0665,Matthew,Male,CIVIL,18,5.06,75,5,4,64,89,Not Placed,0
+S0666,Sarah,Female,EEE,23,6,66,5,2,73,82,Not Placed,0
+S0667,Ann,Male,ECE,21,9.81,70,2,1,80,86,Placed,9.7
+S0668,Mark,Male,CSE,19,8.19,83,1,6,96,43,Not Placed,0
+S0669,William,Male,EEE,24,8.16,60,2,3,50,90,Not Placed,0
+S0670,Christopher,Male,ECE,24,6.22,97,0,4,90,84,Not Placed,0
+S0671,Regina,Female,CIVIL,18,5.45,91,1,5,45,83,Not Placed,0
+S0672,Robin,Male,EEE,19,5.3,69,5,1,84,74,Not Placed,0
+S0673,Gabrielle,Male,CSE,23,6.58,82,4,4,91,97,Not Placed,0
+S0674,Victoria,Female,CIVIL,21,6.89,68,5,1,56,97,Not Placed,0
+S0675,David,Female,ECE,23,7.8,91,4,2,52,76,Not Placed,0
+S0676,John,Male,EEE,20,7.34,95,4,5,50,44,Not Placed,0
+S0677,Monica,Female,CIVIL,19,9.1,83,4,6,69,40,Not Placed,0
+S0678,Bob,Male,CIVIL,22,9.41,83,4,2,89,79,Placed,5.89
+S0679,Jennifer,Female,ECE,21,9.1,93,1,5,83,71,Placed,4.39
+S0680,Karen,Male,IT,24,8.2,66,0,1,73,82,Placed,3.39
+S0681,David,Female,CIVIL,21,5.16,91,0,1,52,46,Not Placed,0
+S0682,Amanda,Male,MECH,23,7.63,97,5,3,56,43,Not Placed,0
+S0683,Kelly,Female,CIVIL,18,5.35,91,1,1,99,96,Not Placed,0
+S0684,Daniel,Male,MECH,20,6.8,86,5,6,92,63,Not Placed,0
+S0685,Jennifer,Male,CSE,23,7.65,64,5,1,93,59,Placed,11.5
+S0686,Aaron,Male,MECH,23,6.16,72,3,6,52,73,Not Placed,0
+S0687,Kenneth,Female,CIVIL,21,9.74,95,4,1,66,87,Placed,9.9
+S0688,Patrick,Female,MECH,20,8.51,66,3,2,50,90,Not Placed,0
+S0689,Patrick,Female,ECE,21,8.29,98,4,3,68,99,Placed,11.12
+S0690,Paul,Male,EEE,24,8.82,80,3,5,78,55,Not Placed,0
+S0691,Dominique,Male,CIVIL,18,7.75,76,5,4,63,68,Placed,11.64
+S0692,Karla,Male,ECE,19,9.91,61,4,3,73,48,Not Placed,0
+S0693,Ashley,Female,MECH,22,6.07,61,2,6,89,92,Not Placed,0
+S0694,Brooke,Female,IT,19,7.78,69,4,4,46,42,Not Placed,0
+S0695,Cynthia,Male,MECH,21,6.32,75,4,3,54,56,Not Placed,0
+S0696,Dana,Male,MECH,23,7.85,64,1,4,86,60,Placed,4.56
+S0697,Derek,Female,ECE,24,6.5,96,5,1,64,45,Not Placed,0
+S0698,Connie,Female,CSE,20,7.17,74,0,5,87,81,Placed,11.36
+S0699,Carl,Male,IT,18,7.62,94,2,3,76,49,Not Placed,0
+S0700,Kimberly,Male,EEE,20,8.37,88,3,5,88,78,Placed,7.54
+S0701,Joseph,Male,MECH,21,8.93,68,1,4,61,45,Not Placed,0
+S0702,Douglas,Male,IT,21,6.31,92,3,6,67,89,Not Placed,0
+S0703,Melanie,Male,IT,18,7.8,85,3,2,81,76,Placed,8.05
+S0704,Laura,Male,CSE,23,6.33,80,3,5,83,99,Not Placed,0
+S0705,Robin,Male,ECE,19,7.07,82,2,3,52,60,Not Placed,0
+S0706,Joshua,Male,IT,19,9.94,88,4,4,79,49,Not Placed,0
+S0707,Gina,Male,MECH,19,8.43,65,1,1,47,87,Not Placed,0
+S0708,Robert,Female,CSE,20,9.34,60,2,1,61,84,Placed,5.75
+S0709,Faith,Female,MECH,21,6.05,73,4,5,53,74,Not Placed,0
+S0710,Laura,Female,IT,18,8.12,61,1,6,64,77,Placed,7.74
+S0711,Max,Male,CSE,21,6.42,99,5,4,57,43,Not Placed,0
+S0712,Ian,Female,CIVIL,21,8.3,83,5,1,95,46,Not Placed,0
+S0713,Maria,Female,MECH,22,6.16,92,3,3,85,46,Not Placed,0
+S0714,Noah,Male,CSE,19,5.44,92,1,6,69,75,Not Placed,0
+S0715,Kimberly,Female,CIVIL,20,9.61,81,2,6,71,65,Placed,4.41
+S0716,Darren,Female,EEE,24,6.78,75,2,1,72,57,Not Placed,0
+S0717,Paul,Female,CIVIL,19,9.95,77,4,3,54,49,Not Placed,0
+S0718,Robert,Male,EEE,19,5.44,93,3,6,83,79,Not Placed,0
+S0719,Tyler,Male,IT,23,7.86,79,3,3,98,78,Placed,7.04
+S0720,William,Male,EEE,24,5.69,72,4,3,95,48,Not Placed,0
+S0721,Kendra,Male,IT,20,5.73,70,4,5,60,44,Not Placed,0
+S0722,Rebecca,Female,EEE,23,9.2,61,1,4,88,60,Placed,11.65
+S0723,Tammy,Male,IT,19,9.67,77,5,2,49,89,Not Placed,0
+S0724,Adrian,Male,MECH,19,5.13,99,4,5,57,78,Not Placed,0
+S0725,Walter,Male,MECH,24,6.15,82,0,4,45,84,Not Placed,0
+S0726,Kimberly,Female,EEE,19,8.02,83,5,4,51,94,Not Placed,0
+S0727,Hayley,Female,EEE,19,5.82,62,1,1,66,88,Not Placed,0
+S0728,David,Female,CIVIL,20,8.71,73,1,4,44,51,Not Placed,0
+S0729,Mark,Female,CIVIL,20,9.33,87,1,1,65,89,Placed,8.47
+S0730,Stephanie,Male,MECH,18,6.97,96,5,5,78,74,Not Placed,0
+S0731,Nicholas,Male,MECH,21,7.26,75,0,4,73,74,Placed,11.85
+S0732,Charles,Female,ECE,24,7.58,63,5,4,52,58,Not Placed,0
+S0733,Francis,Male,EEE,24,9.14,70,3,5,67,58,Placed,11.27
+S0734,Erin,Male,EEE,21,8.23,92,0,5,47,51,Not Placed,0
+S0735,Sandra,Male,EEE,18,6.62,71,0,6,69,77,Not Placed,0
+S0736,Christine,Male,CSE,23,6.25,70,5,1,85,86,Not Placed,0
+S0737,Angela,Male,EEE,22,7.25,65,2,4,73,85,Placed,9.54
+S0738,Eugene,Male,IT,24,6.9,81,1,6,76,95,Not Placed,0
+S0739,Shawn,Female,ECE,23,5.72,63,5,3,66,59,Not Placed,0
+S0740,Bradley,Male,EEE,21,5.9,72,1,3,40,79,Not Placed,0
+S0741,Jessica,Female,EEE,21,9.28,60,4,4,78,96,Placed,5.14
+S0742,Gregory,Female,MECH,23,7.21,98,4,5,40,55,Not Placed,0
+S0743,Jennifer,Female,CSE,19,7.79,63,1,1,51,49,Not Placed,0
+S0744,Johnathan,Male,CSE,18,9.27,96,5,3,93,78,Placed,5.98
+S0745,Benjamin,Male,EEE,23,7.08,70,1,5,83,58,Placed,8.95
+S0746,Oscar,Female,CSE,24,7.89,65,0,3,89,59,Placed,6.32
+S0747,Calvin,Male,CIVIL,24,7.14,64,4,2,58,70,Not Placed,0
+S0748,Frederick,Male,MECH,18,6.37,86,4,6,73,53,Not Placed,0
+S0749,Sheryl,Female,EEE,22,5.55,100,5,4,73,45,Not Placed,0
+S0750,Emily,Female,MECH,23,9.24,93,2,3,76,79,Placed,11.34
+S0751,Maria,Male,CSE,18,8.16,71,3,2,96,79,Placed,9.38
+S0752,Steven,Female,EEE,18,5.12,67,5,2,87,94,Not Placed,0
+S0753,Matthew,Male,CIVIL,20,6.67,100,4,6,53,40,Not Placed,0
+S0754,Susan,Female,CSE,18,6.27,79,0,5,59,72,Not Placed,0
+S0755,Allison,Male,IT,20,8.43,85,2,5,86,76,Placed,11.64
+S0756,William,Female,IT,23,9.17,90,5,1,98,70,Placed,8.81
+S0757,John,Male,MECH,20,7.3,81,4,4,69,90,Placed,11.35
+S0758,Alexander,Female,ECE,18,7.82,80,5,1,75,74,Placed,4.87
+S0759,Melanie,Male,MECH,22,9.85,61,2,6,61,64,Placed,7.81
+S0760,Megan,Female,CIVIL,18,6.95,67,4,3,95,90,Not Placed,0
+S0761,Terry,Female,ECE,19,6.36,91,0,3,96,55,Not Placed,0
+S0762,Justin,Male,EEE,22,7.63,67,1,1,63,90,Placed,10
+S0763,Michelle,Female,CIVIL,24,5.12,92,3,3,49,52,Not Placed,0
+S0764,Emma,Male,IT,23,7.62,69,2,1,89,95,Placed,10.4
+S0765,Katrina,Male,CIVIL,24,5.18,93,3,3,47,40,Not Placed,0
+S0766,Lynn,Female,CSE,22,7.97,81,0,1,69,96,Placed,3.93
+S0767,Deborah,Female,ECE,22,8.79,73,5,2,60,52,Not Placed,0
+S0768,Jennifer,Female,CSE,18,6.6,67,3,2,57,49,Not Placed,0
+S0769,Andrew,Female,MECH,20,9.79,92,4,5,46,53,Not Placed,0
+S0770,Anthony,Male,ECE,22,6.36,78,5,2,76,55,Not Placed,0
+S0771,James,Female,CIVIL,18,9.46,88,4,1,43,48,Not Placed,0
+S0772,Patrick,Female,MECH,20,5.53,65,0,2,67,65,Not Placed,0
+S0773,Lisa,Male,CSE,24,6.56,94,1,4,45,99,Not Placed,0
+S0774,Abigail,Female,EEE,19,9.01,89,5,3,46,69,Not Placed,0
+S0775,Richard,Female,IT,23,9.74,99,1,3,56,98,Not Placed,0
+S0776,James,Male,ECE,21,9.59,80,2,1,69,71,Placed,3.59
+S0777,Donna,Male,EEE,24,7.31,78,1,5,89,62,Placed,8.17
+S0778,Gary,Female,EEE,22,8.57,80,0,1,75,81,Placed,10.13
+S0779,Barbara,Female,CSE,20,7.07,75,4,4,75,50,Not Placed,0
+S0780,Michael,Female,MECH,23,6.04,97,5,4,67,90,Not Placed,0
+S0781,Courtney,Female,CSE,22,6.18,64,5,6,87,99,Not Placed,0
+S0782,Krista,Male,ECE,21,7.98,95,2,4,46,92,Not Placed,0
+S0783,Henry,Female,EEE,23,5.35,98,0,4,89,92,Not Placed,0
+S0784,Elizabeth,Male,IT,23,8.3,73,0,5,92,48,Not Placed,0
+S0785,Deborah,Female,IT,19,5.75,78,4,5,64,79,Not Placed,0
+S0786,Tiffany,Female,CIVIL,20,8.41,79,2,6,76,90,Placed,5.74
+S0787,Kelly,Female,CSE,20,9.95,60,4,4,79,72,Placed,10.63
+S0788,Dustin,Female,CSE,19,9.51,60,0,3,85,75,Placed,3.99
+S0789,Jasmine,Female,EEE,22,7.16,85,4,6,80,60,Placed,6.45
+S0790,John,Female,ECE,24,6.06,90,1,5,48,52,Not Placed,0
+S0791,Victor,Male,IT,23,7.09,68,2,1,48,40,Not Placed,0
+S0792,Michael,Female,EEE,24,9.42,87,5,2,48,45,Not Placed,0
+S0793,Cynthia,Female,MECH,24,8.48,99,3,5,51,69,Not Placed,0
+S0794,Taylor,Male,MECH,21,7.25,74,2,5,51,67,Not Placed,0
+S0795,Samantha,Female,CSE,18,9.23,92,1,5,57,66,Not Placed,0
+S0796,Angela,Male,IT,23,7.84,83,5,4,47,77,Not Placed,0
+S0797,Jane,Male,IT,21,8.66,89,2,5,73,45,Not Placed,0
+S0798,Melissa,Female,MECH,18,8.15,64,5,5,83,80,Placed,10.18
+S0799,Jeffrey,Female,EEE,20,9.52,60,4,5,70,69,Placed,11.15
+S0800,Angel,Female,CIVIL,24,9.8,78,2,6,50,42,Not Placed,0
+S0801,Crystal,Female,CIVIL,22,7.82,100,0,2,70,77,Placed,8.16
+S0802,Carol,Female,ECE,19,5.14,65,3,1,48,72,Not Placed,0
+S0803,Jerry,Male,MECH,23,8.08,76,2,1,40,87,Not Placed,0
+S0804,Anthony,Male,EEE,19,5.76,83,3,3,91,51,Not Placed,0
+S0805,Mark,Male,EEE,24,9,81,0,5,45,49,Not Placed,0
+S0806,Andrew,Male,MECH,23,9.97,75,3,6,82,68,Placed,8.74
+S0807,William,Female,EEE,21,9.21,76,0,1,88,92,Placed,3.47
+S0808,Thomas,Female,EEE,20,6.51,94,5,6,54,64,Not Placed,0
+S0809,Michael,Female,CIVIL,20,5.73,60,3,4,58,99,Not Placed,0
+S0810,Lisa,Female,EEE,22,9.81,62,5,5,46,98,Not Placed,0
+S0811,Joanna,Female,CIVIL,22,9.59,81,2,1,57,57,Not Placed,0
+S0812,Heather,Male,MECH,20,6.96,75,5,5,86,83,Not Placed,0
+S0813,Laura,Male,CSE,18,8.39,80,1,6,75,40,Not Placed,0
+S0814,Jesus,Female,ECE,19,7.06,66,4,3,83,68,Placed,4.97
+S0815,Blake,Male,MECH,23,5.17,65,4,5,43,100,Not Placed,0
+S0816,Marcus,Female,CIVIL,24,5.61,65,0,2,94,78,Not Placed,0
+S0817,Joan,Male,ECE,20,9.5,71,4,6,97,47,Not Placed,0
+S0818,Amber,Female,ECE,19,7.33,100,0,3,69,99,Placed,9.92
+S0819,David,Female,ECE,19,8.9,63,2,3,64,64,Placed,11.96
+S0820,Amanda,Male,IT,22,7.2,72,3,2,79,65,Placed,8.81
+S0821,Laurie,Female,CSE,18,8.84,99,1,4,81,46,Not Placed,0
+S0822,Penny,Female,IT,23,5.36,76,4,1,89,68,Not Placed,0
+S0823,Zachary,Female,EEE,22,8.2,84,0,6,57,49,Not Placed,0
+S0824,Kelsey,Male,MECH,19,5.02,91,5,4,70,67,Not Placed,0
+S0825,Holly,Female,ECE,23,5.02,90,5,5,47,76,Not Placed,0
+S0826,Karen,Female,CSE,24,6.51,100,0,3,81,45,Not Placed,0
+S0827,Scott,Female,CIVIL,19,7.3,72,2,1,51,75,Not Placed,0
+S0828,Rachel,Female,CSE,23,6.49,66,3,3,80,84,Not Placed,0
+S0829,Jared,Male,EEE,21,7.19,68,1,1,42,52,Not Placed,0
+S0830,Rebecca,Male,CSE,20,5.31,79,4,4,71,74,Not Placed,0
+S0831,Tyler,Female,CIVIL,24,5.28,62,5,2,65,47,Not Placed,0
+S0832,Kimberly,Male,CIVIL,19,9.37,97,1,1,54,99,Not Placed,0
+S0833,Jeffrey,Male,CSE,19,7.44,90,0,5,98,98,Placed,3.41
+S0834,Emily,Male,CSE,18,8.16,66,2,2,69,79,Placed,10.52
+S0835,Donna,Female,ECE,24,7.49,74,4,2,44,91,Not Placed,0
+S0836,Alyssa,Male,ECE,24,9.18,85,5,6,60,47,Not Placed,0
+S0837,Isaac,Male,CSE,20,9.82,62,1,3,77,51,Not Placed,0
+S0838,Jasmine,Male,EEE,19,5.71,70,3,5,84,63,Not Placed,0
+S0839,Melissa,Female,IT,18,9.63,68,0,6,46,90,Not Placed,0
+S0840,Amy,Female,EEE,23,9.4,60,0,1,40,51,Not Placed,0
+S0841,Monica,Female,MECH,21,9.04,68,3,6,53,49,Not Placed,0
+S0842,Frederick,Male,CIVIL,21,7.06,99,1,5,84,42,Not Placed,0
+S0843,Rachel,Male,MECH,19,8.06,100,0,3,92,90,Placed,6.13
+S0844,Timothy,Male,EEE,24,5.96,66,4,5,79,63,Not Placed,0
+S0845,Chad,Male,CIVIL,24,8.13,77,1,1,43,52,Not Placed,0
+S0846,Christina,Male,CSE,23,9.84,91,3,6,51,50,Not Placed,0
+S0847,Lauren,Female,CSE,18,6.82,87,1,5,56,61,Not Placed,0
+S0848,Valerie,Female,MECH,18,8.7,71,4,1,50,90,Not Placed,0
+S0849,Mary,Female,IT,23,5.35,88,1,3,77,77,Not Placed,0
+S0850,Daniel,Male,CSE,19,8.38,74,2,3,89,47,Not Placed,0
+S0851,Jacob,Female,MECH,21,8.69,84,1,1,97,54,Not Placed,0
+S0852,Amanda,Female,IT,21,5.27,69,3,5,53,99,Not Placed,0
+S0853,John,Male,ECE,19,6.87,72,3,3,80,62,Not Placed,0
+S0854,Michelle,Female,EEE,21,5.16,63,4,1,57,48,Not Placed,0
+S0855,Daniel,Male,CIVIL,22,5.86,74,2,5,96,58,Not Placed,0
+S0856,Sean,Female,MECH,21,9.53,95,4,1,94,54,Not Placed,0
+S0857,Alexa,Female,CIVIL,24,9.31,97,1,4,70,93,Placed,5.51
+S0858,Kayla,Male,MECH,18,6.23,87,2,5,77,54,Not Placed,0
+S0859,Raymond,Female,EEE,24,7.09,62,0,5,70,86,Placed,3.3
+S0860,Christine,Male,CIVIL,23,8.99,88,0,1,71,55,Not Placed,0
+S0861,Jean,Male,CSE,21,7.03,68,1,2,62,58,Placed,8.83
+S0862,Paul,Female,EEE,24,8.35,89,1,6,94,76,Placed,8.25
+S0863,Joseph,Female,CIVIL,23,5.69,85,5,3,51,90,Not Placed,0
+S0864,Walter,Female,MECH,18,5.01,64,5,6,64,97,Not Placed,0
+S0865,Barry,Male,MECH,20,6.48,99,2,2,74,76,Not Placed,0
+S0866,Marissa,Male,CSE,21,8.68,92,0,6,100,98,Placed,6.28
+S0867,Kevin,Male,MECH,23,6.83,62,4,2,63,63,Not Placed,0
+S0868,Jesse,Female,CIVIL,24,8.87,81,1,1,55,74,Not Placed,0
+S0869,Misty,Female,MECH,23,7.9,73,5,2,88,87,Placed,5.88
+S0870,Brandi,Male,EEE,23,7.11,64,0,4,63,62,Placed,7.38
+S0871,Elizabeth,Male,IT,21,7.66,78,4,3,68,79,Placed,10.2
+S0872,Nicole,Male,ECE,18,5.44,71,3,1,58,44,Not Placed,0
+S0873,Sydney,Male,ECE,21,8.49,69,3,5,95,53,Not Placed,0
+S0874,Jose,Male,ECE,19,9.85,68,4,4,70,62,Placed,6.99
+S0875,Peter,Female,CIVIL,23,5.31,93,1,4,81,61,Not Placed,0
+S0876,Heather,Female,EEE,20,8.93,97,3,5,82,84,Placed,10.58
+S0877,Andrew,Female,CSE,19,7.84,70,2,2,90,56,Placed,7.36
+S0878,Michelle,Female,IT,19,6.77,70,3,2,79,99,Not Placed,0
+S0879,Julie,Male,ECE,22,9.2,69,5,1,50,55,Not Placed,0
+S0880,Samantha,Male,CIVIL,20,5.63,83,2,5,51,53,Not Placed,0
+S0881,Derrick,Male,CSE,21,9.89,83,1,2,68,74,Placed,7.8
+S0882,Shannon,Female,CIVIL,23,9.66,89,1,2,99,60,Placed,3.04
+S0883,Michelle,Female,ECE,23,6.48,96,2,5,82,49,Not Placed,0
+S0884,Paul,Male,ECE,18,5.56,62,3,5,48,83,Not Placed,0
+S0885,Calvin,Male,MECH,23,7.01,88,1,3,62,45,Not Placed,0
+S0886,Sarah,Male,CSE,18,5.98,74,4,3,90,99,Not Placed,0
+S0887,Eric,Male,CIVIL,20,7.69,65,3,2,72,65,Placed,7.41
+S0888,Angela,Male,ECE,20,6.99,87,5,3,63,64,Not Placed,0
+S0889,Nicholas,Female,CIVIL,21,6.76,95,3,6,45,53,Not Placed,0
+S0890,Christopher,Female,IT,24,9.02,70,2,4,91,86,Placed,9.56
+S0891,Todd,Female,CSE,22,7.94,69,0,4,53,59,Not Placed,0
+S0892,Joseph,Female,CIVIL,22,8.78,60,0,3,66,80,Placed,6.73
+S0893,Jonathan,Female,MECH,21,8.78,72,1,4,51,93,Not Placed,0
+S0894,Karen,Female,IT,18,5.21,97,2,5,59,71,Not Placed,0
+S0895,Michael,Female,CSE,23,8.96,76,1,6,59,80,Not Placed,0
+S0896,Tracy,Male,CSE,18,8.33,86,2,6,51,71,Not Placed,0
+S0897,Robert,Female,ECE,23,8.82,64,3,3,78,87,Placed,8.23
+S0898,David,Female,IT,22,8.43,67,5,6,63,72,Placed,8.18
+S0899,Kenneth,Female,IT,18,5.29,89,2,2,96,84,Not Placed,0
+S0900,Dave,Female,ECE,22,6.36,100,3,1,98,62,Not Placed,0
+S0901,David,Male,CSE,22,8.19,92,0,6,52,89,Not Placed,0
+S0902,Christopher,Female,CIVIL,23,8.76,80,4,6,95,60,Placed,10.2
+S0903,Rebecca,Female,ECE,24,8.44,94,0,2,77,62,Placed,3.12
+S0904,Andrea,Male,IT,24,7.42,70,2,2,46,53,Not Placed,0
+S0905,Jeffrey,Male,EEE,21,9.49,93,4,6,94,74,Placed,7.96
+S0906,Rebecca,Female,ECE,23,9.58,68,0,4,99,41,Not Placed,0
+S0907,Lauren,Male,CIVIL,20,6.81,98,3,3,73,88,Not Placed,0
+S0908,Roger,Male,CIVIL,19,5.14,74,0,6,48,94,Not Placed,0
+S0909,Edward,Male,CSE,18,6.54,68,1,6,45,67,Not Placed,0
+S0910,Ashlee,Male,EEE,18,8.87,62,3,1,52,46,Not Placed,0
+S0911,Ronnie,Male,CSE,22,9.54,64,0,1,59,82,Not Placed,0
+S0912,Amy,Male,IT,24,6.03,71,1,1,82,62,Not Placed,0
+S0913,Cheryl,Male,MECH,22,8.73,97,2,2,62,62,Placed,10.7
+S0914,Adam,Male,ECE,19,5.34,60,4,6,73,53,Not Placed,0
+S0915,Hayley,Female,ECE,23,9.51,60,4,2,86,46,Not Placed,0
+S0916,Lauren,Female,EEE,19,7.95,66,3,3,51,93,Not Placed,0
+S0917,Sarah,Male,EEE,24,7.57,67,3,1,88,60,Placed,7.19
+S0918,Gregory,Female,EEE,18,6.81,95,2,1,86,42,Not Placed,0
+S0919,Anthony,Female,IT,22,6.92,98,3,6,87,59,Not Placed,0
+S0920,Daniel,Female,IT,18,7.04,72,3,4,94,44,Not Placed,0
+S0921,Janet,Male,CSE,19,9.99,66,3,5,65,68,Placed,8.93
+S0922,Hannah,Male,ECE,19,6.97,97,5,2,46,87,Not Placed,0
+S0923,Juan,Female,ECE,24,6.69,85,4,4,47,54,Not Placed,0
+S0924,Robert,Female,ECE,21,8.57,97,4,6,57,88,Not Placed,0
+S0925,Jose,Male,CSE,20,8.33,91,3,2,72,57,Placed,9.91
+S0926,Shelby,Male,CIVIL,18,7.45,100,1,1,100,48,Not Placed,0
+S0927,Anthony,Female,IT,20,9.15,61,3,5,51,64,Not Placed,0
+S0928,Scott,Female,IT,20,8.11,64,0,5,82,88,Placed,9.91
+S0929,Michael,Male,CSE,21,8.31,92,3,3,56,74,Not Placed,0
+S0930,Lynn,Male,CSE,19,9.4,84,0,4,68,60,Placed,6.98
+S0931,John,Female,EEE,24,7.78,70,2,2,71,67,Placed,5.81
+S0932,Kimberly,Female,EEE,22,5.55,91,5,6,82,75,Not Placed,0
+S0933,Zachary,Female,MECH,23,9.27,63,4,4,65,56,Placed,8.32
+S0934,Casey,Male,IT,24,6.76,80,2,5,43,41,Not Placed,0
+S0935,April,Female,EEE,18,6.83,97,5,6,41,88,Not Placed,0
+S0936,Devin,Male,IT,19,7.14,86,2,6,62,43,Not Placed,0
+S0937,Heather,Male,ECE,19,8.24,65,4,1,98,84,Placed,10.82
+S0938,Catherine,Female,ECE,18,5.1,62,2,4,69,82,Not Placed,0
+S0939,Karen,Female,ECE,22,8.48,61,4,5,60,64,Not Placed,0
+S0940,Jennifer,Female,EEE,22,5.49,66,3,2,84,83,Not Placed,0
+S0941,Megan,Female,EEE,19,9.06,81,5,3,50,79,Not Placed,0
+S0942,Michael,Male,ECE,22,7.48,94,0,3,53,58,Not Placed,0
+S0943,Philip,Male,MECH,20,7.01,99,1,6,87,45,Not Placed,0
+S0944,Joshua,Female,CSE,23,6.37,93,4,2,70,67,Not Placed,0
+S0945,Nicole,Female,EEE,20,9.12,79,4,5,67,82,Placed,5.82
+S0946,Michael,Male,MECH,21,8.12,95,3,1,51,96,Not Placed,0
+S0947,John,Female,MECH,23,6.06,89,5,6,57,99,Not Placed,0
+S0948,Jared,Female,EEE,21,8.13,72,4,2,63,69,Placed,5.16
+S0949,Robert,Female,ECE,23,6.59,100,0,4,53,94,Not Placed,0
+S0950,Amy,Male,IT,19,5.8,98,5,2,55,65,Not Placed,0
+S0951,Deborah,Female,CIVIL,18,5.14,89,2,4,71,75,Not Placed,0
+S0952,Angel,Male,CIVIL,24,6.01,68,2,3,41,56,Not Placed,0
+S0953,Jennifer,Male,ECE,22,5.21,91,5,1,90,41,Not Placed,0
+S0954,Carmen,Male,EEE,24,6.49,86,0,6,97,63,Not Placed,0
+S0955,William,Male,MECH,23,8.62,75,1,6,47,76,Not Placed,0
+S0956,Steve,Male,ECE,20,9.14,76,4,1,71,96,Placed,5.14
+S0957,William,Female,IT,19,9.16,84,5,6,91,87,Placed,5.12
+S0958,Evan,Male,EEE,22,5.53,77,1,3,68,66,Not Placed,0
+S0959,Carla,Male,ECE,24,6.87,80,0,4,74,67,Not Placed,0
+S0960,Mark,Male,CIVIL,23,9.68,90,2,3,85,63,Placed,3.19
+S0961,John,Female,CIVIL,23,8.99,75,0,4,56,75,Not Placed,0
+S0962,Joseph,Female,EEE,18,6.81,67,5,2,74,95,Not Placed,0
+S0963,Thomas,Female,IT,24,9.55,76,3,2,59,45,Not Placed,0
+S0964,Nathaniel,Female,CSE,20,9.45,100,3,6,60,96,Not Placed,0
+S0965,Craig,Male,IT,23,9.33,90,3,3,87,66,Placed,9.46
+S0966,Scott,Female,EEE,23,6.3,82,0,6,66,78,Not Placed,0
+S0967,Thomas,Male,CSE,21,5.14,71,0,6,80,68,Not Placed,0
+S0968,Sean,Male,IT,22,6,80,2,1,76,45,Not Placed,0
+S0969,Evan,Female,EEE,21,8.57,68,5,6,94,78,Placed,6.69
+S0970,Lydia,Female,ECE,19,9.37,76,1,5,51,83,Not Placed,0
+S0971,Monica,Male,CSE,18,5.42,71,2,4,65,96,Not Placed,0
+S0972,Luke,Female,IT,20,9.62,99,5,1,80,54,Not Placed,0
+S0973,Casey,Male,CSE,20,8.51,63,1,4,65,79,Placed,8.4
+S0974,Dustin,Female,EEE,24,5.85,67,4,5,40,85,Not Placed,0
+S0975,Melanie,Female,ECE,23,8.37,74,0,2,85,53,Not Placed,0
+S0976,Michele,Male,ECE,23,7.47,87,1,5,94,53,Not Placed,0
+S0977,Christopher,Female,IT,22,8.39,71,3,2,66,90,Placed,3.26
+S0978,Jeffrey,Male,EEE,19,7.25,83,1,6,77,83,Placed,7.12
+S0979,Heidi,Female,CIVIL,21,9.36,85,5,6,83,53,Not Placed,0
+S0980,Haley,Male,ECE,19,8.68,64,2,1,46,75,Not Placed,0
+S0981,Christopher,Male,CSE,20,7.35,98,2,5,100,82,Placed,9.39
+S0982,Jonathan,Male,MECH,19,7.52,79,3,3,65,82,Placed,4.19
+S0983,Angel,Male,CSE,20,6.3,91,4,4,99,61,Not Placed,0
+S0984,Kimberly,Male,IT,21,8.55,69,3,3,56,47,Not Placed,0
+S0985,Nicole,Female,MECH,24,9.36,83,2,3,99,67,Placed,11.13
+S0986,Alan,Female,CIVIL,21,8.81,93,2,2,60,67,Not Placed,0
+S0987,Timothy,Female,CSE,19,8.82,95,1,6,94,99,Placed,8.73
+S0988,John,Male,CIVIL,21,5.74,71,1,3,42,70,Not Placed,0
+S0989,George,Female,EEE,18,7.18,62,3,6,68,62,Placed,8.05
+S0990,Michael,Female,IT,24,9.23,67,1,2,62,45,Not Placed,0
+S0991,Lindsey,Male,MECH,18,5.84,77,4,6,76,97,Not Placed,0
+S0992,Phillip,Female,CIVIL,18,7.63,71,4,1,66,98,Placed,5.22
+S0993,Nicole,Male,ECE,19,9.44,78,0,1,83,83,Placed,6.55
+S0994,Stephanie,Male,ECE,18,5.14,90,3,3,69,80,Not Placed,0
+S0995,Martha,Male,IT,24,8.28,80,3,6,100,86,Placed,11.16
+S0996,Jose,Male,MECH,22,5.24,78,5,1,60,91,Not Placed,0
+S0997,Robin,Male,CSE,24,6.91,76,3,4,51,55,Not Placed,0
+S0998,Valerie,Male,CSE,20,6.04,85,3,6,58,81,Not Placed,0
+S0999,Tracy,Male,ECE,22,7.45,79,3,5,97,83,Placed,4.18
+S1000,Dustin,Female,CSE,24,6,84,3,5,70,57,Not Placed,0

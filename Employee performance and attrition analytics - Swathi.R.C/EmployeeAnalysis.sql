@@ -1,0 +1,15 @@
+create database EmployeeAnalysis;
+use EmployeeAnalysis;
+select * from EmployeeData;
+select count(*) as total_employees from EmployeeData;
+select department,count(*) from EmployeeData group by department;
+select department,avg(salary) as avg_salary from EmployeeData group by department;
+select emp_name,performance_score from EmployeeData where performance_score>=4.5;
+select emp_name,department from EmployeeData where attrition_status="yes";
+select promotion_status,count(*) as total from EmployeeData group by promotion_status;
+select work_mode,count(*) as total_employee from EmployeeData group by work_mode;
+select emp_name,salary from EmployeeData order by salary desc limit 5;
+select emp_name,attendance_percent from EmployeeData where attendance_percent<85;
+select department,avg(performance_score) as avg_performance from EmployeeData group by department;
+select * from EmployeeData where salary is null;
+select emp_name,performance_score,attendance_percent from EmployeeData where performance_score>=4.5 and attendance_percent>=9.5;
